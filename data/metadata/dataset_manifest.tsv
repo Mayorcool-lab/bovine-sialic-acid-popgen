@@ -1,0 +1,18 @@
+dataset	source	accession	assembly	breed	country	n	coverage	vcf_type	phased	calling_method	file_size	notes
+African	Dlamini_Gao_2026	PRJEB110435	ARS-UCD1.2	Afrikaner	South Africa	40	6-15x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	75.3GB	QUAL>20_DP>4_only;phasing_confirmed_via_VCF_header
+African	Dlamini_Gao_2026	PRJEB110435	ARS-UCD1.2	Bonsmara	South Africa	20	6-15x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	75.3GB	QUAL>20_DP>4_only;phasing_confirmed_via_VCF_header
+African	Dlamini_Gao_2026	PRJEB110435	ARS-UCD1.2	Nguni	South Africa	40	6-15x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	75.3GB	QUAL>20_DP>4_only;phasing_confirmed_via_VCF_header
+African	Dlamini_Gao_2026	PRJEB110435	ARS-UCD1.2	Tuli	South Africa	20	6-15x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	75.3GB	QUAL>20_DP>4_only;phasing_confirmed_via_VCF_header
+African_filtered	Dlamini_Gao_2026	PRJEB94226	ARS-UCD1.2	all_SA_breeds_above	South Africa	120	6-15x_mean10x	filtered	no	FreeBayes_v1.3.1_population_calling	51.0GB	MAF>=0.05_missing<=0.05_NOT_for_rare_variant_discovery
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Western_Finncattle	Finland	25	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Northern_Finncattle	Finland	25	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Eastern_Finncattle	Finland	25	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Deep_Red	Netherlands	24	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Dutch_Belted	Netherlands	23	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Dutch_Friesian	Netherlands	24	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Meuse_Rhine_Yssel	Netherlands	23	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Groningen_White_Headed	Netherlands	21	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Barrosa	Portugal	28	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Mirandesa	Portugal	27	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Mertolenga	Portugal	29	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	single_VCF_no_separate_filtered_accession
+European	Ginja_2025	PRJEB98152	ARS-UCD1.2	Holstein_Friesian	Finland_Netherlands_Portugal	15	9-16x_mean10x	raw	no	FreeBayes_v1.3.1_population_calling	60.0GB	5_per_country_single_VCF_no_separate_filtered_accession

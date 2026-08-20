@@ -1,0 +1,13 @@
+name: sialic_acid_popgen
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.11
+  - bcftools
+  - samtools
+  - plink=1.90b6.21
+  - vcftools
+  - bedtools
+  - pandas
+  - numpy

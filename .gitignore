@@ -1,0 +1,5 @@
+notes/
+*.csi
+*.tbi
+*.fa.gz
+*.gtf.gz
