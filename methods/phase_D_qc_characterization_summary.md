@@ -79,3 +79,36 @@ Worst individual sites, both cohorts independently:
   removes a modest, defensible minority of genotypes without being overly
   aggressive. Full per-gene breakdown in data/processed/qc_characterization/
   and results/qc/dp_gq_summary.tsv.
+
+## Heterozygosity findings (breed-stratified)
+
+Pooled-cohort heterozygosity (all breeds combined per continent) showed
+elevated mean F (~+0.11-0.14 in both cohorts), consistent with the Wahlund
+effect: pooling genetically distinct breeds inflates apparent homozygosity
+relative to a single-population Hardy-Weinberg expectation.
+
+Breed-stratified recalculation:
+
+**Europe (10 breeds, n>=15 each; Mertolenga n=2 and Mirandesa n=4 excluded
+as too small for stable estimates):**
+All 10 breeds show mean F near zero (range -0.024 to +0.079), confirming
+the pooled elevated F was a population-structure artifact, not real excess
+inbreeding, once animals are compared only within their true breed.
+
+**South Africa (4 breeds, n=20-40 each):**
+Bonsmara (0.012) and Nguni (0.061) normalized similarly to the European
+breeds. Afrikaner (0.156) and Tuli (0.129) remained elevated even after
+breed-stratification. This may reflect genuine breed-specific effective
+population size differences (plausible for Afrikaner, a composite breed
+with documented smaller Ne) or panel-size noise (13-gene panel is a small,
+non-random marker set, not ideal for precise inbreeding estimation).
+Not treated as a data quality problem; noted for correct interpretation
+if these breeds show notable patterns in later population-genetic analyses.
+
+Individual-animal outlier check (pooled, 3 SD threshold): only 1 of 346
+animals flagged. No evidence of individual sample-quality problems.
+
+## Phase D: COMPLETE
+All planned characterization done: DP, GQ, Ts/Tv, per-animal missingness,
+per-site missingness (quantified distribution), site QUAL, heterozygosity
+(pooled and breed-stratified). Ready for Phase E threshold justification.
