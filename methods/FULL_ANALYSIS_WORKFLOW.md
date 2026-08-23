@@ -9,10 +9,10 @@ loci show unusual population differentiation or signatures of selection relative
 to the genome-wide background.
 
 ## Discovery cohorts
-
 **South African cohort**: 120 cattle (Afrikaner 40, Bonsmara 20, Nguni 40, Tuli 20)
-**European cohort**: 289 cattle, 12 breed groups
-**Total**: 409 cattle
+**European cohort**: 226 verified cattle (of 289 total; 63 Portuguese animals excluded pending manual ID verification - see notes/STATUS.md)
+**Total**: 346 cattle
+**No German breed represented** (investigated and closed - see notes/STATUS.md)
 
 ## Candidate network (13 provisional genes)
 
@@ -52,14 +52,12 @@ header-confirmed FreeBayes v1.0.2 alongside the papers' stated v1.3.1, noting
 the discrepancy explicitly rather than picking one as authoritative.
 
 ---
-
-## PHASE B — Targeted 13-gene extraction
-
 ## PHASE B — Targeted 13-gene extraction
 
 B1. South African extraction: DONE. 120 animals, 13 genes, 10,765 raw records.
 B2. European extraction: DONE. 226 verified animals, 13 genes, 7,628 raw
-records. (63 Portuguese animals pending, see notes/STATUS.md)
+regional records. (63 Portuguese animals pending manual verification, see
+notes/STATUS.md)
 
 PHASE B COMPLETE: 346 total animals, 18,393 total raw regional records
 across both cohorts, before normalization/QC.
