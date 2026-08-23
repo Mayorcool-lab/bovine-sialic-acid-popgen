@@ -55,16 +55,14 @@ the discrepancy explicitly rather than picking one as authoritative.
 
 ## PHASE B — Targeted 13-gene extraction
 
-**B1. South African extraction: DONE.** Gene body + strand-aware 2kb upstream,
-all 13 genes, 120 South African animals. 10,765 raw regional VCF records
-(extraction count, not final SNP count).
+## PHASE B — Targeted 13-gene extraction
 
-**B2. European extraction: NEXT STEP.** Repeat identical procedure for 289
-European animals: same ARS-UCD1.2 coordinates, same 2kb upstream rule, same
-extraction script, European source CSI/index, European sample list.
+B1. South African extraction: DONE. 120 animals, 13 genes, 10,765 raw records.
+B2. European extraction: DONE. 226 verified animals, 13 genes, 7,628 raw
+records. (63 Portuguese animals pending, see notes/STATUS.md)
 
-Result target: 13 South African regional VCFs + 13 European regional VCFs.
-
+PHASE B COMPLETE: 346 total animals, 18,393 total raw regional records
+across both cohorts, before normalization/QC.
 ---
 
 ## PHASE C — Normalization
