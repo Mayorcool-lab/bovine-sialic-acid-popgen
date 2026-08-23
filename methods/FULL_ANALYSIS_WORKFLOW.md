@@ -208,3 +208,17 @@ Do not declare selection from one extreme statistic alone. Strongest evidence:
 convergence of high FST + unusual Tajima's D + reduced π + extreme iHS +
 extreme XP-EHH at the same locus. More independent signals converging =
 stronger inference.
+
+## Preliminary manuscript track vs. collaborator handoff (overview)
+
+Handoff package to Aiyesa (after Phase F/G completes) includes:
+- 13 QC-filtered SNP VCFs, both cohorts (South Africa 7,552 / Europe 6,439)
+- VEP annotation results (consequence, transcript, AA change, impact)
+- 409-animal metadata (breed, country, dataset)
+- README stating exact QC methodology applied and explicit scope limits:
+  this package supports within-gene diversity and targeted breed-level
+  differentiation, but NOT PCA/ADMIXTURE/genome-background FST/selection
+  scans, which require his separately-built genome-wide dataset.
+
+Idowu/Mtileni engage once Aiyesa's population-structure/differentiation
+results exist, for biological/breed interpretation, not before.
