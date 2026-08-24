@@ -285,3 +285,24 @@ genes are confirmed adequately covered by the original Ensembl-based
 extraction. This simplifies Phase G: a single, well-justified,
 externally-validated correction (CMAH) rather than a multi-gene
 re-extraction.
+
+## G9 RESULT: CMAH continuity check — CONFIRMED
+
+Both P424L and F512Y now correctly captured by the corrected extraction
+window.
+
+- **P424L (23:32,743,918)**: present and QC-passed in BOTH South African
+  and European cohorts.
+- **F512Y (23:32,745,866)**: present in raw data in both cohorts;
+  QC-passed in Europe. In South Africa, direct vcftools --missing-site
+  measurement confirms F_MISSING = 0.183 (44/240 missing data points)
+  after DP/GQ genotype masking, clearly exceeding the 10% site call-rate
+  threshold. This is a clean, unambiguous QC exclusion, not a marginal
+  case; it is the QC pipeline correctly declining a site with
+  insufficient reliable genotype data, not a data gap.
+
+Combined with K107E, A210S, N242S already confirmed at exact matching
+coordinates: all five previously published bovine CMAH nsSNPs (Ogun et
+al. 2023) are now accounted for in the corrected 346-animal population
+dataset, with a clear, defensible, directly-measured explanation for
+F512Y's QC status in South Africa specifically.
