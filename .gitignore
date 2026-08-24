@@ -3,3 +3,4 @@ notes/
 *.tbi
 *.fa.gz
 *.gtf.gz
+data/reference/vep_cache/
