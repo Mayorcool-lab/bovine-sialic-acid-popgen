@@ -255,3 +255,33 @@ previously published missense variants (P424L, F512Y; Ogun et al. 2023)
 that fall within RefSeq-annotated but not Ensembl-annotated CMAH coding
 sequence, likely reflecting differing gene models between the two
 annotation databases for this locus.
+
+## G1 CORRECTION: GNE re-assessed using curated vs. predicted transcript distinction
+
+Initial pooled-CDS check flagged GNE (RefSeq CDS max 60,554,025 vs.
+extraction window end 60,530,253). Deeper investigation, checking each
+of GNE's 4 RefSeq transcripts individually, resolves this:
+
+| Transcript | Type | CDS max | Status |
+|---|---|---|---|
+| NM_001191143.3 | Curated (RefSeq-reviewed) | 60,528,253 | Exactly matches Ensembl/extraction boundary |
+| XM_010807952.3 | Predicted (Gnomon) | 60,528,253 | Matches |
+| XM_024995994.1 | Predicted (Gnomon) | 60,520,832 | Within window |
+| XM_005210123.4 | Predicted (Gnomon) | 60,554,025 | Only this one extends beyond window |
+
+### Revised conclusion
+GNE's curated, RefSeq-reviewed transcript (NM_001191143.3) has its
+entire CDS fully contained within the original Ensembl-based extraction
+window. Only one of three computationally-predicted (Gnomon) isoforms
+extends beyond it, with no external/published validation that this
+predicted extension is biologically real or relevant. This differs
+fundamentally from CMAH, where the extended region is independently
+validated by real, published, peer-reviewed missense variants (P424L,
+F512Y; Ogun et al. 2023) using the exact transcript in question.
+
+### FINAL G1 DECISION
+Only CMAH requires extraction window correction. GNE and the other 11
+genes are confirmed adequately covered by the original Ensembl-based
+extraction. This simplifies Phase G: a single, well-justified,
+externally-validated correction (CMAH) rather than a multi-gene
+re-extraction.
