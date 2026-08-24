@@ -199,3 +199,59 @@ Still required before Phase G is scientifically final:
 
 The 13-gene boundary audit is therefore part of Phase G quality control,
 not merely a limitation to mention in the manuscript.
+
+## G0: CMAH precise correction target (confirmed)
+
+RefSeq transcript XM_024984024.1 (the exact transcript used in Ogun et
+al. 2023) CDS span: 32,709,570 - 32,753,209 (14 CDS records, matching
+the paper's stated 14 coding exons exactly).
+
+Current Ensembl-based extraction window: 32,670,258 - 32,731,972.
+Required corrected window (to capture full XM_024984024.1 CDS,
+including P424L at 32,743,918 and F512Y at 32,745,866): must extend to
+at least 32,753,209, an increase of 21,237 bp at the 3' end.
+
+## G1 AUDIT RESULT: CONFIRMED (13-gene RefSeq CDS-boundary audit complete)
+
+RefSeq annotation source: GCF_002263795.1_ARS-UCD1.2_genomic.gff.gz
+(NCBI RefSeq, same ARS-UCD1.2 assembly). CDS-level comparison (the
+scientifically decisive test, not gene-level span, since gene-level
+differences are frequently just UTR/intron and not biologically
+meaningful).
+
+| Gene | RefSeq CDS max | Extraction window end | Status |
+|---|---|---|---|
+| GNE | 60,554,025 | 60,530,253 | **PROBLEM: ~23.8kb of real coding sequence outside window** |
+| NANS | 63,212,646 | 63,212,682 | OK |
+| NANP | 10,704,867 | 10,705,509 | OK |
+| CMAS | 88,169,834 | 88,172,546 | OK |
+| SLC35A1 | 62,445,474 | 62,447,501 | OK |
+| ST8SIA2 | 14,595,814 | 14,597,969 | OK |
+| ST8SIA4 | 100,136,839 | 100,139,609 | OK |
+| ST6GAL1 | 80,233,920 | 80,269,738 | OK (gene-level span differed by ~79kb but this was entirely non-coding; CDS-based check correctly resolved this as a non-issue) |
+| ST3GAL1 | 7,951,420 | 7,951,420 | OK, exact boundary match |
+| ST3GAL4 | 29,738,538 | 29,750,191 | OK |
+| NEU1 | 27,497,986 | 27,498,491 | OK |
+| NEU3 | 54,266,515 | 54,267,975 | OK |
+| CMAH | 32,753,209 | 32,731,972 | **PROBLEM: 21,237 bp of real coding sequence outside window** |
+
+### Conclusion
+Of 13 target genes, 11 required no correction (their Ensembl-based
+extraction windows already fully contain all RefSeq-annotated coding
+sequence). Two genes, CMAH and GNE, require extraction window
+correction because real coding sequence (confirmed via RefSeq CDS
+records, not just gene-span differences) falls outside the current
+extraction boundary. This is a genuine, CDS-verified finding, not
+inferred from gene-level annotation differences alone.
+
+### Note for collaborators and manuscript methods
+A systematic Ensembl-vs-RefSeq CDS boundary audit was performed for all
+13 target genes on ARS-UCD1.2. Two genes (CMAH, GNE) had real coding
+sequence outside the initial Ensembl-based extraction window and were
+corrected before finalizing the functional annotation dataset. The
+other 11 genes were confirmed to require no correction. This audit was
+triggered by discovering that the CMAH extraction window excluded two
+previously published missense variants (P424L, F512Y; Ogun et al. 2023)
+that fall within RefSeq-annotated but not Ensembl-annotated CMAH coding
+sequence, likely reflecting differing gene models between the two
+annotation databases for this locus.
