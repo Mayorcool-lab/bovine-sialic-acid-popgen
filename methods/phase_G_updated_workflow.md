@@ -306,3 +306,26 @@ coordinates: all five previously published bovine CMAH nsSNPs (Ogun et
 al. 2023) are now accounted for in the corrected 346-animal population
 dataset, with a clear, defensible, directly-measured explanation for
 F512Y's QC status in South Africa specifically.
+
+## G3 COMPLETE: Corrected union variant set
+
+Rebuilt from scratch using corrected CMAH QC data (13-gene set: 12
+unchanged genes + corrected CMAH), not estimated by adding deltas to
+the old union (since shared variants must be recalculated, not assumed
+additive).
+
+| Category | Original union | Corrected union | Change |
+|---|---|---|---|
+| South Africa total | 7,552 | 7,920 | +368 (matches CMAH SA QC gain exactly) |
+| Europe total | 6,439 | 6,846 | +407 (matches CMAH EU QC gain exactly) |
+| Shared | 4,230 | 4,505 | +275 |
+| SA-only | 3,322 | 3,415 | +93 |
+| EU-only | 2,209 | 2,341 | +132 |
+| **Total unique union** | **9,761** | **10,261** | **+500** |
+
+Verified internally consistent: 4,505 + 3,415 + 2,341 = 10,261. SA and
+EU total deltas exactly match the CMAH-specific gains confirmed in G2,
+confirming no other gene was inadvertently affected by this rebuild.
+
+Saved: data/processed/vep_input/union_variants_corrected.tsv (10,261
+unique variants, ready for VEP re-annotation, G4).
