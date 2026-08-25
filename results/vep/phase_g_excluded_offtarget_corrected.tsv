@@ -1,0 +1,538 @@
+CHROM	POS	REF	ALT	SYMBOL	Gene	Feature	Consequence	IMPACT	BIOTYPE	EXON	INTRON	HGVSc	HGVSp	Protein_position	Amino_acids	Codons	Existing_variation	CANONICAL
+23	27493028	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		18/20							YES
+23	27493029	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		18/20							YES
+23	27493079	C	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	synonymous_variant	LOW	protein_coding	19/21				618	R	cgC/cgA		YES
+23	27493149	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	splice_region_variant&intron_variant	LOW	protein_coding		19/20							YES
+23	27493292	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	synonymous_variant	LOW	protein_coding	20/21				650	S	agC/agT		YES
+23	27493302	A	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	missense_variant	MODERATE	protein_coding	20/21				654	S/G	Agt/Ggt		YES
+23	27493434	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493480	G	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493532	T	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493544	C	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493547	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493591	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493606	T	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493618	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493633	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493648	A	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493710	T	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493807	T	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493919	G	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493920	T	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493965	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27493970	G	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	intron_variant	MODIFIER	protein_coding		20/20							YES
+23	27494085	C	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	missense_variant	MODERATE	protein_coding	21/21				700	P/R	cCg/cGg		YES
+23	27494111	A	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	3_prime_UTR_variant	MODIFIER	protein_coding	21/21								YES
+23	27498014	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498096	G	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498117	C	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498137	G	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498175	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498187	C	T	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498320	T	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498405	G	A	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498444	A	G	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	27498476	A	C	SLC44A4	ENSBTAG00000005675	ENSBTAT00000045367	downstream_gene_variant	MODIFIER	protein_coding									YES
+23	32737048	A	C				intergenic_variant	MODIFIER										
+23	32737066	G	A				intergenic_variant	MODIFIER										
+23	32737077	A	G				intergenic_variant	MODIFIER										
+23	32737184	C	T				intergenic_variant	MODIFIER										
+23	32737199	A	G				intergenic_variant	MODIFIER										
+23	32737230	G	A				intergenic_variant	MODIFIER										
+23	32737240	G	A				intergenic_variant	MODIFIER										
+23	32737245	C	G				intergenic_variant	MODIFIER										
+23	32737307	A	G				intergenic_variant	MODIFIER										
+23	32737328	C	A				intergenic_variant	MODIFIER										
+23	32737337	G	A				intergenic_variant	MODIFIER										
+23	32737366	C	T				intergenic_variant	MODIFIER										
+23	32737372	C	T				intergenic_variant	MODIFIER										
+23	32737393	G	C				intergenic_variant	MODIFIER										
+23	32737463	C	G				intergenic_variant	MODIFIER										
+23	32737468	T	C				intergenic_variant	MODIFIER										
+23	32737516	T	C				intergenic_variant	MODIFIER										
+23	32737581	C	T				intergenic_variant	MODIFIER										
+23	32737623	T	G				intergenic_variant	MODIFIER										
+23	32737668	C	T				intergenic_variant	MODIFIER										
+23	32737671	G	T				intergenic_variant	MODIFIER										
+23	32737703	G	A				intergenic_variant	MODIFIER										
+23	32737705	G	A				intergenic_variant	MODIFIER										
+23	32737739	T	C				intergenic_variant	MODIFIER										
+23	32737760	C	G				intergenic_variant	MODIFIER										
+23	32737800	T	G				intergenic_variant	MODIFIER										
+23	32737801	G	T				intergenic_variant	MODIFIER										
+23	32737803	G	A				intergenic_variant	MODIFIER										
+23	32737832	T	G				intergenic_variant	MODIFIER										
+23	32737849	G	A				intergenic_variant	MODIFIER										
+23	32737910	T	C				intergenic_variant	MODIFIER										
+23	32737911	G	A				intergenic_variant	MODIFIER										
+23	32737919	T	C				intergenic_variant	MODIFIER										
+23	32737923	T	C				intergenic_variant	MODIFIER										
+23	32737947	G	T				intergenic_variant	MODIFIER										
+23	32737975	G	A				intergenic_variant	MODIFIER										
+23	32738005	C	T				intergenic_variant	MODIFIER										
+23	32738040	G	A				intergenic_variant	MODIFIER										
+23	32738090	C	G				intergenic_variant	MODIFIER										
+23	32738178	G	A				intergenic_variant	MODIFIER										
+23	32738186	G	A				intergenic_variant	MODIFIER										
+23	32738209	T	C				intergenic_variant	MODIFIER										
+23	32738215	T	A				intergenic_variant	MODIFIER										
+23	32738250	C	T				intergenic_variant	MODIFIER										
+23	32738264	T	C				intergenic_variant	MODIFIER										
+23	32738531	A	T				intergenic_variant	MODIFIER										
+23	32738536	C	T				intergenic_variant	MODIFIER										
+23	32738545	G	A				intergenic_variant	MODIFIER										
+23	32738558	G	A				intergenic_variant	MODIFIER										
+23	32738572	A	G				intergenic_variant	MODIFIER										
+23	32738575	T	A				intergenic_variant	MODIFIER										
+23	32738588	G	A				intergenic_variant	MODIFIER										
+23	32738601	C	T				intergenic_variant	MODIFIER										
+23	32738618	C	T				intergenic_variant	MODIFIER										
+23	32738642	C	G				intergenic_variant	MODIFIER										
+23	32738644	G	A				intergenic_variant	MODIFIER										
+23	32738694	G	A				intergenic_variant	MODIFIER										
+23	32738711	C	T				intergenic_variant	MODIFIER										
+23	32738714	C	A				intergenic_variant	MODIFIER										
+23	32738725	C	T				intergenic_variant	MODIFIER										
+23	32738745	A	G				intergenic_variant	MODIFIER										
+23	32738794	T	C				intergenic_variant	MODIFIER										
+23	32738799	T	G				intergenic_variant	MODIFIER										
+23	32738806	T	C				intergenic_variant	MODIFIER										
+23	32738848	A	G				intergenic_variant	MODIFIER										
+23	32738949	A	G				intergenic_variant	MODIFIER										
+23	32738963	C	T				intergenic_variant	MODIFIER										
+23	32739069	T	C				intergenic_variant	MODIFIER										
+23	32739111	T	C				intergenic_variant	MODIFIER										
+23	32739116	C	G				intergenic_variant	MODIFIER										
+23	32739127	A	G				intergenic_variant	MODIFIER										
+23	32739179	C	T				intergenic_variant	MODIFIER										
+23	32739204	A	G				intergenic_variant	MODIFIER										
+23	32739233	C	T				intergenic_variant	MODIFIER										
+23	32739235	C	T				intergenic_variant	MODIFIER										
+23	32739285	A	G				intergenic_variant	MODIFIER										
+23	32739292	C	G				intergenic_variant	MODIFIER										
+23	32739399	A	G				intergenic_variant	MODIFIER										
+23	32739454	G	A				intergenic_variant	MODIFIER										
+23	32739852	C	T				intergenic_variant	MODIFIER										
+23	32739853	G	A				intergenic_variant	MODIFIER										
+23	32739854	T	G				intergenic_variant	MODIFIER										
+23	32739865	T	A				intergenic_variant	MODIFIER										
+23	32739888	C	T				intergenic_variant	MODIFIER										
+23	32739913	A	G				intergenic_variant	MODIFIER										
+23	32739972	G	A				intergenic_variant	MODIFIER										
+23	32740033	A	G				intergenic_variant	MODIFIER										
+23	32740082	T	C				intergenic_variant	MODIFIER										
+23	32740089	A	C				intergenic_variant	MODIFIER										
+23	32740101	G	T				intergenic_variant	MODIFIER										
+23	32740172	A	T				intergenic_variant	MODIFIER										
+23	32740182	C	T				intergenic_variant	MODIFIER										
+23	32740212	C	T				intergenic_variant	MODIFIER										
+23	32740213	G	A				intergenic_variant	MODIFIER										
+23	32740259	T	A				intergenic_variant	MODIFIER										
+23	32740305	A	G				intergenic_variant	MODIFIER										
+23	32740362	A	G				intergenic_variant	MODIFIER										
+23	32740433	C	T				intergenic_variant	MODIFIER										
+23	32740435	C	T				intergenic_variant	MODIFIER										
+23	32740437	G	C				intergenic_variant	MODIFIER										
+23	32740447	T	A				intergenic_variant	MODIFIER										
+23	32740481	A	G				intergenic_variant	MODIFIER										
+23	32740482	G	C				intergenic_variant	MODIFIER										
+23	32740556	G	A				intergenic_variant	MODIFIER										
+23	32740633	C	T				intergenic_variant	MODIFIER										
+23	32740634	G	A				intergenic_variant	MODIFIER										
+23	32740642	G	T				intergenic_variant	MODIFIER										
+23	32740673	G	A				intergenic_variant	MODIFIER										
+23	32740677	C	G				intergenic_variant	MODIFIER										
+23	32740678	T	G				intergenic_variant	MODIFIER										
+23	32740680	A	G				intergenic_variant	MODIFIER										
+23	32740696	G	A				intergenic_variant	MODIFIER										
+23	32740697	T	G				intergenic_variant	MODIFIER										
+23	32740809	C	T				intergenic_variant	MODIFIER										
+23	32740810	G	A				intergenic_variant	MODIFIER										
+23	32740818	A	G				intergenic_variant	MODIFIER										
+23	32740824	A	G				intergenic_variant	MODIFIER										
+23	32740830	G	C				intergenic_variant	MODIFIER										
+23	32740845	A	C				intergenic_variant	MODIFIER										
+23	32740870	A	C				intergenic_variant	MODIFIER										
+23	32740883	A	T				intergenic_variant	MODIFIER										
+23	32740887	C	G				intergenic_variant	MODIFIER										
+23	32740928	G	A				intergenic_variant	MODIFIER										
+23	32740933	A	G				intergenic_variant	MODIFIER										
+23	32740977	G	A				intergenic_variant	MODIFIER										
+23	32741011	C	T				intergenic_variant	MODIFIER										
+23	32741088	C	T				intergenic_variant	MODIFIER										
+23	32741098	A	T				intergenic_variant	MODIFIER										
+23	32741128	C	G				intergenic_variant	MODIFIER										
+23	32741192	A	C				intergenic_variant	MODIFIER										
+23	32741193	C	A				intergenic_variant	MODIFIER										
+23	32741194	G	A				intergenic_variant	MODIFIER										
+23	32741257	C	T				intergenic_variant	MODIFIER										
+23	32741258	G	A				intergenic_variant	MODIFIER										
+23	32741264	T	C				intergenic_variant	MODIFIER										
+23	32741299	G	A				intergenic_variant	MODIFIER										
+23	32741308	T	C				intergenic_variant	MODIFIER										
+23	32741321	A	G				intergenic_variant	MODIFIER										
+23	32741327	C	T				intergenic_variant	MODIFIER										
+23	32741405	G	A				intergenic_variant	MODIFIER										
+23	32741456	T	A				intergenic_variant	MODIFIER										
+23	32741463	G	A				intergenic_variant	MODIFIER										
+23	32741471	G	A				intergenic_variant	MODIFIER										
+23	32741514	C	T				intergenic_variant	MODIFIER										
+23	32741547	C	T				intergenic_variant	MODIFIER										
+23	32741553	G	T				intergenic_variant	MODIFIER										
+23	32741608	G	A				intergenic_variant	MODIFIER										
+23	32741670	C	T				intergenic_variant	MODIFIER										
+23	32741676	C	G				intergenic_variant	MODIFIER										
+23	32741696	C	T				intergenic_variant	MODIFIER										
+23	32741736	G	T				intergenic_variant	MODIFIER										
+23	32741764	T	C				intergenic_variant	MODIFIER										
+23	32741768	C	T				intergenic_variant	MODIFIER										
+23	32741769	A	G				intergenic_variant	MODIFIER										
+23	32741770	A	G				intergenic_variant	MODIFIER										
+23	32741778	A	G				intergenic_variant	MODIFIER										
+23	32741788	A	C				intergenic_variant	MODIFIER										
+23	32741904	C	T				intergenic_variant	MODIFIER										
+23	32741983	A	T				intergenic_variant	MODIFIER										
+23	32742127	G	A				intergenic_variant	MODIFIER										
+23	32742254	G	A				intergenic_variant	MODIFIER										
+23	32742336	G	A				intergenic_variant	MODIFIER										
+23	32742354	G	A				intergenic_variant	MODIFIER										
+23	32742356	T	C				intergenic_variant	MODIFIER										
+23	32742395	A	G				intergenic_variant	MODIFIER										
+23	32742479	C	A				intergenic_variant	MODIFIER										
+23	32742513	C	T				intergenic_variant	MODIFIER										
+23	32742515	G	A				intergenic_variant	MODIFIER										
+23	32742525	A	G				intergenic_variant	MODIFIER										
+23	32742590	C	A				intergenic_variant	MODIFIER										
+23	32742658	A	C				intergenic_variant	MODIFIER										
+23	32742684	C	G				intergenic_variant	MODIFIER										
+23	32742769	G	A				intergenic_variant	MODIFIER										
+23	32742808	C	T				intergenic_variant	MODIFIER										
+23	32742901	G	A				intergenic_variant	MODIFIER										
+23	32742941	A	G				intergenic_variant	MODIFIER										
+23	32742951	G	A				intergenic_variant	MODIFIER										
+23	32742994	A	G				intergenic_variant	MODIFIER										
+23	32743013	A	G				intergenic_variant	MODIFIER										
+23	32743035	C	T				intergenic_variant	MODIFIER										
+23	32743176	C	T				intergenic_variant	MODIFIER										
+23	32743177	G	A				intergenic_variant	MODIFIER										
+23	32743266	C	T				intergenic_variant	MODIFIER										
+23	32743334	C	T				intergenic_variant	MODIFIER										
+23	32743484	G	A				intergenic_variant	MODIFIER										
+23	32743518	G	A				intergenic_variant	MODIFIER										
+23	32743522	C	T				intergenic_variant	MODIFIER										
+23	32743578	T	C				intergenic_variant	MODIFIER										
+23	32743642	T	G				intergenic_variant	MODIFIER										
+23	32743734	C	T				intergenic_variant	MODIFIER										
+23	32743918	C	T				intergenic_variant	MODIFIER										
+23	32744091	A	G				intergenic_variant	MODIFIER										
+23	32744159	T	A				intergenic_variant	MODIFIER										
+23	32744342	C	T				intergenic_variant	MODIFIER										
+23	32744349	T	G				intergenic_variant	MODIFIER										
+23	32744387	T	C				intergenic_variant	MODIFIER										
+23	32744453	G	A				intergenic_variant	MODIFIER										
+23	32744459	A	G				intergenic_variant	MODIFIER										
+23	32744464	G	A				intergenic_variant	MODIFIER										
+23	32744501	A	C				intergenic_variant	MODIFIER										
+23	32744508	C	T				intergenic_variant	MODIFIER										
+23	32744560	G	C				intergenic_variant	MODIFIER										
+23	32744591	A	C				intergenic_variant	MODIFIER										
+23	32744665	C	T				intergenic_variant	MODIFIER										
+23	32744692	G	A				intergenic_variant	MODIFIER										
+23	32744751	C	T				intergenic_variant	MODIFIER										
+23	32744788	C	T				intergenic_variant	MODIFIER										
+23	32744789	G	A				intergenic_variant	MODIFIER										
+23	32744802	T	G				intergenic_variant	MODIFIER										
+23	32744808	A	G				intergenic_variant	MODIFIER										
+23	32744876	A	C				intergenic_variant	MODIFIER										
+23	32744897	G	A				intergenic_variant	MODIFIER										
+23	32744911	C	T				intergenic_variant	MODIFIER										
+23	32744959	C	G				intergenic_variant	MODIFIER										
+23	32744968	G	T				intergenic_variant	MODIFIER										
+23	32744995	T	A				intergenic_variant	MODIFIER										
+23	32745057	G	T				intergenic_variant	MODIFIER										
+23	32745059	G	A				intergenic_variant	MODIFIER										
+23	32745072	G	A				intergenic_variant	MODIFIER										
+23	32745074	A	G				intergenic_variant	MODIFIER										
+23	32745142	A	G				intergenic_variant	MODIFIER										
+23	32745200	T	C				intergenic_variant	MODIFIER										
+23	32745236	A	G				intergenic_variant	MODIFIER										
+23	32745259	A	G				intergenic_variant	MODIFIER										
+23	32745292	T	G				intergenic_variant	MODIFIER										
+23	32745299	G	A				intergenic_variant	MODIFIER										
+23	32745378	G	A				intergenic_variant	MODIFIER										
+23	32745391	T	C				intergenic_variant	MODIFIER										
+23	32745437	T	C				intergenic_variant	MODIFIER										
+23	32745547	G	A				intergenic_variant	MODIFIER										
+23	32745594	G	A				intergenic_variant	MODIFIER										
+23	32745597	A	G				intergenic_variant	MODIFIER										
+23	32745599	A	G				intergenic_variant	MODIFIER										
+23	32745649	T	A				intergenic_variant	MODIFIER										
+23	32745660	C	G				intergenic_variant	MODIFIER										
+23	32745705	T	G				intergenic_variant	MODIFIER										
+23	32745866	T	A				intergenic_variant	MODIFIER										
+23	32745958	A	T				intergenic_variant	MODIFIER										
+23	32745997	C	T				intergenic_variant	MODIFIER										
+23	32746000	C	T				intergenic_variant	MODIFIER										
+23	32746056	C	T				intergenic_variant	MODIFIER										
+23	32746067	G	A				intergenic_variant	MODIFIER										
+23	32746162	G	A				intergenic_variant	MODIFIER										
+23	32746185	A	G				intergenic_variant	MODIFIER										
+23	32746199	G	A				intergenic_variant	MODIFIER										
+23	32746286	C	T				intergenic_variant	MODIFIER										
+23	32746287	G	A				intergenic_variant	MODIFIER										
+23	32746318	C	T				intergenic_variant	MODIFIER										
+23	32746345	A	G				intergenic_variant	MODIFIER										
+23	32746364	A	T				intergenic_variant	MODIFIER										
+23	32746460	C	G				intergenic_variant	MODIFIER										
+23	32746482	G	A				intergenic_variant	MODIFIER										
+23	32746527	G	A				intergenic_variant	MODIFIER										
+23	32746664	C	T				intergenic_variant	MODIFIER										
+23	32746785	T	C				intergenic_variant	MODIFIER										
+23	32746791	T	C				intergenic_variant	MODIFIER										
+23	32746822	G	A				intergenic_variant	MODIFIER										
+23	32746830	G	A				intergenic_variant	MODIFIER										
+23	32746872	T	G				intergenic_variant	MODIFIER										
+23	32746878	T	C				intergenic_variant	MODIFIER										
+23	32746914	T	C				intergenic_variant	MODIFIER										
+23	32746938	A	C				intergenic_variant	MODIFIER										
+23	32746954	T	C				intergenic_variant	MODIFIER										
+23	32747000	T	C				intergenic_variant	MODIFIER										
+23	32747009	G	A				intergenic_variant	MODIFIER										
+23	32747076	C	T				intergenic_variant	MODIFIER										
+23	32747124	C	T				intergenic_variant	MODIFIER										
+23	32747153	A	G				intergenic_variant	MODIFIER										
+23	32747167	A	G				intergenic_variant	MODIFIER										
+23	32747292	C	T				intergenic_variant	MODIFIER										
+23	32747293	G	A				intergenic_variant	MODIFIER										
+23	32747329	A	G				intergenic_variant	MODIFIER										
+23	32747393	G	T				intergenic_variant	MODIFIER										
+23	32747452	G	T				intergenic_variant	MODIFIER										
+23	32747492	C	T				intergenic_variant	MODIFIER										
+23	32747645	C	A				intergenic_variant	MODIFIER										
+23	32747731	C	T				intergenic_variant	MODIFIER										
+23	32747732	G	A				intergenic_variant	MODIFIER										
+23	32747758	G	A				intergenic_variant	MODIFIER										
+23	32747861	T	C				intergenic_variant	MODIFIER										
+23	32747863	C	T				intergenic_variant	MODIFIER										
+23	32747926	T	A				intergenic_variant	MODIFIER										
+23	32747947	T	C				intergenic_variant	MODIFIER										
+23	32747972	C	A				intergenic_variant	MODIFIER										
+23	32748044	C	T				intergenic_variant	MODIFIER										
+23	32748053	G	C				intergenic_variant	MODIFIER										
+23	32748186	G	C				intergenic_variant	MODIFIER										
+23	32748269	G	C				intergenic_variant	MODIFIER										
+23	32748295	T	C				intergenic_variant	MODIFIER										
+23	32748376	A	T				intergenic_variant	MODIFIER										
+23	32748409	C	T				intergenic_variant	MODIFIER										
+23	32748418	A	T				intergenic_variant	MODIFIER										
+23	32748446	C	T				intergenic_variant	MODIFIER										
+23	32748521	T	C				intergenic_variant	MODIFIER										
+23	32748564	T	C				intergenic_variant	MODIFIER										
+23	32748614	C	T				intergenic_variant	MODIFIER										
+23	32748635	C	T				intergenic_variant	MODIFIER										
+23	32748642	C	T				intergenic_variant	MODIFIER										
+23	32748673	G	A				intergenic_variant	MODIFIER										
+23	32748697	A	G				intergenic_variant	MODIFIER										
+23	32748721	T	C				intergenic_variant	MODIFIER										
+23	32748756	C	T				intergenic_variant	MODIFIER										
+23	32748790	A	G				intergenic_variant	MODIFIER										
+23	32748864	C	G				intergenic_variant	MODIFIER										
+23	32748875	C	T				intergenic_variant	MODIFIER										
+23	32748924	C	T				intergenic_variant	MODIFIER										
+23	32748939	C	A				intergenic_variant	MODIFIER										
+23	32748956	A	C				intergenic_variant	MODIFIER										
+23	32748974	G	A				intergenic_variant	MODIFIER										
+23	32749013	A	G				intergenic_variant	MODIFIER										
+23	32749129	C	G				intergenic_variant	MODIFIER										
+23	32749147	G	C				intergenic_variant	MODIFIER										
+23	32749156	C	T				intergenic_variant	MODIFIER										
+23	32749161	G	A				intergenic_variant	MODIFIER										
+23	32749166	C	T				intergenic_variant	MODIFIER										
+23	32749247	T	C				intergenic_variant	MODIFIER										
+23	32749249	A	G				intergenic_variant	MODIFIER										
+23	32749254	A	G				intergenic_variant	MODIFIER										
+23	32749290	T	A				intergenic_variant	MODIFIER										
+23	32749328	T	A				intergenic_variant	MODIFIER										
+23	32749329	C	T				intergenic_variant	MODIFIER										
+23	32749332	C	G				intergenic_variant	MODIFIER										
+23	32749333	G	C				intergenic_variant	MODIFIER										
+23	32749364	T	A				intergenic_variant	MODIFIER										
+23	32749366	T	C				intergenic_variant	MODIFIER										
+23	32749375	A	G				intergenic_variant	MODIFIER										
+23	32749437	A	G				intergenic_variant	MODIFIER										
+23	32749510	C	T				intergenic_variant	MODIFIER										
+23	32749605	G	A				intergenic_variant	MODIFIER										
+23	32749667	G	A				intergenic_variant	MODIFIER										
+23	32749726	G	A				intergenic_variant	MODIFIER										
+23	32749749	T	C				intergenic_variant	MODIFIER										
+23	32749758	A	G				intergenic_variant	MODIFIER										
+23	32749822	A	G				intergenic_variant	MODIFIER										
+23	32749845	A	G				intergenic_variant	MODIFIER										
+23	32749862	T	C				intergenic_variant	MODIFIER										
+23	32749920	C	T				intergenic_variant	MODIFIER										
+23	32749932	C	T				intergenic_variant	MODIFIER										
+23	32750001	A	G				intergenic_variant	MODIFIER										
+23	32750236	C	T				intergenic_variant	MODIFIER										
+23	32750358	G	T				intergenic_variant	MODIFIER										
+23	32750383	C	T				intergenic_variant	MODIFIER										
+23	32750388	T	A				intergenic_variant	MODIFIER										
+23	32750497	A	T				intergenic_variant	MODIFIER										
+23	32750567	G	A				intergenic_variant	MODIFIER										
+23	32750613	G	C				intergenic_variant	MODIFIER										
+23	32750628	T	A				intergenic_variant	MODIFIER										
+23	32750840	G	A				intergenic_variant	MODIFIER										
+23	32750863	C	T				intergenic_variant	MODIFIER										
+23	32750867	T	G				intergenic_variant	MODIFIER										
+23	32750895	T	G				intergenic_variant	MODIFIER										
+23	32750931	T	C				intergenic_variant	MODIFIER										
+23	32751002	T	A				intergenic_variant	MODIFIER										
+23	32751005	A	T				intergenic_variant	MODIFIER										
+23	32751030	C	T				intergenic_variant	MODIFIER										
+23	32751031	G	A				intergenic_variant	MODIFIER										
+23	32751079	G	A				intergenic_variant	MODIFIER										
+23	32751085	C	T				intergenic_variant	MODIFIER										
+23	32751100	A	G				intergenic_variant	MODIFIER										
+23	32751194	C	T				intergenic_variant	MODIFIER										
+23	32751346	G	C				intergenic_variant	MODIFIER										
+23	32751411	G	A				intergenic_variant	MODIFIER										
+23	32751484	A	G				intergenic_variant	MODIFIER										
+23	32751546	C	T				intergenic_variant	MODIFIER										
+23	32751650	G	A				intergenic_variant	MODIFIER										
+23	32751761	G	A				intergenic_variant	MODIFIER										
+23	32751820	C	T				intergenic_variant	MODIFIER										
+23	32752025	T	C				intergenic_variant	MODIFIER										
+23	32752040	G	A				intergenic_variant	MODIFIER										
+23	32752183	C	T				intergenic_variant	MODIFIER										
+23	32752412	G	A				intergenic_variant	MODIFIER										
+23	32752488	C	T				intergenic_variant	MODIFIER										
+23	32752496	T	C				intergenic_variant	MODIFIER										
+23	32752503	T	C				intergenic_variant	MODIFIER										
+23	32752512	G	A				intergenic_variant	MODIFIER										
+23	32752518	A	T				intergenic_variant	MODIFIER										
+23	32752527	T	C				intergenic_variant	MODIFIER										
+23	32752544	T	A				intergenic_variant	MODIFIER										
+23	32752545	A	T				intergenic_variant	MODIFIER										
+23	32752573	G	A				intergenic_variant	MODIFIER										
+23	32752589	G	A				intergenic_variant	MODIFIER										
+23	32752608	T	A				intergenic_variant	MODIFIER										
+23	32752721	A	G				intergenic_variant	MODIFIER										
+23	32752768	A	C				intergenic_variant	MODIFIER										
+23	32752804	C	T				intergenic_variant	MODIFIER										
+23	32752829	C	T				intergenic_variant	MODIFIER										
+23	32752830	G	A				intergenic_variant	MODIFIER										
+23	32752837	T	G				intergenic_variant	MODIFIER										
+23	32752902	T	C				intergenic_variant	MODIFIER										
+23	32752934	C	T				intergenic_variant	MODIFIER										
+23	32752972	C	T				intergenic_variant	MODIFIER										
+23	32752982	C	T				intergenic_variant	MODIFIER										
+23	32753008	A	G				intergenic_variant	MODIFIER										
+29	29743728	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29743794	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29743824	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29743901	C	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744051	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744099	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744195	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744262	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744285	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744299	A	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744399	C	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744443	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744495	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744578	G	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744609	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744625	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744671	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744742	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744747	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744839	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29744985	C	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745167	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745192	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745218	C	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745305	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745366	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745383	G	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745520	G	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745583	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745634	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745676	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745720	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745752	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745753	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745931	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745943	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745957	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745958	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29745989	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746101	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746213	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746227	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746228	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746246	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746272	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746290	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746521	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746566	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746626	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746659	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746725	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746744	G	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746817	A	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746820	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746876	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746904	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746963	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746984	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29746989	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747003	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747040	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747105	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747137	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747269	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747325	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747495	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747577	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747595	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747606	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747765	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747807	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29747889	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748204	T	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748226	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748229	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748291	C	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748367	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748503	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748528	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748564	G	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748571	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	downstream_gene_variant	MODIFIER	protein_coding									YES
+29	29748812	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	synonymous_variant	LOW	protein_coding	16/16				705	D	gaT/gaC		YES
+29	29748893	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	synonymous_variant	LOW	protein_coding	16/16				678	F	ttC/ttT		YES
+29	29748901	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	synonymous_variant	LOW	protein_coding	16/16				676	R	Cgg/Agg		YES
+29	29748970	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	missense_variant	MODERATE	protein_coding	16/16				653	G/S	Ggc/Agc		YES
+29	29749091	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	synonymous_variant	LOW	protein_coding	16/16				612	E	gaA/gaG		YES
+29	29749167	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749218	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749313	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749328	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749485	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749567	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749609	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749631	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749651	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749654	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749664	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749684	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749690	A	G	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749721	T	C	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749734	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749764	G	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749785	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749806	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29749812	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29750079	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29750100	C	T	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+29	29750101	G	A	KIRREL3	ENSBTAG00000006804	ENSBTAT00000066792	intron_variant	MODIFIER	protein_coding		15/15							YES
+9	62417554	G	A	RARS2	ENSBTAG00000016967	ENSBTAT00000072452	missense_variant	MODERATE	protein_coding	21/21				581	R/H	cGc/cAc		YES
+9	62424008	C	T	5S_rRNA	ENSBTAG00000045442	ENSBTAT00000062875	non_coding_transcript_exon_variant	MODIFIER	rRNA	1/1								YES
