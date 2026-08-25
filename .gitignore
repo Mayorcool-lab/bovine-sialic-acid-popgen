@@ -4,3 +4,4 @@ notes/
 *.fa.gz
 *.gtf.gz
 data/reference/vep_cache/
+data/reference/GCF_002263795.1_ARS-UCD1.2_genomic.gff.gz
