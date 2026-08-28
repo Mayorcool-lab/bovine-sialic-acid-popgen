@@ -131,3 +131,44 @@ what this preliminary manuscript needs.**
 H1 (genotype extraction) is now finalized using this corrected rule.
 No H1e planned; this level of resolution is sufficient and appropriately
 scoped for the preliminary manuscript.
+
+## H2 validation: CMAS European AF=0.0000 case investigated
+
+CMAS 5:88,162,466 showed PRESENT status in Europe with N=208 callable
+genotypes but AF=0.0000, worth verifying rather than assuming correct
+given how unusual a zero-frequency PRESENT site is.
+
+**Confirmed correct.** Raw pre-QC data shows exactly 2 of 226 European
+animals with a non-reference call (a1FIN3, NL632621572), both 0/1,
+both with GQ=0 (lowest possible confidence). Both fail the GQ>=20
+threshold decisively and are correctly masked during QC. All 208
+remaining callable genotypes are genuinely 0/0. AF=0.0000 is a real,
+correct result: two low-confidence, likely spurious heterozygous calls
+were appropriately removed by QC, leaving a genuinely invariant
+callable set.
+
+## H2 safeguard added: explicit REF/ALT identity enforcement
+
+H0 verified exact CHROM/POS/REF/ALT matches for all 62 candidates, but
+H2's genotype-pulling functions originally filtered only by position
+(-r chrom:pos-pos), not re-verifying REF/ALT at runtime. This created a
+gap: if any position coincided with a different variant's record, H2
+could have silently pulled the wrong genotypes despite H0's earlier
+verification.
+
+**Fixed:** both `get_genotypes_simple` and `get_genotypes_with_qc_mask`
+now explicitly check REF/ALT match before returning any genotype data,
+raising a hard RuntimeError if the record doesn't match expectations.
+Re-run after this fix reproduced byte-for-byte identical results
+(all H1c spot-checks unchanged), confirming no mismatch existed in
+practice, and the safeguard is now enforced going forward, not just
+assumed from H0.
+
+## H2: CLOSED
+
+- 62/62 variants processed, zero REF/ALT mismatches
+- Classification totals reconcile: SA 52+6+4=62, EU 41+0+21=62
+- All 4 ABSENT_AFTER_QC sites reproduce exact H1c callable counts
+  (107/107/105/98)
+- CMAS EU AF=0.0000 investigated and confirmed correct
+- Output: results/phase_H_62_variant_population_frequencies.tsv
