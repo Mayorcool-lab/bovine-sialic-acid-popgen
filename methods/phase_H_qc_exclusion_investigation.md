@@ -97,3 +97,37 @@ collapsed:
   report with explicit call-rate caveat (recommended, especially for
   ST3GAL4 given its real, common carrier frequency) vs. exclude from
   cross-cohort frequency comparison entirely.
+
+## H1d CORRECTION: NOT_IN_SOURCE cases cannot be confirmed as 0/0
+
+An earlier version of this section concluded that nearby variant-
+calling activity (confirmed for all 27/27 cases, most within 15-50bp)
+justified encoding these as confirmed 0/0 genotypes. This conclusion
+was too strong and has been corrected.
+
+**The actual, defensible interpretation:** nearby calls demonstrate the
+surrounding region was actively covered and variant-called, arguing
+against a gross regional data-absence problem. They do NOT establish
+reference-confidence at the exact candidate position itself. Variant-
+only VCFs emit no record whatsoever for positions where no alternate
+allele was called, this is structurally different from a reference-
+confidence VCF or gVCF, which would explicitly confirm 0/0 with its own
+quality metrics. Absence of a record here means "no ALT detected," not
+"confirmed REF in every animal." Treating it as the latter would assert
+more certainty than the data supports.
+
+**Establishing true site-level reference confidence would require
+BAM/gVCF-level information or re-calling, which is disproportionate to
+what this preliminary manuscript needs.**
+
+## FINAL Phase H genotype matrix construction rule (H0-H1d, corrected)
+
+| Classification | Treatment in final matrix |
+|---|---|
+| PRESENT (93 cases) | Use genotype data directly from QC VCF |
+| ABSENT_AFTER_QC (4 cases) | Use partial callable data with explicit call-rate caveat; not treated as full-cohort 0/0 |
+| NOT_IN_SOURCE (27 cases) | Encoded as `NOT_DETECTED_IN_SOURCE`, NOT as 0/0. Valid to report as "not detected as a variant in that cohort's source data." NOT valid to report as "allele frequency = 0.000" in that cohort, since exact-site reference confidence was not established. |
+
+H1 (genotype extraction) is now finalized using this corrected rule.
+No H1e planned; this level of resolution is sufficient and appropriately
+scoped for the preliminary manuscript.
