@@ -103,7 +103,7 @@ def get_genotypes_with_qc_mask(vcf_path, chrom, pos, ref, alt):
     return genos
 
 def calc_freq(genos):
-    valid = {s: g for s, g in genos.items() if g not in ("./.", ".|.")}
+    valid = {s: g for s, g in genos.items() if g not in (".", "./.", ".|.")}
     n = len(valid)
     if n == 0:
         return None, 0, 0, 0, 0

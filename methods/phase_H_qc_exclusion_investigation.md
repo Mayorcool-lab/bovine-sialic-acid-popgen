@@ -172,3 +172,59 @@ assumed from H0.
   (107/107/105/98)
 - CMAS EU AF=0.0000 investigated and confirmed correct
 - Output: results/phase_H_62_variant_population_frequencies.tsv
+
+## H2 post-closure correction identified during H3 reconciliation
+
+During H3 breed-level frequency reconstruction, the South African
+ST3GAL1 variant at 14:7,943,747 initially failed reconciliation:
+breed-level callable counts summed to N=114 whereas the H2 table
+reported N=115.
+
+Direct inspection of the final QC VCF identified the cause. The site
+contained 112 `0/0`, 2 `0/1`, 5 `./.`, and 1 `.` genotype. H2 correctly
+excluded `./.` and `.|.` as missing, but the single-field missing
+genotype representation `.` was not explicitly excluded when
+calculating `N_genotyped`. It was therefore counted in the callable
+sample denominator while contributing no REF or ALT alleles.
+
+A global audit of all H2 PRESENT candidate/cohort combinations found
+8 affected combinations:
+
+- ST3GAL1 14:7943747, South Africa: 1 `.` genotype
+- NEU3 15:54265508, South Africa: 1
+- NEU3 15:54265634, South Africa: 1
+- CMAH 23:32721570, Europe: 3
+- ST3GAL4 29:29729989, South Africa: 1
+- ST3GAL4 29:29731343, South Africa: 1
+- NANS 8:63196654, South Africa: 1
+- NANS 8:63196663, South Africa: 1
+
+**Correction:** `calc_freq()` now treats `.`, `./.`, and `.|.` as
+missing genotypes when defining callable N.
+
+The pre-correction H2 output was preserved temporarily for direct
+old-versus-new comparison. After regeneration, exactly 8 variant rows
+changed, matching the independent audit above. The only changed field
+was `N_genotyped`:
+
+- CMAH 23:32721570 Europe: 214 -> 211
+- NANS 8:63196654 South Africa: 111 -> 110
+- NANS 8:63196663 South Africa: 111 -> 110
+- NEU3 15:54265508 South Africa: 118 -> 117
+- NEU3 15:54265634 South Africa: 117 -> 116
+- ST3GAL1 14:7943747 South Africa: 115 -> 114
+- ST3GAL4 29:29729989 South Africa: 111 -> 110
+- ST3GAL4 29:29731343 South Africa: 116 -> 115
+
+No allele frequency, heterozygote count, homozygous-ALT count,
+classification status, or ABSENT_AFTER_QC result changed. The four H1c
+callable-count spot checks remained exactly 107/107/105/98.
+
+Following this correction, the independently generated H3 breed-level
+allele counts and callable sample counts successfully reconstructed all
+124 candidate-by-cohort H2 results (62 variants x 2 cohorts).
+
+**Conclusion:** the issue was restricted to callable-sample denominator
+reporting for single-field missing genotypes and did not alter the
+biological allele-frequency results. H2 remains closed with the
+corrected output as the authoritative version.
