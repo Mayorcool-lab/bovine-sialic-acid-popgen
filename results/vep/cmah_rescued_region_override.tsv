@@ -74,8 +74,8 @@ CHROM	POS	REF	ALT	SYMBOL	Gene	Feature	Consequence	IMPACT	BIOTYPE	EXON	INTRON	HGV
 23	32739204	A	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32739233	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32739235	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
-23	32739285	A	G	CMAH	ENSBTAG00000003892		missense_variant	MODIFIER				c.1157	N386S	386					manual_RefSeq_rescue_G9
-23	32739292	C	G	CMAH	ENSBTAG00000003892		missense_variant	MODIFIER				c.1164	I388M	388					manual_RefSeq_rescue_G9
+23	32739285	A	G	CMAH	ENSBTAG00000003892		missense_variant	MODERATE				c.1157	N386S	386					manual_RefSeq_rescue_G9
+23	32739292	C	G	CMAH	ENSBTAG00000003892		missense_variant	MODERATE				c.1164	I388M	388					manual_RefSeq_rescue_G9
 23	32739399	A	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32739454	G	A	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32739852	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
@@ -189,7 +189,7 @@ CHROM	POS	REF	ALT	SYMBOL	Gene	Feature	Consequence	IMPACT	BIOTYPE	EXON	INTRON	HGV
 23	32743578	T	C	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32743642	T	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32743734	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
-23	32743918	C	T	CMAH	ENSBTAG00000003892		missense_variant	MODIFIER				c.1271	P424L	424					manual_RefSeq_rescue_G9
+23	32743918	C	T	CMAH	ENSBTAG00000003892		missense_variant	MODERATE				c.1271	P424L	424					manual_RefSeq_rescue_G9
 23	32744091	A	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32744159	T	A	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32744342	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
@@ -235,7 +235,7 @@ CHROM	POS	REF	ALT	SYMBOL	Gene	Feature	Consequence	IMPACT	BIOTYPE	EXON	INTRON	HGV
 23	32745649	T	A	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32745660	C	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32745705	T	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
-23	32745866	T	A	CMAH	ENSBTAG00000003892		missense_variant	MODIFIER				c.1535	F512Y	512					manual_RefSeq_rescue_G9
+23	32745866	T	A	CMAH	ENSBTAG00000003892		missense_variant	MODERATE				c.1535	F512Y	512					manual_RefSeq_rescue_G9
 23	32745958	A	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32745997	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32746000	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
@@ -345,7 +345,7 @@ CHROM	POS	REF	ALT	SYMBOL	Gene	Feature	Consequence	IMPACT	BIOTYPE	EXON	INTRON	HGV
 23	32750497	A	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32750567	G	A	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32750613	G	C	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
-23	32750628	T	A	CMAH	ENSBTAG00000003892		synonymous_variant	MODIFIER				c.1545	I515I	515					manual_RefSeq_rescue_G9
+23	32750628	T	A	CMAH	ENSBTAG00000003892		synonymous_variant	LOW				c.1545	I515I	515					manual_RefSeq_rescue_G9
 23	32750840	G	A	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32750863	C	T	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding
 23	32750867	T	G	CMAH	ENSBTAG00000003892		intron_variant	MODIFIER											RefSeq_rescue_region_noncoding

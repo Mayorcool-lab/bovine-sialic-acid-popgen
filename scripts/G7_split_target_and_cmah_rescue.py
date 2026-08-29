@@ -76,6 +76,20 @@ with open("results/vep/phase_g_excluded_offtarget_corrected.tsv") as f:
                 row["SYMBOL"] = "CMAH"
                 row["Gene"] = "ENSBTAG00000003892"
                 row["Consequence"] = m["consequence"]
+
+                # IMPACT must be harmonized with the manually rescued coding
+                # consequence rather than inherited from VEP's original
+                # intergenic MODIFIER annotation.
+                if m["consequence"] == "missense_variant":
+                    row["IMPACT"] = "MODERATE"
+                elif m["consequence"] == "synonymous_variant":
+                    row["IMPACT"] = "LOW"
+                else:
+                    raise ValueError(
+                        f"Unexpected manually rescued consequence at {pos_int}: "
+                        f"{m['consequence']}"
+                    )
+
                 row["HGVSp"] = m["aa_change"]
                 row["HGVSc"] = f"c.{m['cdna']}"
                 row["Protein_position"] = str(m["codon"])

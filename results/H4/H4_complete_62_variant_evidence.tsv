@@ -1,0 +1,63 @@
+SYMBOL	CHROM	POS	REF	ALT	HGVSp	Consequence	IMPACT	SIFT_status	SIFT_prediction	SIFT_score
+ST6GAL1	1	80233404	T	A	T/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.73
+ST6GAL1	1	80233427	T	A	Y/F	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.15
+ST6GAL1	1	80233464	T	A	T/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.98
+ST6GAL1	1	80233838	T	C	K/R	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.29
+NANP	13	10704259	A	G	I/V	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.54
+NANP	13	10704799	G	C	V/L	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.06
+ST3GAL1	14	7943747	G	A	R/K	missense_variant&splice_region_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.45
+ST3GAL1	14	7943756	G	A	R/Q	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.56
+NEU3	15	54265508	G	A	E/K	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious	0
+NEU3	15	54265634	T	C	Y/H	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.4
+NEU3	15	54265704	T	G	F/C	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious	0.01
+NEU3	15	54266153	A	G	S/G	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.11
+NEU3	15	54266294	G	T	A/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.45
+NEU3	15	54266475	G	A	C/Y	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.18
+ST8SIA2	21	14547653	C	T	R/Q	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious	0.01
+ST8SIA2	21	14553398	G	A	S/L	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.07
+NEU1	23	27494657	A	G	I/M	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0.05
+NEU1	23	27494671	A	C	K/T	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.22
+NEU1	23	27497208	C	T	P/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.06
+NEU1	23	27497374	T	C	L/P	missense_variant&splice_region_variant	MODERATE	SIFT_AVAILABLE	deleterious	0
+NEU1	23	27497502	C	A	L/I	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.15
+NEU1	23	27497874	A	G	N/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	1
+NEU1	23	27497876	G	A	V/M	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.34
+NEU1	23	27497880	A	G	D/G	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.65
+NEU1	23	27497935	G	C	Q/H	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.19
+CMAH	23	32721570	A	G	K/E	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	1
+CMAH	23	32727639	G	T	A/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.98
+CMAH	23	32727707	T	A	N/K	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.56
+CMAH	23	32727736	A	G	N/S	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious	0.03
+CMAH	23	32731961	C	T	H/Y	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.06
+CMAH	23	32731965	C	T	T/M	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.14
+ST3GAL4	29	29729953	C	T	P/L	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0
+ST3GAL4	29	29729989	G	A	R/Q	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0
+ST3GAL4	29	29730054	T	C	C/R	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0
+ST3GAL4	29	29730070	C	T	P/L	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0
+ST3GAL4	29	29730119	G	T	L/F	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.1
+ST3GAL4	29	29730201	C	T	R/C	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated_low_confidence	0.24
+ST3GAL4	29	29731343	A	C	Y/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.1
+ST3GAL4	29	29732068	C	A	R/S	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious	0.01
+ST3GAL4	29	29733130	A	T	Y/F	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	1
+ST3GAL4	29	29733170	A	G	I/M	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	1
+ST3GAL4	29	29733173	C	A	H/Q	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.7
+ST3GAL4	29	29738209	G	T	*/L	stop_lost	HIGH	NOT_APPLICABLE_HIGH_IMPACT		
+CMAS	5	88154574	C	T	V/I	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.06
+CMAS	5	88154673	C	A	A/S	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.87
+CMAS	5	88157138	C	T	V/I	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.41
+CMAS	5	88162466	C	A	E/*	stop_gained	HIGH	NOT_APPLICABLE_HIGH_IMPACT		
+ST8SIA4	7	100037757	T	C	K/E	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.27
+ST8SIA4	7	100094969	C	T	R/Q	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.6
+ST8SIA4	7	100094984	G	A	A/V	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.16
+ST8SIA4	7	100129363	T	G	I/L	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.54
+GNE	8	60497894	G	A	R/C	missense_variant	MODERATE	SIFT_AVAILABLE	deleterious_low_confidence	0.03
+NANS	8	63193083	C	G	H/Q	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.33
+NANS	8	63196654	C	A	A/D	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.71
+NANS	8	63196663	A	G	K/R	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	1
+NANS	8	63212470	C	G	P/A	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.16
+SLC35A1	9	62416954	C	T	V/I	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.13
+SLC35A1	9	62441325	C	T	V/I	missense_variant	MODERATE	SIFT_AVAILABLE	tolerated	0.21
+CMAH	23	32739285	A	G	N386S	missense_variant	MODERATE	SIFT_UNAVAILABLE		
+CMAH	23	32739292	C	G	I388M	missense_variant	MODERATE	SIFT_UNAVAILABLE		
+CMAH	23	32743918	C	T	P424L	missense_variant	MODERATE	SIFT_UNAVAILABLE		
+CMAH	23	32745866	T	A	F512Y	missense_variant	MODERATE	SIFT_UNAVAILABLE		
