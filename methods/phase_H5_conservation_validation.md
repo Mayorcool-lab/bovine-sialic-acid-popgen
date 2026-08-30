@@ -426,3 +426,191 @@ alignment coverage and alignment quality at each candidate residue.
 
 No candidate-site conservation scores have been calculated at this
 checkpoint.
+
+## H5C — Release-110 reference anchored MSA construction
+
+Candidate-site conservation analysis was anchored to the exact bovine protein
+sequences corresponding to the Phase G coordinate system rather than to the
+bovine source proteins returned by the current Ensembl Compara release.
+
+All 13 expected Ensembl release-110 bovine reference proteins were recovered
+exactly once from:
+
+`data/reference/Bos_taurus.ARS-UCD1.2.pep.all.fa.gz`
+
+Observed protein lengths matched the previously validated expectations for all
+13 genes.
+
+For each gene, the exact Ensembl release-110 bovine reference protein was
+combined with the frozen unambiguous ONE2ONE comparative sequences retrieved
+from Ensembl Compara release 116.
+
+The resulting MAFFT input set contained:
+
+- 13 bovine reference sequences
+- 222 comparative orthologue sequences
+- 235 sequences in total across 13 gene-specific input files
+
+Independent input validation confirmed exactly one bovine reference sequence
+per gene and no sequence-count discrepancies.
+
+This design prevents changes in Ensembl transcript/protein models between
+release 110 and Compara release 116 from silently changing candidate residue
+coordinates.
+
+## H5D — Multiple-sequence alignment and alignment integrity
+
+Gene-specific protein multiple-sequence alignments were generated with
+MAFFT v7.526 using `--auto`.
+
+MAFFT selected the L-INS-i strategy where appropriate. All 13 gene alignments
+completed successfully.
+
+Alignment integrity was independently audited for:
+
+- preservation of all input sequence identifiers
+- equality of input and output sequence counts
+- equal aligned sequence lengths within each gene
+- exactly one Ensembl release-110 bovine reference
+- exact recovery of the original bovine sequence after removal of alignment gaps
+
+All 13 alignments passed these checks.
+
+Observed alignment lengths were:
+
+- CMAH: 787
+- CMAS: 567
+- GNE: 931
+- NANP: 678
+- NANS: 392
+- NEU1: 536
+- NEU3: 777
+- SLC35A1: 489
+- ST3GAL1: 408
+- ST3GAL4: 897
+- ST6GAL1: 558
+- ST8SIA2: 430
+- ST8SIA4: 504
+
+Therefore candidate coordinates remain anchored to the exact release-110
+bovine protein sequence in each Ensembl-based alignment.
+
+## H5E — Candidate-site comparative coverage QC
+
+Before estimating evolutionary conservation, each candidate residue was mapped
+from its validated bovine protein coordinate to its corresponding alignment
+column.
+
+A site was defined as eligible for ordinary residue-level conservation
+estimation when at least six comparative orthologues, excluding the bovine
+reference, contained a non-gap residue at that alignment column.
+
+This threshold follows the ConSurf position-specific guidance that conservation
+estimation becomes unreliable when fewer than six non-gapped homologous
+residues are represented. Passing this threshold establishes assessability
+only; it does not imply that a residue is conserved.
+
+Among the 58 candidates represented in the Ensembl coordinate system:
+
+- 53 were ASSESSABLE
+- 4 were NOT_ASSESSABLE because fewer than six comparative orthologues
+  contained a residue at the candidate column
+- 1 was a STOP_LOST_SPECIAL_CASE
+
+The four insufficient-coverage sites were:
+
+- NEU1 L275: 0/16 comparative non-gap residues
+- ST3GAL4 P4: 4/18
+- ST3GAL4 R16: 2/18
+- ST3GAL4 C38: 5/18
+
+NEU1 L275 was additionally examined with an independent MUSCLE v3.8.1551
+alignment. Both MAFFT and MUSCLE placed the bovine residue in a column where
+all 16 comparative orthologues contained a gap. It is therefore classified as
+conservation not assessable rather than unconserved.
+
+The ST3GAL4 stop-lost variant (*396L) affects the terminal stop codon immediately
+after the 395-aa reference protein and is not an ordinary encoded reference
+amino-acid position. It is therefore retained as a separate
+STOP_LOST_SPECIAL_CASE rather than being forced into residue-level conservation
+scoring.
+
+## H5E.1 — Separate CMAH RefSeq coordinate track
+
+Four manually rescued CMAH missense candidates use the RefSeq isoform X2
+coordinate system rather than the 383-aa Ensembl release-110 CMAH protein:
+
+- N386S
+- I388M
+- P424L
+- F512Y
+
+The exact bovine RefSeq sequence was retrieved as:
+
+`XP_024839792.1`
+
+The saved sequence is 577 aa long. Its SHA256 checksum is:
+
+`1f10af560df29643b6a157e658aa8bdd7b9ac79b86bb3e7bf9d580ce51f6d93b`
+
+Reference-residue validation confirmed:
+
+- position 386 = N
+- position 388 = I
+- position 424 = P
+- position 512 = F
+
+All four coordinates therefore match the Phase G rescued variant annotations.
+
+A separate CMAH RefSeq-X2 alignment was constructed using the exact 577-aa
+XP_024839792.1 bovine sequence as the coordinate anchor plus the same 15 frozen
+unambiguous CMAH ONE2ONE comparative orthologues. The Ensembl 383-aa bovine
+reference was not substituted for the RefSeq coordinate anchor.
+
+MAFFT produced a 16-sequence alignment of length 791. The ungapped bovine
+reference recovered exactly 577 residues.
+
+Candidate-site comparative coverage was:
+
+- N386: 15/15 — ASSESSABLE
+- I388: 15/15 — ASSESSABLE
+- P424: 15/15 — ASSESSABLE
+- F512: 15/15 — ASSESSABLE
+
+Thus all four manually rescued CMAH variants are eligible for H5
+residue-level conservation analysis despite being unavailable to the
+Ensembl-native SIFT analysis in H4.
+
+## H5E.2 — Final pre-conservation candidate classification
+
+The permanent script:
+
+`scripts/H5_map_candidate_sites.py`
+
+reproduces candidate-to-alignment mapping and comparative coverage QC for all
+62 Phase G protein-altering candidates.
+
+The authoritative pre-scoring table is:
+
+`results/H5/H5_candidate_site_coverage.tsv`
+
+Final classification:
+
+- 57 ASSESSABLE
+- 4 NOT_ASSESSABLE
+- 1 STOP_LOST_SPECIAL_CASE
+- 62 total
+
+Coordinate systems:
+
+- 58 Ensembl release-110 candidates
+- 4 RefSeq XP_024839792.1 CMAH candidates
+
+The evidence table explicitly distinguishes Ensembl transcript identifiers from
+their validated Ensembl protein identifiers. RefSeq CMAH candidates have no
+Ensembl transcript assigned and retain XP_024839792.1 as their reference
+protein.
+
+No evolutionary conservation score has yet been assigned. H5E establishes only
+whether sufficient homologous residue coverage exists for subsequent
+phylogeny-aware conservation estimation.
