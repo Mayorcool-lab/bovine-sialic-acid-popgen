@@ -1,0 +1,11 @@
+reference_protein	protein_length	library	signature_accession	signature_name	entry_type	entry_accession	entry_name	interval_start	interval_end	raw_source
+XP_024839792.1	577	SUPERFAMILY	SSF56281	Metallo-hydrolase/oxidoreductase	HOMOLOGOUS_SUPERFAMILY	IPR036866	RibonucZ/Hydroxyglut_hydro	131	313	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	CDD	cd03473	Rieske_CMP_Neu5Ac_hydrolase_N	DOMAIN	IPR037339	CMP-Neu5Ac_hydroxylase_Rieske	6	104	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	PANTHER	PTHR46522	CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE	FAMILY	IPR027033	Cnh	5	576	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	PFAM	PF00355	Rieske	DOMAIN	IPR017941	Rieske_2Fe-2S	18	88	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	FUNFAM	G3DSA:3.60.15.10:FF:000025					137	288	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	PFAM	PF13483	Lactamase_B_3				138	265	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	SUPERFAMILY	SSF50022	ISP domain	HOMOLOGOUS_SUPERFAMILY	IPR036922	Rieske_2Fe-2S_sf	19	122	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	PROSITE_PROFILES	PS51296	RIESKE	DOMAIN	IPR017941	Rieske_2Fe-2S	14	112	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	GENE3D	G3DSA:2.102.10.10		HOMOLOGOUS_SUPERFAMILY	IPR036922	Rieske_2Fe-2S_sf	17	112	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
+XP_024839792.1	577	GENE3D	G3DSA:3.60.15.10		HOMOLOGOUS_SUPERFAMILY	IPR036866	RibonucZ/Hydroxyglut_hydro	127	361	results/H6/H6.2/raw/interproscan_CMAH_X2/CMAH_XP_024839792.1__interproscan.json
