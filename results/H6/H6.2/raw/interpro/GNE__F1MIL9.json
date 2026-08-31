@@ -1,0 +1,598 @@
+{
+  "count": 15,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd03786",
+        "name": "UDP-N-acetylglucosamine 2-epimerase and similar proteins",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 11,
+                  "end": 375,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd03786",
+              "score": 3.27925e-103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "cd24060",
+        "name": "nucleotide-binding domain (NBD) of bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase (GNE) and similar proteins",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 408,
+                  "end": 712,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd24060",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.30.420.40",
+        "name": null,
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 411,
+                  "end": 532,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "2yhwA01",
+              "score": 1.3e-99
+            },
+            {
+              "fragments": [
+                {
+                  "start": 533,
+                  "end": 687,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "2yhwA02",
+              "score": 1.3e-99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.40.50.2000",
+        "name": "Glycogen Phosphorylase B;",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 11,
+                  "end": 198,
+                  "dc-status": "C_TERMINAL_DISC"
+                },
+                {
+                  "start": 362,
+                  "end": 371,
+                  "dc-status": "N_TERMINAL_DISC"
+                }
+              ],
+              "representative": false,
+              "model": "4fkzA01",
+              "score": 7.1e-63
+            },
+            {
+              "fragments": [
+                {
+                  "start": 199,
+                  "end": 361,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "4fkzA02",
+              "score": 7.1e-63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR000600",
+        "name": "ROK family",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF00480": "ROK family"
+          },
+          "panther": {
+            "PTHR18964": "ROK (REPRESSOR, ORF, KINASE) FAMILY"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 56,
+                  "end": 722,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR003331",
+        "name": "UDP-N-acetylglucosamine 2-epimerase domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF02350": "UDP-N-acetylglucosamine 2-epimerase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 38,
+                  "end": 375,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR020004",
+        "name": "Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "ncbifam": {
+            "TIGR03568": "UDP-N-acetylglucosamine 2-epimerase (hydrolyzing)"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0004553",
+            "name": "hydrolase activity, hydrolyzing O-glycosyl compounds",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0006047",
+            "name": "UDP-N-acetylglucosamine metabolic process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 11,
+                  "end": 374,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR043129",
+        "name": "ATPase, nucleotide binding domain",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF53067": "Actin-like ATPase domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 409,
+                  "end": 717,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF00480",
+        "name": "ROK family",
+        "source_database": "pfam",
+        "type": "family",
+        "integrated": "IPR000600",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 410,
+                  "end": 714,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PF00480",
+              "score": 5.3e-51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF02350",
+        "name": "UDP-N-acetylglucosamine 2-epimerase",
+        "source_database": "pfam",
+        "type": "family",
+        "integrated": "IPR003331",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 38,
+                  "end": 375,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF02350",
+              "score": 4.1e-60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PR00475",
+        "name": "HEXOKINASE",
+        "source_database": "prints",
+        "type": "family",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 410,
+                  "end": 426,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00475",
+              "score": 1.08e-09
+            },
+            {
+              "fragments": [
+                {
+                  "start": 538,
+                  "end": 552,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00475",
+              "score": 0.00731
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR18964",
+        "name": "ROK (REPRESSOR, ORF, KINASE) FAMILY",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR000600",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 56,
+                  "end": 722,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PTHR18964:SF149",
+              "score": 0,
+              "subfamily": {
+                "accession": "PTHR18964:SF149",
+                "name": "BIFUNCTIONAL UDP-N-ACETYLGLUCOSAMINE 2-EPIMERASE_N-ACETYLMANNOSAMINE KINASE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF53067",
+        "name": "Actin-like ATPase domain",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR043129",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 409,
+                  "end": 717,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0049498",
+              "score": 9.82e-57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF53756",
+        "name": "UDP-Glycosyltransferase/glycogen phosphorylase",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 387,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0048500",
+              "score": 1.41e-78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "TIGR03568",
+        "name": "UDP-N-acetylglucosamine 2-epimerase (hydrolyzing)",
+        "source_database": "ncbifam",
+        "type": "family",
+        "integrated": "IPR020004",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f1mil9",
+          "protein_length": 722,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 11,
+                  "end": 374,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "TIGR03568",
+              "score": 1.2e-104
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

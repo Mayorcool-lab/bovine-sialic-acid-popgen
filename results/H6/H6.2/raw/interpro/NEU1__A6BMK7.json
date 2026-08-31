@@ -1,0 +1,305 @@
+{
+  "count": 8,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd15482",
+        "name": "Non-viral sialidases",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 62,
+                  "end": 410,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd15482",
+              "score": 1.56244e-78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:2.120.10.10",
+        "name": null,
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 56,
+                  "end": 411,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "4j9tA00",
+              "score": 7.4e-82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR011040",
+        "name": "Sialidase",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF13088": "BNR repeat-like domain",
+            "PF13859": "BNR repeat-like domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 88,
+                  "end": 377,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR026856",
+        "name": "Sialidase family",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR10628": "SIALIDASE"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0004308",
+            "name": "exo-alpha-sialidase activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 55,
+                  "end": 414,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036278",
+        "name": "Sialidase superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF50939": "Sialidases"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 62,
+                  "end": 410,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF13088",
+        "name": "BNR repeat-like domain",
+        "source_database": "pfam",
+        "type": "repeat",
+        "integrated": "IPR011040",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 88,
+                  "end": 377,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF13088",
+              "score": 1.4e-42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR10628",
+        "name": "SIALIDASE",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR026856",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 55,
+                  "end": 414,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR10628:SF25",
+              "score": 2.4e-118,
+              "subfamily": {
+                "accession": "PTHR10628:SF25",
+                "name": "SIALIDASE-1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF50939",
+        "name": "Sialidases",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036278",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a6bmk7",
+          "protein_length": 415,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 62,
+                  "end": 410,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "0049431",
+              "score": 5.33e-84
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

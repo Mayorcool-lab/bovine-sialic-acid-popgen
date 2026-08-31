@@ -1,0 +1,761 @@
+{
+  "count": 19,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd11615",
+        "name": "C-terminal SAF domain of sialic acid synthetase",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": "IPR057736",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 292,
+                  "end": 350,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd11615",
+              "score": 2.1234e-12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.20.20.70",
+        "name": "Aldolase class I",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR013785",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 276,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "4ipiA01",
+              "score": 1e-99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.90.1210.10",
+        "name": "Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 291,
+                  "end": 356,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "5xqvA00",
+              "score": 9.5e-31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR006013",
+        "name": "Antifreeze, type III",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "prints": {
+            "PR00357": "ANTIFREEZIII"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 295,
+                  "end": 311,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 312,
+                  "end": 328,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 329,
+                  "end": 353,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR006190",
+        "name": "Antifreeze-like/N-acetylneuraminic acid synthase, SAF domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS50844": "Antifreeze protein-like domain profile"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 294,
+                  "end": 353,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR013132",
+        "name": "PseI/NeuA/B-like",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF03102": "NeuB family"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0016051",
+            "name": "carbohydrate biosynthetic process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 39,
+                  "end": 277,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR013785",
+        "name": "Aldolase-type TIM barrel",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.20.20.70": "Aldolase class I"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 276,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR013974",
+        "name": "SAF domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "smart": {
+            "SM00858": "SAF"
+          },
+          "pfam": {
+            "PF08666": "SAF domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 292,
+                  "end": 351,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036732",
+        "name": "Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF51269": "AFP III-like domain"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 291,
+                  "end": 358,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR051690",
+        "name": "PseI/Nans/NeuA/B acid synthases",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR42966": "Nonulosonic Acid Synthase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 352,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR057736",
+        "name": "PseI/NeuA/NeuB, SAF domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "cdd": {
+            "cd11615": "C-terminal SAF domain of sialic acid synthetase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 292,
+                  "end": 350,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF03102",
+        "name": "NeuB family",
+        "source_database": "pfam",
+        "type": "domain",
+        "integrated": "IPR013132",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 39,
+                  "end": 277,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF03102",
+              "score": 2.5e-77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF08666",
+        "name": "SAF domain",
+        "source_database": "pfam",
+        "type": "domain",
+        "integrated": "IPR013974",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 293,
+                  "end": 350,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF08666",
+              "score": 5.2e-06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PR00357",
+        "name": "ANTIFREEZIII",
+        "source_database": "prints",
+        "type": "family",
+        "integrated": "IPR006013",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 295,
+                  "end": 311,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00357",
+              "score": 0.000366
+            },
+            {
+              "fragments": [
+                {
+                  "start": 312,
+                  "end": 328,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00357",
+              "score": 0.00176
+            },
+            {
+              "fragments": [
+                {
+                  "start": 329,
+                  "end": 344,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00357",
+              "score": 0.002
+            },
+            {
+              "fragments": [
+                {
+                  "start": 344,
+                  "end": 353,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00357",
+              "score": 0.0119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PS50844",
+        "name": "Antifreeze protein-like domain profile",
+        "source_database": "profile",
+        "type": "domain",
+        "integrated": "IPR006190",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 294,
+                  "end": 353,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PS50844",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR42966",
+        "name": "Nonulosonic Acid Synthase",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR051690",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 352,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR42966:SF1",
+              "score": 0,
+              "subfamily": {
+                "accession": "PTHR42966:SF1",
+                "name": "SIALIC ACID SYNTHASE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SM00858",
+        "name": "SAF",
+        "source_database": "smart",
+        "type": "domain",
+        "integrated": "IPR013974",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 292,
+                  "end": 351,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "SM00858",
+              "score": 0.00023
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF51269",
+        "name": "AFP III-like domain",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036732",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 291,
+                  "end": 358,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0053323",
+              "score": 3.92e-25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF51569",
+        "name": "Aldolase",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "f6rgt7",
+          "protein_length": 359,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": false,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 9,
+                  "end": 301,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0050239",
+              "score": 8.79e-86
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "count": 7,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd23982",
+        "name": "beta-galactoside alpha-2,3-sialyltransferase 4",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 208,
+                  "end": 413,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd23982",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.90.1480.20",
+        "name": "Glycosyl transferase family 29",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR038578",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 133,
+                  "end": 423,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "2wnfA00",
+              "score": 4.7e-62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR001675",
+        "name": "Glycosyl transferase family 29",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF00777": "Glycosyltransferase family 29 (sialyltransferase)"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0008373",
+            "name": "sialyltransferase activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          },
+          {
+            "identifier": "GO:0009101",
+            "name": "glycoprotein biosynthetic process",
+            "category": {
+              "code": "P",
+              "name": "biological_process"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 176,
+                  "end": 415,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR038578",
+        "name": "GT29-like superfamiliy",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.90.1480.20": "Glycosyl transferase family 29"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 133,
+                  "end": 423,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR051142",
+        "name": "Glycosyltransferase 29",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR13713": "Glycosyltransferase 29"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 90,
+                  "end": 424,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF00777",
+        "name": "Glycosyltransferase family 29 (sialyltransferase)",
+        "source_database": "pfam",
+        "type": "family",
+        "integrated": "IPR001675",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 176,
+                  "end": 415,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF00777",
+              "score": 1.2e-60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR13713",
+        "name": "Glycosyltransferase 29",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR051142",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9tt54",
+          "protein_length": 425,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 90,
+                  "end": 424,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR13713:SF57",
+              "score": 0,
+              "subfamily": {
+                "accession": "PTHR13713:SF57",
+                "name": "CMP-N-ACETYLNEURAMINATE-BETA-GALACTOSAMIDE-ALPHA-2,3-SIALYLTRANSFERASE 4"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

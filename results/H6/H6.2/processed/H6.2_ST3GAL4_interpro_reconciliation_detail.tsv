@@ -1,0 +1,269 @@
+accession	H5_position	H5_residue	external_position	external_residue	source_database	entry_accession	entry_name	entry_type	interval_start	interval_end
+A0A3Q1M6Q2	190	Y	134	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	69	359
+A0A3Q1M6Q2	190	Y	134	Y	interpro	IPR001675	Glycosyl transferase family 29	family	112	351
+A0A3Q1M6Q2	190	Y	134	Y	interpro	IPR012163	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	190	Y	134	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	69	359
+A0A3Q1M6Q2	190	Y	134	Y	interpro	IPR051142	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	190	Y	134	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	112	351
+A0A3Q1M6Q2	190	Y	134	Y	pirsf	PIRSF005557	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	190	Y	134	Y	panther	PTHR13713	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	203	R	147	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	144	349
+A0A3Q1M6Q2	203	R	147	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	69	359
+A0A3Q1M6Q2	203	R	147	R	interpro	IPR001675	Glycosyl transferase family 29	family	112	351
+A0A3Q1M6Q2	203	R	147	R	interpro	IPR012163	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	203	R	147	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	69	359
+A0A3Q1M6Q2	203	R	147	R	interpro	IPR051142	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	203	R	147	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	112	351
+A0A3Q1M6Q2	203	R	147	R	pirsf	PIRSF005557	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	203	R	147	R	panther	PTHR13713	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	320	Y	264	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	144	349
+A0A3Q1M6Q2	320	Y	264	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	69	359
+A0A3Q1M6Q2	320	Y	264	Y	interpro	IPR001675	Glycosyl transferase family 29	family	112	351
+A0A3Q1M6Q2	320	Y	264	Y	interpro	IPR012163	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	320	Y	264	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	69	359
+A0A3Q1M6Q2	320	Y	264	Y	interpro	IPR051142	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	320	Y	264	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	112	351
+A0A3Q1M6Q2	320	Y	264	Y	pirsf	PIRSF005557	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	320	Y	264	Y	panther	PTHR13713	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	333	I	277	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	144	349
+A0A3Q1M6Q2	333	I	277	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	69	359
+A0A3Q1M6Q2	333	I	277	I	interpro	IPR001675	Glycosyl transferase family 29	family	112	351
+A0A3Q1M6Q2	333	I	277	I	interpro	IPR012163	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	333	I	277	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	69	359
+A0A3Q1M6Q2	333	I	277	I	interpro	IPR051142	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	333	I	277	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	112	351
+A0A3Q1M6Q2	333	I	277	I	pirsf	PIRSF005557	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	333	I	277	I	panther	PTHR13713	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	334	H	278	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	144	349
+A0A3Q1M6Q2	334	H	278	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	69	359
+A0A3Q1M6Q2	334	H	278	H	interpro	IPR001675	Glycosyl transferase family 29	family	112	351
+A0A3Q1M6Q2	334	H	278	H	interpro	IPR012163	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	334	H	278	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	69	359
+A0A3Q1M6Q2	334	H	278	H	interpro	IPR051142	Glycosyltransferase 29	family	26	360
+A0A3Q1M6Q2	334	H	278	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	112	351
+A0A3Q1M6Q2	334	H	278	H	pirsf	PIRSF005557	Sialyltransferase	family	68	359
+A0A3Q1M6Q2	334	H	278	H	panther	PTHR13713	Glycosyltransferase 29	family	26	360
+A0AAA9RT99	190	Y	142	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	77	367
+A0AAA9RT99	190	Y	142	Y	interpro	IPR001675	Glycosyl transferase family 29	family	120	359
+A0AAA9RT99	190	Y	142	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	77	367
+A0AAA9RT99	190	Y	142	Y	interpro	IPR051142	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	190	Y	142	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	120	359
+A0AAA9RT99	190	Y	142	Y	panther	PTHR13713	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	203	R	155	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	152	357
+A0AAA9RT99	203	R	155	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	77	367
+A0AAA9RT99	203	R	155	R	interpro	IPR001675	Glycosyl transferase family 29	family	120	359
+A0AAA9RT99	203	R	155	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	77	367
+A0AAA9RT99	203	R	155	R	interpro	IPR051142	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	203	R	155	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	120	359
+A0AAA9RT99	203	R	155	R	panther	PTHR13713	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	320	Y	272	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	152	357
+A0AAA9RT99	320	Y	272	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	77	367
+A0AAA9RT99	320	Y	272	Y	interpro	IPR001675	Glycosyl transferase family 29	family	120	359
+A0AAA9RT99	320	Y	272	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	77	367
+A0AAA9RT99	320	Y	272	Y	interpro	IPR051142	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	320	Y	272	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	120	359
+A0AAA9RT99	320	Y	272	Y	panther	PTHR13713	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	333	I	285	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	152	357
+A0AAA9RT99	333	I	285	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	77	367
+A0AAA9RT99	333	I	285	I	interpro	IPR001675	Glycosyl transferase family 29	family	120	359
+A0AAA9RT99	333	I	285	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	77	367
+A0AAA9RT99	333	I	285	I	interpro	IPR051142	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	333	I	285	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	120	359
+A0AAA9RT99	333	I	285	I	panther	PTHR13713	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	334	H	286	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	152	357
+A0AAA9RT99	334	H	286	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	77	367
+A0AAA9RT99	334	H	286	H	interpro	IPR001675	Glycosyl transferase family 29	family	120	359
+A0AAA9RT99	334	H	286	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	77	367
+A0AAA9RT99	334	H	286	H	interpro	IPR051142	Glycosyltransferase 29	family	34	368
+A0AAA9RT99	334	H	286	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	120	359
+A0AAA9RT99	334	H	286	H	panther	PTHR13713	Glycosyltransferase 29	family	34	368
+A0AAA9TIA8	190	Y	138	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	73	363
+A0AAA9TIA8	190	Y	138	Y	interpro	IPR001675	Glycosyl transferase family 29	family	116	355
+A0AAA9TIA8	190	Y	138	Y	interpro	IPR012163	Sialyltransferase	family	72	363
+A0AAA9TIA8	190	Y	138	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	73	363
+A0AAA9TIA8	190	Y	138	Y	interpro	IPR051142	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	190	Y	138	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	116	355
+A0AAA9TIA8	190	Y	138	Y	pirsf	PIRSF005557	Sialyltransferase	family	72	363
+A0AAA9TIA8	190	Y	138	Y	panther	PTHR13713	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	203	R	151	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	148	353
+A0AAA9TIA8	203	R	151	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	73	363
+A0AAA9TIA8	203	R	151	R	interpro	IPR001675	Glycosyl transferase family 29	family	116	355
+A0AAA9TIA8	203	R	151	R	interpro	IPR012163	Sialyltransferase	family	72	363
+A0AAA9TIA8	203	R	151	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	73	363
+A0AAA9TIA8	203	R	151	R	interpro	IPR051142	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	203	R	151	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	116	355
+A0AAA9TIA8	203	R	151	R	pirsf	PIRSF005557	Sialyltransferase	family	72	363
+A0AAA9TIA8	203	R	151	R	panther	PTHR13713	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	320	Y	268	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	148	353
+A0AAA9TIA8	320	Y	268	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	73	363
+A0AAA9TIA8	320	Y	268	Y	interpro	IPR001675	Glycosyl transferase family 29	family	116	355
+A0AAA9TIA8	320	Y	268	Y	interpro	IPR012163	Sialyltransferase	family	72	363
+A0AAA9TIA8	320	Y	268	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	73	363
+A0AAA9TIA8	320	Y	268	Y	interpro	IPR051142	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	320	Y	268	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	116	355
+A0AAA9TIA8	320	Y	268	Y	pirsf	PIRSF005557	Sialyltransferase	family	72	363
+A0AAA9TIA8	320	Y	268	Y	panther	PTHR13713	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	333	I	281	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	148	353
+A0AAA9TIA8	333	I	281	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	73	363
+A0AAA9TIA8	333	I	281	I	interpro	IPR001675	Glycosyl transferase family 29	family	116	355
+A0AAA9TIA8	333	I	281	I	interpro	IPR012163	Sialyltransferase	family	72	363
+A0AAA9TIA8	333	I	281	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	73	363
+A0AAA9TIA8	333	I	281	I	interpro	IPR051142	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	333	I	281	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	116	355
+A0AAA9TIA8	333	I	281	I	pirsf	PIRSF005557	Sialyltransferase	family	72	363
+A0AAA9TIA8	333	I	281	I	panther	PTHR13713	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	334	H	282	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	148	353
+A0AAA9TIA8	334	H	282	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	73	363
+A0AAA9TIA8	334	H	282	H	interpro	IPR001675	Glycosyl transferase family 29	family	116	355
+A0AAA9TIA8	334	H	282	H	interpro	IPR012163	Sialyltransferase	family	72	363
+A0AAA9TIA8	334	H	282	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	73	363
+A0AAA9TIA8	334	H	282	H	interpro	IPR051142	Glycosyltransferase 29	family	30	364
+A0AAA9TIA8	334	H	282	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	116	355
+A0AAA9TIA8	334	H	282	H	pirsf	PIRSF005557	Sialyltransferase	family	72	363
+A0AAA9TIA8	334	H	282	H	panther	PTHR13713	Glycosyltransferase 29	family	30	364
+A0AAA9TT54	190	Y	198	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	133	423
+A0AAA9TT54	190	Y	198	Y	interpro	IPR001675	Glycosyl transferase family 29	family	176	415
+A0AAA9TT54	190	Y	198	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	133	423
+A0AAA9TT54	190	Y	198	Y	interpro	IPR051142	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	190	Y	198	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	176	415
+A0AAA9TT54	190	Y	198	Y	panther	PTHR13713	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	203	R	211	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	208	413
+A0AAA9TT54	203	R	211	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	133	423
+A0AAA9TT54	203	R	211	R	interpro	IPR001675	Glycosyl transferase family 29	family	176	415
+A0AAA9TT54	203	R	211	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	133	423
+A0AAA9TT54	203	R	211	R	interpro	IPR051142	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	203	R	211	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	176	415
+A0AAA9TT54	203	R	211	R	panther	PTHR13713	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	320	Y	328	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	208	413
+A0AAA9TT54	320	Y	328	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	133	423
+A0AAA9TT54	320	Y	328	Y	interpro	IPR001675	Glycosyl transferase family 29	family	176	415
+A0AAA9TT54	320	Y	328	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	133	423
+A0AAA9TT54	320	Y	328	Y	interpro	IPR051142	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	320	Y	328	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	176	415
+A0AAA9TT54	320	Y	328	Y	panther	PTHR13713	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	333	I	341	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	208	413
+A0AAA9TT54	333	I	341	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	133	423
+A0AAA9TT54	333	I	341	I	interpro	IPR001675	Glycosyl transferase family 29	family	176	415
+A0AAA9TT54	333	I	341	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	133	423
+A0AAA9TT54	333	I	341	I	interpro	IPR051142	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	333	I	341	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	176	415
+A0AAA9TT54	333	I	341	I	panther	PTHR13713	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	334	H	342	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	208	413
+A0AAA9TT54	334	H	342	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	133	423
+A0AAA9TT54	334	H	342	H	interpro	IPR001675	Glycosyl transferase family 29	family	176	415
+A0AAA9TT54	334	H	342	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	133	423
+A0AAA9TT54	334	H	342	H	interpro	IPR051142	Glycosyltransferase 29	family	90	424
+A0AAA9TT54	334	H	342	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	176	415
+A0AAA9TT54	334	H	342	H	panther	PTHR13713	Glycosyltransferase 29	family	90	424
+A0AAA9U1T6	190	Y	191	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	126	416
+A0AAA9U1T6	190	Y	191	Y	interpro	IPR001675	Glycosyl transferase family 29	family	169	408
+A0AAA9U1T6	190	Y	191	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	126	416
+A0AAA9U1T6	190	Y	191	Y	interpro	IPR051142	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	190	Y	191	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	169	408
+A0AAA9U1T6	190	Y	191	Y	panther	PTHR13713	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	203	R	204	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	201	406
+A0AAA9U1T6	203	R	204	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	126	416
+A0AAA9U1T6	203	R	204	R	interpro	IPR001675	Glycosyl transferase family 29	family	169	408
+A0AAA9U1T6	203	R	204	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	126	416
+A0AAA9U1T6	203	R	204	R	interpro	IPR051142	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	203	R	204	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	169	408
+A0AAA9U1T6	203	R	204	R	panther	PTHR13713	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	320	Y	321	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	201	406
+A0AAA9U1T6	320	Y	321	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	126	416
+A0AAA9U1T6	320	Y	321	Y	interpro	IPR001675	Glycosyl transferase family 29	family	169	408
+A0AAA9U1T6	320	Y	321	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	126	416
+A0AAA9U1T6	320	Y	321	Y	interpro	IPR051142	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	320	Y	321	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	169	408
+A0AAA9U1T6	320	Y	321	Y	panther	PTHR13713	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	333	I	334	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	201	406
+A0AAA9U1T6	333	I	334	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	126	416
+A0AAA9U1T6	333	I	334	I	interpro	IPR001675	Glycosyl transferase family 29	family	169	408
+A0AAA9U1T6	333	I	334	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	126	416
+A0AAA9U1T6	333	I	334	I	interpro	IPR051142	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	333	I	334	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	169	408
+A0AAA9U1T6	333	I	334	I	panther	PTHR13713	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	334	H	335	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	201	406
+A0AAA9U1T6	334	H	335	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	126	416
+A0AAA9U1T6	334	H	335	H	interpro	IPR001675	Glycosyl transferase family 29	family	169	408
+A0AAA9U1T6	334	H	335	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	126	416
+A0AAA9U1T6	334	H	335	H	interpro	IPR051142	Glycosyltransferase 29	family	83	417
+A0AAA9U1T6	334	H	335	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	169	408
+A0AAA9U1T6	334	H	335	H	panther	PTHR13713	Glycosyltransferase 29	family	83	417
+A0AAF6DLN4	190	Y	172	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	107	397
+A0AAF6DLN4	190	Y	172	Y	interpro	IPR001675	Glycosyl transferase family 29	family	150	389
+A0AAF6DLN4	190	Y	172	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	107	397
+A0AAF6DLN4	190	Y	172	Y	interpro	IPR051142	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	190	Y	172	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	150	389
+A0AAF6DLN4	190	Y	172	Y	panther	PTHR13713	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	203	R	185	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	182	387
+A0AAF6DLN4	203	R	185	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	107	397
+A0AAF6DLN4	203	R	185	R	interpro	IPR001675	Glycosyl transferase family 29	family	150	389
+A0AAF6DLN4	203	R	185	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	107	397
+A0AAF6DLN4	203	R	185	R	interpro	IPR051142	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	203	R	185	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	150	389
+A0AAF6DLN4	203	R	185	R	panther	PTHR13713	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	320	Y	302	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	182	387
+A0AAF6DLN4	320	Y	302	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	107	397
+A0AAF6DLN4	320	Y	302	Y	interpro	IPR001675	Glycosyl transferase family 29	family	150	389
+A0AAF6DLN4	320	Y	302	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	107	397
+A0AAF6DLN4	320	Y	302	Y	interpro	IPR051142	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	320	Y	302	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	150	389
+A0AAF6DLN4	320	Y	302	Y	panther	PTHR13713	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	333	I	315	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	182	387
+A0AAF6DLN4	333	I	315	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	107	397
+A0AAF6DLN4	333	I	315	I	interpro	IPR001675	Glycosyl transferase family 29	family	150	389
+A0AAF6DLN4	333	I	315	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	107	397
+A0AAF6DLN4	333	I	315	I	interpro	IPR051142	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	333	I	315	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	150	389
+A0AAF6DLN4	333	I	315	I	panther	PTHR13713	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	334	H	316	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	182	387
+A0AAF6DLN4	334	H	316	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	107	397
+A0AAF6DLN4	334	H	316	H	interpro	IPR001675	Glycosyl transferase family 29	family	150	389
+A0AAF6DLN4	334	H	316	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	107	397
+A0AAF6DLN4	334	H	316	H	interpro	IPR051142	Glycosyltransferase 29	family	64	398
+A0AAF6DLN4	334	H	316	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	150	389
+A0AAF6DLN4	334	H	316	H	panther	PTHR13713	Glycosyltransferase 29	family	64	398
+Q70E76	190	Y	106	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	41	331
+Q70E76	190	Y	106	Y	interpro	IPR001675	Glycosyl transferase family 29	family	84	323
+Q70E76	190	Y	106	Y	interpro	IPR012163	Sialyltransferase	family	39	331
+Q70E76	190	Y	106	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	41	331
+Q70E76	190	Y	106	Y	interpro	IPR051142	Glycosyltransferase 29	family	1	332
+Q70E76	190	Y	106	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	84	323
+Q70E76	190	Y	106	Y	pirsf	PIRSF005557	Sialyltransferase	family	39	331
+Q70E76	190	Y	106	Y	panther	PTHR13713	Glycosyltransferase 29	family	1	332
+Q70E76	203	R	119	R	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	116	321
+Q70E76	203	R	119	R	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	41	331
+Q70E76	203	R	119	R	interpro	IPR001675	Glycosyl transferase family 29	family	84	323
+Q70E76	203	R	119	R	interpro	IPR012163	Sialyltransferase	family	39	331
+Q70E76	203	R	119	R	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	41	331
+Q70E76	203	R	119	R	interpro	IPR051142	Glycosyltransferase 29	family	1	332
+Q70E76	203	R	119	R	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	84	323
+Q70E76	203	R	119	R	pirsf	PIRSF005557	Sialyltransferase	family	39	331
+Q70E76	203	R	119	R	panther	PTHR13713	Glycosyltransferase 29	family	1	332
+Q70E76	320	Y	236	Y	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	116	321
+Q70E76	320	Y	236	Y	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	41	331
+Q70E76	320	Y	236	Y	interpro	IPR001675	Glycosyl transferase family 29	family	84	323
+Q70E76	320	Y	236	Y	interpro	IPR012163	Sialyltransferase	family	39	331
+Q70E76	320	Y	236	Y	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	41	331
+Q70E76	320	Y	236	Y	interpro	IPR051142	Glycosyltransferase 29	family	1	332
+Q70E76	320	Y	236	Y	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	84	323
+Q70E76	320	Y	236	Y	pirsf	PIRSF005557	Sialyltransferase	family	39	331
+Q70E76	320	Y	236	Y	panther	PTHR13713	Glycosyltransferase 29	family	1	332
+Q70E76	333	I	249	I	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	116	321
+Q70E76	333	I	249	I	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	41	331
+Q70E76	333	I	249	I	interpro	IPR001675	Glycosyl transferase family 29	family	84	323
+Q70E76	333	I	249	I	interpro	IPR012163	Sialyltransferase	family	39	331
+Q70E76	333	I	249	I	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	41	331
+Q70E76	333	I	249	I	interpro	IPR051142	Glycosyltransferase 29	family	1	332
+Q70E76	333	I	249	I	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	84	323
+Q70E76	333	I	249	I	pirsf	PIRSF005557	Sialyltransferase	family	39	331
+Q70E76	333	I	249	I	panther	PTHR13713	Glycosyltransferase 29	family	1	332
+Q70E76	334	H	250	H	cdd	cd23982	beta-galactoside alpha-2,3-sialyltransferase 4	domain	116	321
+Q70E76	334	H	250	H	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	41	331
+Q70E76	334	H	250	H	interpro	IPR001675	Glycosyl transferase family 29	family	84	323
+Q70E76	334	H	250	H	interpro	IPR012163	Sialyltransferase	family	39	331
+Q70E76	334	H	250	H	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	41	331
+Q70E76	334	H	250	H	interpro	IPR051142	Glycosyltransferase 29	family	1	332
+Q70E76	334	H	250	H	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	84	323
+Q70E76	334	H	250	H	pirsf	PIRSF005557	Sialyltransferase	family	39	331
+Q70E76	334	H	250	H	panther	PTHR13713	Glycosyltransferase 29	family	1	332

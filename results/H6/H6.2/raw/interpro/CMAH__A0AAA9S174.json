@@ -1,0 +1,534 @@
+{
+  "count": 14,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd03473",
+        "name": "Rieske_CMP_Neu5Ac_hydrolase_N",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": "IPR037339",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 104,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd03473",
+              "score": 9.89185e-66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:2.102.10.10",
+        "name": "Rieske [2Fe-2S] iron-sulphur domain",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036922",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 17,
+                  "end": 112,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "1vm9A00",
+              "score": 4.1e-08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.60.15.10",
+        "name": "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036866",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 127,
+                  "end": 360,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "3kl7A00",
+              "score": 1.8e-18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR017941",
+        "name": "Rieske [2Fe-2S] iron-sulphur domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "profile": {
+            "PS51296": "Rieske [2Fe-2S] iron-sulfur domain profile"
+          },
+          "pfam": {
+            "PF00355": "Rieske [2Fe-2S] domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0051537",
+            "name": "2 iron, 2 sulfur cluster binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 14,
+                  "end": 112,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR027033",
+        "name": "Cytidine monophosphate-N-acetylneuraminic acid hydroxylase",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR46522": "CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 586,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036866",
+        "name": "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF56281": "Metallo-hydrolase/oxidoreductase"
+          },
+          "cathgene3d": {
+            "G3DSA:3.60.15.10": "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 127,
+                  "end": 360,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036922",
+        "name": "Rieske [2Fe-2S] iron-sulphur domain superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:2.102.10.10": "Rieske [2Fe-2S] iron-sulphur domain"
+          },
+          "ssf": {
+            "SSF50022": "ISP domain"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0051537",
+            "name": "2 iron, 2 sulfur cluster binding",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 17,
+                  "end": 122,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR037339",
+        "name": "Cytidine monophosphate-N-acetylneuraminic acid hydroxylase, Rieske domain",
+        "source_database": "interpro",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": {
+          "cdd": {
+            "cd03473": "Rieske_CMP_Neu5Ac_hydrolase_N"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 104,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF00355",
+        "name": "Rieske [2Fe-2S] domain",
+        "source_database": "pfam",
+        "type": "domain",
+        "integrated": "IPR017941",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 18,
+                  "end": 88,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF00355",
+              "score": 0.036
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF13483",
+        "name": "Beta-lactamase superfamily domain",
+        "source_database": "pfam",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 138,
+                  "end": 265,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF13483",
+              "score": 4.2e-05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PS51296",
+        "name": "Rieske [2Fe-2S] iron-sulfur domain profile",
+        "source_database": "profile",
+        "type": "domain",
+        "integrated": "IPR017941",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 14,
+                  "end": 112,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PS51296",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR46522",
+        "name": "CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR027033",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 586,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR46522:SF1",
+              "score": 0,
+              "subfamily": {
+                "accession": "PTHR46522:SF1",
+                "name": "INACTIVE CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF50022",
+        "name": "ISP domain",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036922",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 19,
+                  "end": 122,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0044891",
+              "score": 4e-12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF56281",
+        "name": "Metallo-hydrolase/oxidoreductase",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036866",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a0aaa9s174",
+          "protein_length": 587,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 131,
+                  "end": 307,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "0048716",
+              "score": 7.45e-19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1121 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "Q3SZM5",
+  "uniProtkbId": "NEUA_BOVIN",
+  "entryAudit": {
+    "firstPublicDate": "2008-02-05",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2005-10-11",
+    "entryVersion": 98,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 4.0,
+  "organism": {
+    "scientificName": "Bos taurus",
+    "commonName": "Bovine",
+    "taxonId": 9913,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Ruminantia",
+      "Pecora",
+      "Bovidae",
+      "Bovinae",
+      "Bos"
+    ]
+  },
+  "proteinExistence": "2: Evidence at transcript level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "value": "N-acylneuraminate cytidylyltransferase"
+      },
+      "ecNumbers": [
+        {
+          "value": "2.7.7.43"
+        }
+      ]
+    },
+    "alternativeNames": [
+      {
+        "fullName": {
+          "value": "CMP-N-acetylneuraminic acid synthase"
+        },
+        "shortNames": [
+          {
+            "value": "CMP-NeuNAc synthase"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "geneName": {
+        "value": "CMAS"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250"
+            }
+          ],
+          "value": "Catalyzes the activation of N-acetylneuraminic acid (NeuNAc) to cytidine 5'-monophosphate N-acetylneuraminic acid (CMP-NeuNAc), a substrate required for the addition of sialic acid. Has some activity toward NeuNAc, N-glycolylneuraminic acid (Neu5Gc) or 2-keto-3-deoxy-D-glycero-D-galacto-nononic acid (KDN) (By similarity)"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "commentType": "CATALYTIC ACTIVITY",
+      "reaction": {
+        "name": "an N-acylneuraminate + CTP = a CMP-N-acyl-beta-neuraminate + diphosphate",
+        "reactionCrossReferences": [
+          {
+            "database": "Rhea",
+            "id": "RHEA:11344"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:33019"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:37563"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:60073"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:68671"
+          }
+        ],
+        "ecNumber": "2.7.7.43"
+      }
+    },
+    {
+      "texts": [
+        {
+          "value": "Amino-sugar metabolism; N-acetylneuraminate metabolism"
+        }
+      ],
+      "commentType": "PATHWAY"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250"
+            }
+          ],
+          "value": "Homotetramer; the active enzyme is formed by a dimer of dimers"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "value": "Nucleus",
+            "id": "SL-0191"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250"
+            }
+          ],
+          "value": "The BC2 (basic cluster 2) motif is necessary and sufficient for the nuclear localization and contains the catalytic active site. The localization in the nucleus is however not required for the enzyme activity (By similarity)"
+        }
+      ],
+      "commentType": "DOMAIN"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the CMP-NeuNAc synthase family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    }
+  ],
+  "features": [
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 434,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-acylneuraminate cytidylyltransferase",
+      "featureId": "PRO_0000317033"
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 42,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Disordered",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "MobiDB-lite"
+        }
+      ]
+    },
+    {
+      "type": "Motif",
+      "location": {
+        "start": {
+          "value": 15,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 31,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BC1 motif"
+    },
+    {
+      "type": "Motif",
+      "location": {
+        "start": {
+          "value": 200,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 206,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BC2 motif"
+    },
+    {
+      "type": "Motif",
+      "location": {
+        "start": {
+          "value": 269,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 276,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BC3 motif"
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 201,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 201,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ]
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 52,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 52,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 62,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 62,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 111,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 111,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 120,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 120,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 122,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 122,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 143,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 143,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Modified residue",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 1,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-acetylmethionine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q8NFW8"
+        }
+      ]
+    },
+    {
+      "type": "Modified residue",
+      "location": {
+        "start": {
+          "value": 37,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 37,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Omega-N-methylarginine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q99KK2"
+        }
+      ]
+    },
+    {
+      "type": "Modified residue",
+      "location": {
+        "start": {
+          "value": 52,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 52,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Omega-N-methylarginine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q99KK2"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0007",
+      "category": "PTM",
+      "name": "Acetylation"
+    },
+    {
+      "id": "KW-0488",
+      "category": "PTM",
+      "name": "Methylation"
+    },
+    {
+      "id": "KW-0548",
+      "category": "Molecular function",
+      "name": "Nucleotidyltransferase"
+    },
+    {
+      "id": "KW-0539",
+      "category": "Cellular component",
+      "name": "Nucleus"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0808",
+      "category": "Molecular function",
+      "name": "Transferase"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-BB3I87URM95J3",
+        "citationType": "submission",
+        "authoringGroup": [
+          "NIH - Mammalian Gene Collection (MGC) project"
+        ],
+        "publicationDate": "AUG-2005",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Crossbred X Angus",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Ileum",
+          "type": "TISSUE"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "BC102786",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAI02787.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_001030475.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001035398.1"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "Q3SZM5",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "Q3SZM5",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "Q3SZM5",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "426"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9913.ENSBTAP00000013373",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9913-ENSBTAP00000013373",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00000013373.7",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00000013373.6"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00000010136.7"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00085077489",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00085036420"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00085035850"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00090036195",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00090018550"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00090017983"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "100336710",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "bta:100336710",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "55907",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSBTAG00000010136",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VGNC",
+      "id": "VGNC:27476",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "CMAS"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502QQH3",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00390000004237",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "Q3SZM5",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "FHGFVWR",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "10262032at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-4085001",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Sialic acid metabolism"
+        }
+      ]
+    },
+    {
+      "database": "UniPathway",
+      "id": "UPA00628",
+      "properties": [
+        {
+          "key": "RectionId",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000009136",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 5"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSBTAG00000010136",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in spermatocyte and 104 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "Q3SZM5",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005730",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:nucleolus"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0090633",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:keto-deoxynonulosonic acid (KDN) cytidylyltransferase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "8381411"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0008781",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:N-acylneuraminate cytidylyltransferase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "8381411"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0090632",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:N-glycolylneuraminic acid (Neu5Gc) cytidylyltransferase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:AgBase"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "8381411"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006055",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:CMP-N-acetylneuraminate biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006054",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:N-acetylneuraminate metabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-UniPathway"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd02513",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CMP-NeuAc_Synthase"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.40.50.1000:FF:000082",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "N-acylneuraminate cytidylyltransferase A"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.90.550.10:FF:000074",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "N-acylneuraminate cytidylyltransferase A"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.40.50.1000",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "HAD superfamily/HAD-like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.90.550.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Spore Coat Polysaccharide Biosynthesis Protein SpsA, Chain A"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR050793",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CMP-NeuNAc_synthase"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR003329",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Cytidylyl_trans"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR036412",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "HAD-like_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR023214",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "HAD_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR029044",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Nucleotide-diphossugar_trans"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR21485",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "HAD SUPERFAMILY MEMBERS CMAS AND KDSC"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR21485:SF3",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "N-ACYLNEURAMINATE CYTIDYLYLTRANSFERASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF02348",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CTP_transf_3"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF56784",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "HAD-like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF53448",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Nucleotide-diphospho-sugar transferases"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MDSVEKGAATSVSNPRGRPSRGRPPKLQRNSRGGQGRGVEKPPHMAALILARGGSKGIPLKNIKHLAGVPLIGWVLRAALDSGVFQSIWVSTDHDEIENVAKQFGAQVHRRSSEASKDSSTSLDAIIEFLNYHNEVDIVGNIQATSPCLHPTDLQKVAEMIREEGYDSVFSVVRRHQFRWGEIQKGVREMTEPLNLNPAKRPRRQDWDGELYENGSFYFAKRHLIEMGYLQGGKMAYYEMRAEHSVDIDVDIDWPIAEQRVLRYGYFGKEKLKEIKLFVCNIDGCLTNGHIYVSGDQKEIISYDVKDAIGISLLKKSGIEVRLISERACSKQTLSSLKLDCKMEVNVPDKLAVVDEWRKEMGLCWKEVAYLGNEVSDEECLKKVGLSGVPADACAAAQKAVGYICKSSGGRGALREFAEHIFLLMEKVINSCQK",
+    "length": 434,
+    "molWeight": 48438,
+    "crc64": "7B5A3C9A3B194412",
+    "md5": "4C63410DF51D922139A3676599DFF09E"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "CATALYTIC ACTIVITY": 1,
+      "PATHWAY": 1,
+      "SUBUNIT": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "DOMAIN": 1,
+      "SIMILARITY": 1
+    },
+    "countByFeatureType": {
+      "Chain": 1,
+      "Region": 1,
+      "Motif": 3,
+      "Active site": 1,
+      "Binding site": 6,
+      "Modified residue": 3
+    },
+    "uniParcId": "UPI00005B2A3B"
+  }
+}

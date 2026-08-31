@@ -1,0 +1,671 @@
+{
+  "count": 17,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd04305",
+        "name": "human N-acetylneuraminate-9-phosphate phosphatase, Escherichia coli house-cleaning phosphatase YjjG, and related phosphatases",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 109,
+                  "end": 210,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd04305",
+              "score": 4.24951e-47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:1.20.120.710",
+        "name": "Haloacid dehalogenase hydrolase-like domain",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 19,
+                  "end": 104,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "2gfhA02",
+              "score": 9.8e-47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.40.50.1000",
+        "name": "HAD superfamily/HAD-like",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR023214",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 105,
+                  "end": 246,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "4knvA01",
+              "score": 6.1e-41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR006439",
+        "name": "HAD hydrolase, subfamily IA",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "ncbifam": {
+            "TIGR01549": "HAD-IA family hydrolase",
+            "TIGR01509": "HAD-IA family hydrolase",
+            "TIGR01493": "HAD-IA family hydrolase"
+          },
+          "prints": {
+            "PR00413": "HADHALOGNASE"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 17,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            },
+            {
+              "fragments": [
+                {
+                  "start": 120,
+                  "end": 202,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR011950",
+        "name": "HAD-superfamily hydrolase, subfamily IA, CTE7",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "ncbifam": {
+            "TIGR02253": "TIGR02253 family HAD-type hydrolase"
+          }
+        },
+        "go_terms": [
+          {
+            "identifier": "GO:0016787",
+            "name": "hydrolase activity",
+            "category": {
+              "code": "F",
+              "name": "molecular_function"
+            }
+          }
+        ]
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 233,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR023214",
+        "name": "HAD superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.40.50.1000": "HAD superfamily/HAD-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 105,
+                  "end": 246,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036412",
+        "name": "HAD-like superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF56784": "HAD-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 240,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR051400",
+        "name": "HAD-like hydrolase superfamily enzymes",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR46470": "HAD-like hydrolase superfamily enzymes"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 242,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF00702",
+        "name": "haloacid dehalogenase-like hydrolase",
+        "source_database": "pfam",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 202,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF00702",
+              "score": 6.7e-20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PR00413",
+        "name": "HADHALOGNASE",
+        "source_database": "prints",
+        "type": "family",
+        "integrated": "IPR006439",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 17,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00413",
+              "score": 3.18e-05
+            },
+            {
+              "fragments": [
+                {
+                  "start": 120,
+                  "end": 133,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00413",
+              "score": 0.0541
+            },
+            {
+              "fragments": [
+                {
+                  "start": 151,
+                  "end": 167,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00413",
+              "score": 0.00187
+            },
+            {
+              "fragments": [
+                {
+                  "start": 169,
+                  "end": 189,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PR00413",
+              "score": 0.000513
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR46470",
+        "name": "HAD-like hydrolase superfamily enzymes",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR051400",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 242,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR46470:SF3",
+              "score": 3.9e-112,
+              "subfamily": {
+                "accession": "PTHR46470:SF3",
+                "name": "N-ACYLNEURAMINATE-9-PHOSPHATASE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SFLDG01129",
+        "name": "C1.5: HAD, Beta-PGM, Phosphatase Like",
+        "source_database": "sfld",
+        "type": "family",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 240,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "SFLDG01129",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SFLDG01135",
+        "name": "C1.5.6: HAD, Beta-PGM, Phosphatase Like",
+        "source_database": "sfld",
+        "type": "family",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 240,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "SFLDG01135",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SFLDS00003",
+        "name": "Haloacid Dehalogenase",
+        "source_database": "sfld",
+        "type": "family",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 5,
+                  "end": 240,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "SFLDS00003",
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF56784",
+        "name": "HAD-like",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036412",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 1,
+                  "end": 240,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "0052884",
+              "score": 6.3e-43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "TIGR01549",
+        "name": "HAD-IA family hydrolase",
+        "source_database": "ncbifam",
+        "type": "family",
+        "integrated": "IPR006439",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 122,
+                  "end": 202,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "TIGR01549",
+              "score": 2.2e-07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "TIGR02253",
+        "name": "TIGR02253 family HAD-type hydrolase",
+        "source_database": "ncbifam",
+        "type": "family",
+        "integrated": "IPR011950",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "a7ywm8",
+          "protein_length": 248,
+          "source_database": "unreviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 6,
+                  "end": 233,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "TIGR02253",
+              "score": 4.9e-58
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

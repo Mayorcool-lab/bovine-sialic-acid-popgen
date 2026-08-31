@@ -1,0 +1,1226 @@
+{
+ "interproscan-version": "5.78-109.0",
+"results": [ {
+  "sequence" : "MGSIEQTAELLLCLSPAEVANLKEGINFVRNKSTGKDYILYKSKSLLRACKNMCKHQGGLFIKDIEDLDGRSVRCTKHNWKLDVSTMKYINPPGSFCQDELVVEESKENELLLLELNPPNPWDSEPRSPEDLAFGEVQITYLTHACMDLKLGDKRMVFDPWLTGPAFARGWWLLHEPPSDWLERLCQADLIYISHMHSDHLSYPTLKKLAGRRPDIPIYVGKTERPVFWNLNQSGVQLTNINVVPFGIWQQVDKNLRFMILMDGIHPEMDTCIIVEYKGHKILNTVDCTRPNGGRLPMKVDLMMSDFAGGASGFPMTFSGGKFTEEWKAQFIKTERKKLLNYKARLVKDLQPRIYCPFAGYFVESHPSDKYIKETNIKNDPDELNNLIKKNSDVLTWTPRPGATLDLGRMLKDPTDSKGIIEPPEGTKIYKDSWDFGPYLKILNAAVGDEIFRHSSWIKEYFTWAGFKDYNLVVRMIETDEDFSPFPGGYDYLVDFLDLSFPKERPSREHPFEEIRSRVDVIRHVVKNGLLWDDLYIGFQTRLQRDPDIYHHLFWNHFQIKLPLTPPDWKSFLMYCG",
+  "md5" : "d61e3265e8a7ff57712bc71c942be615",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF56281",
+      "name" : "Metallo-hydrolase/oxidoreductase",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036866",
+        "name" : "RibonucZ/Hydroxyglut_hydro",
+        "description" : "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-70268"
+        }, {
+          "name" : "DNA damage recognition in global genomic repair",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-353248"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-73856"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-1614517"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-5693571"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-1614517"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-6783310"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-6807505"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-5693571"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-70268"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9770562"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-70268"
+        }, {
+          "name" : "mRNA 3'-end processing",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-72187"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-70268"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9770562"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9770562"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9770562"
+        }, {
+          "name" : "mRNA 3'-end processing",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-72187"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-159231"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-70268"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-70268"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-5693571"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9770562"
+        }, {
+          "name" : "tRNA processing in the nucleus",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6784531"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-5693571"
+        }, {
+          "name" : "Complex IV assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9864848"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-5693571"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-70268"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-77595"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-77595"
+        }, {
+          "name" : "Nucleotide Excision Repair",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-353303"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-159231"
+        }, {
+          "name" : "tRNA processing in the mitochondrion",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6785470"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-9770562"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-73856"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-77595"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-6807505"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-70268"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-77595"
+        }, {
+          "name" : "Dengue Virus-Host Interactions",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9918481"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-77595"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-73856"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6783310"
+        }, {
+          "name" : "rRNA processing in the mitochondrion",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-8868766"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-159231"
+        }, {
+          "name" : "Biosynthesis of A2E, implicated in retinal degradation",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-2466712"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-6807505"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-159231"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6807505"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-6807505"
+        }, {
+          "name" : "tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9708296"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-73856"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9770562"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-6807505"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-159231"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-77595"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-159231"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-77595"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-6783310"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-73856"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-1614517"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-77595"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-6783310"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 131,
+      "end" : 313,
+      "representative" : false,
+      "hmmLength" : 294,
+      "location-fragments" : [ {
+        "start" : 131,
+        "end" : 313,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.55E-19,
+    "model-ac" : "0048716"
+  }, {
+    "signature" : {
+      "accession" : "cd03473",
+      "name" : "Rieske_CMP_Neu5Ac_hydrolase_N",
+      "description" : "Rieske_CMP_Neu5Ac_hydrolase_N",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR037339",
+        "name" : "CMP-Neu5Ac_hydroxylase_Rieske",
+        "description" : "Cytidine monophosphate-N-acetylneuraminic acid hydroxylase, Rieske domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ {
+          "name" : "CMP-N-glycoloylneuraminate biosynthesis",
+          "databaseName" : "MetaCyc",
+          "id" : "PWY-6144"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 104,
+      "representative" : false,
+      "sites" : null,
+      "evalue" : 8.14133E-66,
+      "score" : 208.11,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 104,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03473"
+  }, {
+    "signature" : {
+      "accession" : "PTHR46522",
+      "name" : "CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE",
+      "description" : null,
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR027033",
+        "name" : "Cnh",
+        "description" : "Cytidine monophosphate-N-acetylneuraminic acid hydroxylase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ {
+          "name" : "CMP-N-glycoloylneuraminate biosynthesis",
+          "databaseName" : "MetaCyc",
+          "id" : "PWY-6144"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 5,
+      "end" : 576,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 574,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 4,
+      "envelopeEnd" : 577,
+      "location-fragments" : [ {
+        "start" : 5,
+        "end" : 576,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR46522:SF1",
+    "name" : "INACTIVE CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE",
+    "evalue" : 0.0,
+    "score" : 1204.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN001430727",
+    "goXRefs" : [ {
+      "name" : "cytoplasm",
+      "databaseName" : "GO",
+      "category" : "CELLULAR_COMPONENT",
+      "id" : "GO:0005737"
+    }, {
+      "name" : "CMP-N-acetylneuraminate monooxygenase activity",
+      "databaseName" : "GO",
+      "category" : "MOLECULAR_FUNCTION",
+      "id" : "GO:0030338"
+    }, {
+      "name" : "CMP-N-acetylneuraminate metabolic process",
+      "databaseName" : "GO",
+      "category" : "BIOLOGICAL_PROCESS",
+      "id" : "GO:0046381"
+    } ],
+    "model-ac" : "PTHR46522:SF1"
+  }, {
+    "signature" : {
+      "accession" : "PF00355",
+      "name" : "Rieske",
+      "description" : "Rieske [2Fe-2S] domain",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR017941",
+        "name" : "Rieske_2Fe-2S",
+        "description" : "Rieske [2Fe-2S] iron-sulphur domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "2 iron, 2 sulfur cluster binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0051537"
+        } ],
+        "pathwayXRefs" : [ {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SSC-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865878"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9865881"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-9865881"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 88,
+      "representative" : false,
+      "hmmStart" : 7,
+      "hmmEnd" : 75,
+      "hmmLength" : 89,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.035,
+      "score" : 25.3,
+      "envelopeStart" : 14,
+      "envelopeEnd" : 98,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 88,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.018,
+    "score" : 26.2,
+    "model-ac" : "PF00355"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.60.15.10:FF:000025",
+      "name" : null,
+      "description" : "Inactive cytidine monophosphate-N-acetylneuraminic acid hydroxylase",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 137,
+      "end" : 288,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 152,
+      "hmmLength" : 152,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.2E-105,
+      "score" : 350.6,
+      "envelopeStart" : 137,
+      "envelopeEnd" : 288,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 137,
+        "end" : 288,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.5E-105,
+    "score" : 351.1,
+    "model-ac" : "3.60.15.10-FF-000025"
+  }, {
+    "signature" : {
+      "accession" : "PF13483",
+      "name" : "Lactamase_B_3",
+      "description" : "Beta-lactamase superfamily domain",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 138,
+      "end" : 265,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 103,
+      "hmmLength" : 160,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 4.1E-5,
+      "score" : 35.1,
+      "envelopeStart" : 138,
+      "envelopeEnd" : 267,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 138,
+        "end" : 265,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-5,
+    "score" : 35.9,
+    "model-ac" : "PF13483"
+  }, {
+    "signature" : {
+      "accession" : "SSF50022",
+      "name" : "ISP domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036922",
+        "name" : "Rieske_2Fe-2S_sf",
+        "description" : "Rieske [2Fe-2S] iron-sulphur domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "2 iron, 2 sulfur cluster binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0051537"
+        } ],
+        "pathwayXRefs" : [ {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SSC-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865878"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9865881"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-9865881"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 19,
+      "end" : 122,
+      "representative" : true,
+      "hmmLength" : 109,
+      "location-fragments" : [ {
+        "start" : 19,
+        "end" : 122,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.85E-12,
+    "model-ac" : "0044891"
+  }, {
+    "signature" : {
+      "accession" : "PS51296",
+      "name" : "RIESKE",
+      "description" : "Rieske [2Fe-2S] iron-sulfur domain profile.",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2026_01"
+      },
+      "entry" : {
+        "accession" : "IPR017941",
+        "name" : "Rieske_2Fe-2S",
+        "description" : "Rieske [2Fe-2S] iron-sulphur domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "2 iron, 2 sulfur cluster binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0051537"
+        } ],
+        "pathwayXRefs" : [ {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SSC-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865878"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9865881"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-9865881"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 112,
+      "representative" : false,
+      "score" : 14.185232,
+      "alignment" : "LSPAEVANLKEGiNFVRNKSTGKDYILYKSKSL-LRACKNMCKHQGGLFIKDIEdLDGRSVRCTKHNWKLDVS-TMKYINPPGSFCQDELVVEESKENELL",
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 112,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS51296"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.102.10.10",
+      "name" : "",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR036922",
+        "name" : "Rieske_2Fe-2S_sf",
+        "description" : "Rieske [2Fe-2S] iron-sulphur domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "2 iron, 2 sulfur cluster binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0051537"
+        } ],
+        "pathwayXRefs" : [ {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SSC-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-9865878"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9865881"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9865881"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-611105"
+        }, {
+          "name" : "Respiratory electron transport",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-611105"
+        }, {
+          "name" : "Complex III assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-9865881"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 17,
+      "end" : 112,
+      "representative" : false,
+      "hmmStart" : 20,
+      "hmmEnd" : 82,
+      "hmmLength" : 111,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.0E-8,
+      "score" : 34.8,
+      "envelopeStart" : 17,
+      "envelopeEnd" : 112,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 17,
+        "end" : 112,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-8,
+    "score" : 35.7,
+    "model-ac" : "1vm9A00"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.60.15.10",
+      "name" : "",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR036866",
+        "name" : "RibonucZ/Hydroxyglut_hydro",
+        "description" : "Ribonuclease Z/Hydroxyacylglutathione hydrolase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-70268"
+        }, {
+          "name" : "DNA damage recognition in global genomic repair",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-353248"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-73856"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-1614517"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-5693571"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-1614517"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-6783310"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-6807505"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-5693571"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-70268"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-9770562"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-70268"
+        }, {
+          "name" : "mRNA 3'-end processing",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-72187"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-70268"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-9770562"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-9770562"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-9770562"
+        }, {
+          "name" : "mRNA 3'-end processing",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-72187"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-159231"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-70268"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-70268"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-5693571"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-9770562"
+        }, {
+          "name" : "tRNA processing in the nucleus",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6784531"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-5693571"
+        }, {
+          "name" : "Complex IV assembly",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9864848"
+        }, {
+          "name" : "Nonhomologous End-Joining (NHEJ)",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-5693571"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-70268"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-77595"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-77595"
+        }, {
+          "name" : "Nucleotide Excision Repair",
+          "databaseName" : "Reactome",
+          "id" : "R-GGA-353303"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-159231"
+        }, {
+          "name" : "tRNA processing in the mitochondrion",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6785470"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-9770562"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-73856"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-77595"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-6807505"
+        }, {
+          "name" : "Pyruvate metabolism",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-70268"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-77595"
+        }, {
+          "name" : "Dengue Virus-Host Interactions",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9918481"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-SCE-77595"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-73856"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6783310"
+        }, {
+          "name" : "rRNA processing in the mitochondrion",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-8868766"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-SPO-159231"
+        }, {
+          "name" : "Biosynthesis of A2E, implicated in retinal degradation",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-2466712"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-6807505"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-DME-159231"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-6807505"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-6807505"
+        }, {
+          "name" : "tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9708296"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-73856"
+        }, {
+          "name" : "mRNA Polyadenylation",
+          "databaseName" : "Reactome",
+          "id" : "R-HSA-9770562"
+        }, {
+          "name" : "RNA polymerase II transcribes snRNA genes",
+          "databaseName" : "Reactome",
+          "id" : "R-DDI-6807505"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-159231"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-BTA-77595"
+        }, {
+          "name" : "Transport of Mature mRNA Derived from an Intronless Transcript",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-159231"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-CEL-77595"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-DRE-6783310"
+        }, {
+          "name" : "RNA Polymerase II Transcription Termination",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-73856"
+        }, {
+          "name" : "Sulfide oxidation to sulfate",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-1614517"
+        }, {
+          "name" : "Processing of Intronless Pre-mRNAs",
+          "databaseName" : "Reactome",
+          "id" : "R-MMU-77595"
+        }, {
+          "name" : "Fanconi Anemia Pathway",
+          "databaseName" : "Reactome",
+          "id" : "R-RNO-6783310"
+        } ]
+      }
+    },
+    "locations" : [ {
+      "start" : 127,
+      "end" : 361,
+      "representative" : true,
+      "hmmStart" : 28,
+      "hmmEnd" : 183,
+      "hmmLength" : 235,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.3E-17,
+      "score" : 65.7,
+      "envelopeStart" : 127,
+      "envelopeEnd" : 361,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 127,
+        "end" : 361,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.3E-18,
+    "score" : 66.4,
+    "model-ac" : "3kl7A00"
+  } ],
+  "xref" : [ {
+    "name" : "XP_024839792.1 cytidine monophosphate-N-acetylneuraminic acid hydroxylase isoform X2 [Bos taurus]",
+    "id" : "XP_024839792.1"
+  } ]
+} ]
+}

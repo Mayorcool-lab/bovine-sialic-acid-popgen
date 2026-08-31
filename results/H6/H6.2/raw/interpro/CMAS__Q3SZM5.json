@@ -1,0 +1,442 @@
+{
+  "count": 12,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "metadata": {
+        "accession": "cd02513",
+        "name": "CMP-NeuAc_Synthase activates N-acetylneuraminic acid by adding CMP moiety",
+        "source_database": "cdd",
+        "type": "domain",
+        "integrated": null,
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 46,
+                  "end": 259,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "cd02513",
+              "score": 1.15277e-92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.40.50.1000",
+        "name": "HAD superfamily/HAD-like",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR023214",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 270,
+                  "end": 434,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "3ewiB00",
+              "score": 2.3e-45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "G3DSA:3.90.550.10",
+        "name": "Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A",
+        "source_database": "cathgene3d",
+        "type": "homologous_superfamily",
+        "integrated": "IPR029044",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 42,
+                  "end": 269,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "1qwjB00",
+              "score": 1.2e-74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR003329",
+        "name": "Acylneuraminate cytidylyltransferase",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "pfam": {
+            "PF02348": "Cytidylyltransferase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 46,
+                  "end": 275,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR023214",
+        "name": "HAD superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "cathgene3d": {
+            "G3DSA:3.40.50.1000": "HAD superfamily/HAD-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 270,
+                  "end": 434,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR029044",
+        "name": "Nucleotide-diphospho-sugar transferases",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF53448": "Nucleotide-diphospho-sugar transferases"
+          },
+          "cathgene3d": {
+            "G3DSA:3.90.550.10": "Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 42,
+                  "end": 269,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR036412",
+        "name": "HAD-like superfamily",
+        "source_database": "interpro",
+        "type": "homologous_superfamily",
+        "integrated": null,
+        "member_databases": {
+          "ssf": {
+            "SSF56784": "HAD-like"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 271,
+                  "end": 425,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "IPR050793",
+        "name": "CMP-NeuNAc synthase",
+        "source_database": "interpro",
+        "type": "family",
+        "integrated": null,
+        "member_databases": {
+          "panther": {
+            "PTHR21485": "CMP-NeuNAc synthase"
+          }
+        },
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 35,
+                  "end": 427,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": null,
+              "score": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PF02348",
+        "name": "Cytidylyltransferase",
+        "source_database": "pfam",
+        "type": "family",
+        "integrated": "IPR003329",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 46,
+                  "end": 275,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "PF02348",
+              "score": 8.7e-56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "PTHR21485",
+        "name": "CMP-NeuNAc synthase",
+        "source_database": "panther",
+        "type": "family",
+        "integrated": "IPR050793",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 35,
+                  "end": 427,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": true,
+              "model": "PTHR21485:SF3",
+              "score": 0,
+              "subfamily": {
+                "accession": "PTHR21485:SF3",
+                "name": "N-ACYLNEURAMINATE CYTIDYLYLTRANSFERASE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF53448",
+        "name": "Nucleotide-diphospho-sugar transferases",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR029044",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 43,
+                  "end": 266,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "0049057",
+              "score": 1.03e-57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "accession": "SSF56784",
+        "name": "HAD-like",
+        "source_database": "ssf",
+        "type": "homologous_superfamily",
+        "integrated": "IPR036412",
+        "member_databases": null,
+        "go_terms": null
+      },
+      "proteins": [
+        {
+          "accession": "q3szm5",
+          "protein_length": 434,
+          "source_database": "reviewed",
+          "organism": "9913",
+          "in_alphafold": true,
+          "entry_protein_locations": [
+            {
+              "fragments": [
+                {
+                  "start": 271,
+                  "end": 425,
+                  "dc-status": "CONTINUOUS"
+                }
+              ],
+              "representative": false,
+              "model": "0047721",
+              "score": 7.12e-22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

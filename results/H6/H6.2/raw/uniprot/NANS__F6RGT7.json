@@ -1,0 +1,712 @@
+{
+  "entryType": "UniProtKB unreviewed (TrEMBL)",
+  "primaryAccession": "F6RGT7",
+  "uniProtkbId": "F6RGT7_BOVIN",
+  "entryAudit": {
+    "firstPublicDate": "2026-06-10",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2026-06-10",
+    "entryVersion": 1,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 1.0,
+  "organism": {
+    "scientificName": "Bos taurus",
+    "commonName": "Bovine",
+    "taxonId": 9913,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Ensembl",
+        "id": "ENSBTAP00000025318.2"
+      },
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Proteomes",
+        "id": "UP000009136"
+      }
+    ],
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Ruminantia",
+      "Pecora",
+      "Bovidae",
+      "Bovinae",
+      "Bos"
+    ]
+  },
+  "proteinExistence": "4: Predicted",
+  "proteinDescription": {
+    "submissionNames": [
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000025318.2"
+            }
+          ],
+          "value": "N-acetylneuraminate synthase"
+        }
+      }
+    ]
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "Ensembl",
+            "id": "ENSBTAP00000025318.2"
+          }
+        ],
+        "value": "NANS"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Proteomes",
+          "id": "UP000009136"
+        }
+      ],
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-DV49K6FT0EEMD",
+        "citationType": "submission",
+        "authors": [
+          "Rosen B.D.",
+          "Bickhart D.M.",
+          "Koren S.",
+          "Schnabel R.D.",
+          "Hall R.",
+          "Zimin A.",
+          "Dreischer C.",
+          "Schultheiss S.",
+          "Schroeder S.G.",
+          "Elsik C.G.",
+          "Couldrey C.",
+          "Liu G.E.",
+          "Van Tassell C.P.",
+          "Phillippy A.M.",
+          "Smith T.P.L.",
+          "Medrano J.F."
+        ],
+        "title": "ARS-UCD1.2.",
+        "publicationDate": "MAR-2018",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000025318.2"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000025318.2"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "CI-20IM145UGQVF7",
+        "citationType": "submission",
+        "authoringGroup": [
+          "Ensembl"
+        ],
+        "publicationDate": "JAN-2026",
+        "submissionDatabase": "UniProtKB"
+      },
+      "referencePositions": [
+        "IDENTIFICATION"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000025318.2"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000025318.2"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "RefSeq",
+      "id": "NP_001039947.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001046482.1"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9913.ENSBTAP00000025318",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9913-ENSBTAP00000025318",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00000025318.5",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00000025318.2"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00000019023.6"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "540602",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "bta:540602",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "54187",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSBTAG00000019023",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502QR5J",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00390000011081",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_040465_1_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "MTYIDYR",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "9928645at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-4085001",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Sialic acid metabolism"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000009136",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 8"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSBTAG00000019023",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in prostate gland and 106 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005829",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cytosol"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005654",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:nucleoplasm"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0047444",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:N-acylneuraminate-9-phosphate synthase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0016051",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:carbohydrate biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:InterPro"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006055",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:CMP-N-acetylneuraminate biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0046380",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:N-acetylneuraminate biosynthetic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd11615",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF_NeuB_like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.20.20.70:FF:000144",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "sialic acid synthase"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.90.1210.10:FF:000002",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialic acid synthase"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.20.20.70",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Aldolase class I"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.90.1210.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR036732",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "AFP_Neu5c_C_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR013785",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Aldolase_TIM"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR006013",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Antifreeze_III"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR051690",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "PseI-like"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR013132",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "PseI/NeuA/B-like_N"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR013974",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR006190",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF_AFP_Neu5Ac"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR057736",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF_PseI/NeuA/NeuB"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR42966",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "N-ACETYLNEURAMINATE SYNTHASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR42966:SF1",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SIALIC ACID SYNTHASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF03102",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "NeuB"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF08666",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PRINTS",
+      "id": "PR00357",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ANTIFREEZIII"
+        }
+      ]
+    },
+    {
+      "database": "SMART",
+      "id": "SM00858",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SAF"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF51269",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "AFP III-like domain"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF51569",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Aldolase"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS50844",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "AFP_LIKE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MPLELELCPGRWVGGHHPCFIIAEIGQNHQGDLDVAKRMIRMAKECGADCAKFQKSELEYKFNRKALERPYTSKHSWGKTYGEHKRHLEFSHAQYKELQKYAEEVGIFFTASGMDEMAVEFLHELNVPFFKVGSGDTNNFPYLEKTAKKGRPMVISSGMQSMDTMKQVYQIVKALNPNFCFLQCTSAYPLQPEDVNLRVISEYQKLFPDIPIGYSGHETGIAISVAAVALGAKVLERHITLDKTWKGSDHSASLEPGELAELVRSVRLVERALGSPTKQLLPCEMACNEKLGKSVVAKVRIPEGSILTLDMLTVKVGEPKGYPPEDIFSLVGKKVLVTVEEDDTIMEELVENHGKKIRS",
+    "length": 359,
+    "molWeight": 40217,
+    "crc64": "21667FD07E8B38A5",
+    "md5": "FEB45001851449A0AE5F9E0093FF0AE0"
+  },
+  "extraAttributes": {
+    "uniParcId": "UPI00004F6123"
+  }
+}

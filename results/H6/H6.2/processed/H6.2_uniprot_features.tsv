@@ -1,0 +1,72 @@
+SYMBOL	uniprot_accession	uniprot_entry_type	feature_type	feature_start	feature_end	feature_description	evidence_code	evidence_source	evidence_source_accession
+CMAH	A0AAA9S174	UniProtKB unreviewed (TrEMBL)	Domain	14	112	Rieske	ECO:0000259	PROSITE	PS51296
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Chain	1	434	N-acylneuraminate cytidylyltransferase			
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Region	1	42	Disordered	ECO:0000256	SAM	MobiDB-lite
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Motif	15	31	BC1 motif			
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Motif	200	206	BC2 motif			
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Motif	269	276	BC3 motif			
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Active site	201	201		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	52	52		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	62	62		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	111	111		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	120	120		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	122	122		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Binding site	143	143		ECO:0000250		
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Modified residue	1	1	N-acetylmethionine	ECO:0000250	UniProtKB	Q8NFW8
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Modified residue	37	37	Omega-N-methylarginine	ECO:0000250	UniProtKB	Q99KK2
+CMAS	Q3SZM5	UniProtKB reviewed (Swiss-Prot)	Modified residue	52	52	Omega-N-methylarginine	ECO:0000250	UniProtKB	Q99KK2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Domain	38	375	UDP-N-acetylglucosamine 2-epimerase	ECO:0000259	Pfam	PF02350
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Active site	517	517		ECO:0000256	PIRSR	PIRSR620004-1
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	477	477		ECO:0000256	PIRSR	PIRSR620004-2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	489	489		ECO:0000256	PIRSR	PIRSR620004-2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	517	517		ECO:0000256	PIRSR	PIRSR620004-2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	566	566		ECO:0000256	PIRSR	PIRSR620004-2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	569	569		ECO:0000256	PIRSR	PIRSR620004-2
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	579	579		ECO:0000256	PIRSR	PIRSR620004-3
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	581	581		ECO:0000256	PIRSR	PIRSR620004-3
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	586	586		ECO:0000256	PIRSR	PIRSR620004-3
+GNE	F1MIL9	UniProtKB unreviewed (TrEMBL)	Binding site	588	588		ECO:0000256	PIRSR	PIRSR620004-2
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Signal	1	47		ECO:0000250	UniProtKB	Q99519
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Chain	48	415	Sialidase-1			
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Repeat	112	123	BNR 1			
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Repeat	172	183	BNR 2			
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Repeat	231	242	BNR 3			
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Repeat	347	358	BNR 4			
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Motif	77	80	FRIP motif	ECO:0000250	UniProtKB	Q99519
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Motif	412	415	Internalization signal	ECO:0000250	UniProtKB	Q99519
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Active site	103	103	Proton acceptor	ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Active site	264	264	Nucleophile	ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Active site	370	370	Nucleophile	ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Binding site	78	78		ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Binding site	97	97		ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Binding site	264	264		ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Binding site	280	280		ECO:0000250	UniProtKB	Q9Y3R4
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Glycosylation	186	186	N-linked (GlcNAc...) asparagine	ECO:0000255		
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Glycosylation	343	343	N-linked (GlcNAc...) asparagine	ECO:0000255		
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Glycosylation	352	352	N-linked (GlcNAc...) asparagine	ECO:0000255		
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Disulfide bond	158	164		ECO:0000250	UniProtKB	O35657
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Disulfide bond	218	230		ECO:0000250	UniProtKB	O35657
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Disulfide bond	287	289		ECO:0000250	UniProtKB	O35657
+NEU1	A6BMK7	UniProtKB reviewed (Swiss-Prot)	Sequence conflict	410	410	in Ref. 1; BAF64705	ECO:0000305		
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Domain	48	389	Sialidase	ECO:0000259	Pfam	PF13088
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Active site	60	60	Proton acceptor	ECO:0000256	PIRSR	PIRSR626856-1
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Active site	381	381	Nucleophile	ECO:0000256	PIRSR	PIRSR626856-1
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Active site	398	398		ECO:0000256	PIRSR	PIRSR626856-1
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Binding site	35	35		ECO:0000256	PIRSR	PIRSR626856-2
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Binding site	55	55		ECO:0000256	PIRSR	PIRSR626856-2
+NEU3	F1MRJ3	UniProtKB unreviewed (TrEMBL)	Binding site	235	235		ECO:0000256	PIRSR	PIRSR626856-2
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	107	107		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	149	149		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	172	172		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	232	232		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	268	268		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	272	272		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	292	292		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	301	301		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Binding site	318	318		ECO:0000256	PIRSR	PIRSR005557-1
+ST3GAL1	A0AAF6DLT4	UniProtKB unreviewed (TrEMBL)	Disulfide bond	144	283		ECO:0000256	PIRSR	PIRSR005557-2
+ST6GAL1	F1MHF1	UniProtKB unreviewed (TrEMBL)	Disulfide bond	181	332		ECO:0000256	PIRSR	PIRSR005557-2
+ST8SIA2	A0A3Q1LM08	UniProtKB unreviewed (TrEMBL)	Signal	1	23		ECO:0000256	SAM	SignalP
+ST8SIA2	A0A3Q1LM08	UniProtKB unreviewed (TrEMBL)	Chain	24	354		ECO:0000256	SAM	SignalP
+ST8SIA2	A0A3Q1LM08	UniProtKB unreviewed (TrEMBL)	Disulfide bond	136	286		ECO:0000256	PIRSR	PIRSR005557-2
+ST8SIA4	F1MVI9	UniProtKB unreviewed (TrEMBL)	Disulfide bond	110	260		ECO:0000256	PIRSR	PIRSR005557-2

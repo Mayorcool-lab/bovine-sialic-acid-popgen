@@ -1,0 +1,1527 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "A6BMK7",
+  "secondaryAccessions": [
+    "A4IFG6",
+    "Q5D0G1"
+  ],
+  "uniProtkbId": "NEUR1_BOVIN",
+  "entryAudit": {
+    "firstPublicDate": "2007-09-11",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2007-09-11",
+    "entryVersion": 113,
+    "sequenceVersion": 2
+  },
+  "annotationScore": 5.0,
+  "organism": {
+    "scientificName": "Bos taurus",
+    "commonName": "Bovine",
+    "taxonId": 9913,
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Ruminantia",
+      "Pecora",
+      "Bovidae",
+      "Bovinae",
+      "Bos"
+    ]
+  },
+  "proteinExistence": "2: Evidence at transcript level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000250",
+            "source": "UniProtKB",
+            "id": "Q99519"
+          }
+        ],
+        "value": "Sialidase-1"
+      },
+      "ecNumbers": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "3.2.1.18"
+        }
+      ]
+    },
+    "alternativeNames": [
+      {
+        "fullName": {
+          "value": "Acetylneuraminyl hydrolase"
+        }
+      },
+      {
+        "fullName": {
+          "value": "Lysosomal sialidase"
+        }
+      },
+      {
+        "fullName": {
+          "value": "N-acetyl-alpha-neuraminidase 1"
+        }
+      },
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "Neuraminidase-1"
+        }
+      }
+    ],
+    "flag": "Precursor"
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000250",
+            "source": "UniProtKB",
+            "id": "Q99519"
+          }
+        ],
+        "value": "NEU1"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "Lysosomal exo-alpha-sialidase that catalyzes the removal of sialic acid (N-acetylneuraminic acid) moieties from glycoproteins and glycolipids. To be active, it is strictly dependent on its presence in the multienzyme complex. Appears to have a preference for alpha 2-3 and alpha 2-6 sialyl linkage"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "commentType": "CATALYTIC ACTIVITY",
+      "reaction": {
+        "name": "Hydrolysis of alpha-(2->3)-, alpha-(2->6)-, alpha-(2->8)- glycosidic linkages of terminal sialic acid residues in oligosaccharides, glycoproteins, glycolipids, colominic acid and synthetic substrates.",
+        "ecNumber": "3.2.1.18",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000250",
+            "source": "UniProtKB",
+            "id": "Q99519"
+          }
+        ]
+      }
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "Homooligomer. Interacts with cathepsin A/CTSA; activates the exo-alpha-sialidase activity. Interacts with cathepsin A/CTSA (protective protein), beta-galactosidase and N-acetylgalactosamine-6-sulfate sulfatase in a multienzyme complex"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "note": {
+        "texts": [
+          {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Localized not only on the inner side of the lysosomal membrane and in the lysosomal lumen, but also on the plasma membrane and in intracellular vesicles. Was also suggested to have transmembrane topology"
+          }
+        ]
+      },
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Lysosome lumen",
+            "id": "SL-0156"
+          }
+        },
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Lysosome membrane",
+            "id": "SL-0157"
+          },
+          "topology": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Peripheral membrane protein",
+            "id": "SL-9903"
+          },
+          "orientation": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Lumenal side",
+            "id": "SL-9914"
+          }
+        },
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Cell membrane",
+            "id": "SL-0039"
+          },
+          "topology": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "source": "UniProtKB",
+                "id": "Q99519"
+              }
+            ],
+            "value": "Peripheral membrane protein",
+            "id": "SL-9903"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "A C-terminal internalization signal (YGTL) appears to allow the targeting of plasma membrane proteins to endosomes"
+        }
+      ],
+      "commentType": "DOMAIN"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "N-glycosylated"
+        }
+      ],
+      "commentType": "PTM"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "Q99519"
+            }
+          ],
+          "value": "Phosphorylation of tyrosine within the internalization signal results in inhibition of sialidase internalization and blockage on the plasma membrane"
+        }
+      ],
+      "commentType": "PTM"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Belongs to the glycosyl hydrolase 33 family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 47,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q99519"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 48,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 415,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Sialidase-1",
+      "featureId": "PRO_0000304726"
+    },
+    {
+      "type": "Repeat",
+      "location": {
+        "start": {
+          "value": 112,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 123,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BNR 1"
+    },
+    {
+      "type": "Repeat",
+      "location": {
+        "start": {
+          "value": 172,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 183,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BNR 2"
+    },
+    {
+      "type": "Repeat",
+      "location": {
+        "start": {
+          "value": 231,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 242,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BNR 3"
+    },
+    {
+      "type": "Repeat",
+      "location": {
+        "start": {
+          "value": 347,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 358,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "BNR 4"
+    },
+    {
+      "type": "Motif",
+      "location": {
+        "start": {
+          "value": 77,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 80,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "FRIP motif",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q99519"
+        }
+      ]
+    },
+    {
+      "type": "Motif",
+      "location": {
+        "start": {
+          "value": 412,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 415,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Internalization signal",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q99519"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 103,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 103,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Proton acceptor",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 264,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 264,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Nucleophile",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 370,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 370,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Nucleophile",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ]
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 78,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 78,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 97,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 97,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 264,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 264,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Binding site",
+      "location": {
+        "start": {
+          "value": 280,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 280,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "Q9Y3R4"
+        }
+      ],
+      "ligand": {
+        "name": "substrate"
+      }
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 186,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 186,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 343,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 343,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Glycosylation",
+      "location": {
+        "start": {
+          "value": 352,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 352,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "N-linked (GlcNAc...) asparagine",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255"
+        }
+      ],
+      "featureId": ""
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 158,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 164,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "O35657"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 218,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 230,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "O35657"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 287,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 289,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000250",
+          "source": "UniProtKB",
+          "id": "O35657"
+        }
+      ]
+    },
+    {
+      "type": "Sequence conflict",
+      "location": {
+        "start": {
+          "value": 410,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 410,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in Ref. 1; BAF64705",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "S",
+        "alternativeSequences": [
+          "G"
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0119",
+      "category": "Biological process",
+      "name": "Carbohydrate metabolism"
+    },
+    {
+      "id": "KW-1003",
+      "category": "Cellular component",
+      "name": "Cell membrane"
+    },
+    {
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "id": "KW-0326",
+      "category": "Molecular function",
+      "name": "Glycosidase"
+    },
+    {
+      "id": "KW-0378",
+      "category": "Molecular function",
+      "name": "Hydrolase"
+    },
+    {
+      "id": "KW-0442",
+      "category": "Biological process",
+      "name": "Lipid degradation"
+    },
+    {
+      "id": "KW-0443",
+      "category": "Biological process",
+      "name": "Lipid metabolism"
+    },
+    {
+      "id": "KW-0458",
+      "category": "Cellular component",
+      "name": "Lysosome"
+    },
+    {
+      "id": "KW-0472",
+      "category": "Cellular component",
+      "name": "Membrane"
+    },
+    {
+      "id": "KW-0597",
+      "category": "PTM",
+      "name": "Phosphoprotein"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0677",
+      "category": "Domain",
+      "name": "Repeat"
+    },
+    {
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-34U9F7A0JD2T2",
+        "citationType": "submission",
+        "authors": [
+          "Masoudi A.A.",
+          "Yamato O.",
+          "Kunieda T."
+        ],
+        "title": "Evaluation of PPGB and NEU1 genes as candidates for the lysosomal storage disorder in Japanese black cattle.",
+        "publicationDate": "JUN-2007",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "CI-EV3IP5VKVPU5A",
+        "citationType": "submission",
+        "authoringGroup": [
+          "NIH - Mammalian Gene Collection (MGC) project"
+        ],
+        "publicationDate": "MAR-2007",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "Hereford",
+          "type": "STRAIN"
+        },
+        {
+          "value": "Basal ganglia",
+          "type": "TISSUE"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "CI-CKH85LHGJO1N2",
+        "citationType": "submission",
+        "authors": [
+          "Heaton M.P.",
+          "Clawson M.L.",
+          "Snelling W.M.",
+          "Keele J.W.",
+          "Harhay G.P.",
+          "Wiedmann R.T.",
+          "Bennett G.L.",
+          "Smith T.P.L.",
+          "Stone R.T.",
+          "Freking B.A.",
+          "Van Tassell C.P.",
+          "Sonstegard T.S.",
+          "Gasbarre L.C.",
+          "Carr J.",
+          "DiBello P.",
+          "Kumar M.",
+          "Lee M.S.",
+          "Murthy J.",
+          "Otto J.",
+          "Salisbury B.",
+          "Schulz V.",
+          "Tracy R.",
+          "Hawk D.A.",
+          "Kalbfleisch T.",
+          "Laegreid W.W."
+        ],
+        "title": "Estimating probability of parentage in U.S. beef and dairy cattle with single nucleotide polymorphisms.",
+        "publicationDate": "FEB-2005",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 54-205"
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "AB327106",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "BAF64705.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "BC134571",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAI34572.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY937242",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAX14675.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_001077111.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001083642.1"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "243"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9913.ENSBTAP00000073421",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GlyCosmos",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "3 sites, No reported glycans"
+        }
+      ]
+    },
+    {
+      "database": "GlyGen",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "glycosylation",
+          "value": "3 sites"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9913-ENSBTAP00000073421",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00000007454.6",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00000007454.4"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00000005674.7"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "505554",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "bta:505554",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "4758",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSBTAG00000005674",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VGNC",
+      "id": "VGNC:50230",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "NEU1"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "ENOG502QSIT",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00950000182944",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_024620_3_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "2739686at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-4085001",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Sialic acid metabolism"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-6798695",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Neutrophil degranulation"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-9840310",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Glycosphingolipid catabolism"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000009136",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 23"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSBTAG00000005674",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in ileocecal valve and 105 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "A6BMK7",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0030054",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cell junction"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:Ensembl"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005737",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cytoplasm"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0031410",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cytoplasmic vesicle"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0043202",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:lysosomal lumen"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005765",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:lysosomal membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005764",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:lysosome"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:UniProtKB"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0016020",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005886",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:plasma membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0004308",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:exo-alpha-sialidase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:UniProtKB"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006689",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:ganglioside catabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009313",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:oligosaccharide catabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "ISS:UniProtKB"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd15482",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialidase_non-viral"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "2.120.10.10:FF:000003",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Neuraminidase 1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "2.120.10.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR011040",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialidase"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR026856",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialidase_fam"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR036278",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialidase_sf"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10628",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SIALIDASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10628:SF25",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "SIALIDASE-1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF13088",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "BNR_2"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF50939",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialidases"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MTEEGPGIVSLGKLRRPRMLRLWGICRVQIFSAIFMLMSPAGVGAGAKDDFSLVHPLVTMEQLLWVSGKQIGSVDTFRIPLITTTPRGTLLAFAEARKMSTSDKGAKFIALRRSMDQGSTWSPTAFIVDDGETPDGLNLGAVVSDTTTGVVFLFYSLCAHKAGCQVASTMLVWSKDDGVSWSSPRNLSLDIGTEMFAPGPGSGIQKQREPRKGRLIVCGHGTLERDGVFCLLSDDHGVSWRYGGGVSGIPYGQPKRENDFNPDECQPYELPDGSVVINARNQNNYHCHCRIILRSYDACDTLRPRDVTFDTELVDPVVAAGAVATSSGIVFFSNPAHPEFRVNLTLRWSFSNGTSWRKETVQLWPGPSGYSSLTTLEGNVDGKDEAPQLYVLYEKGRNQYMESISLVKVSVYGTL",
+    "length": 415,
+    "molWeight": 45433,
+    "crc64": "F670909AF7046428",
+    "md5": "11840A96B98A734F686F9C066BD6F00F"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "CATALYTIC ACTIVITY": 1,
+      "SUBUNIT": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "DOMAIN": 1,
+      "PTM": 2,
+      "SIMILARITY": 1
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Chain": 1,
+      "Repeat": 4,
+      "Motif": 2,
+      "Active site": 3,
+      "Binding site": 4,
+      "Glycosylation": 3,
+      "Disulfide bond": 3,
+      "Sequence conflict": 1
+    },
+    "uniParcId": "UPI0000F6BA10"
+  }
+}

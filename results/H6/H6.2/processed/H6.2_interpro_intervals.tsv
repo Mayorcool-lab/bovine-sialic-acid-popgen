@@ -1,0 +1,151 @@
+SYMBOL	protein_accession	protein_length	source_database	entry_accession	entry_name	entry_type	interval_start	interval_end	dc_status	representative	model	score	subfamily_accession	subfamily_name
+CMAH	A0AAA9S174	587	cdd	cd03473	Rieske_CMP_Neu5Ac_hydrolase_N	domain	6	104	CONTINUOUS	False	cd03473	9.89185e-66		
+CMAH	A0AAA9S174	587	cathgene3d	G3DSA:2.102.10.10	Rieske [2Fe-2S] iron-sulphur domain	homologous_superfamily	17	112	CONTINUOUS	False	1vm9A00	4.1e-08		
+CMAH	A0AAA9S174	587	cathgene3d	G3DSA:3.60.15.10	Ribonuclease Z/Hydroxyacylglutathione hydrolase-like	homologous_superfamily	127	360	CONTINUOUS	True	3kl7A00	1.8e-18		
+CMAH	A0AAA9S174	587	interpro	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	domain	14	112	CONTINUOUS	False				
+CMAH	A0AAA9S174	587	interpro	IPR027033	Cytidine monophosphate-N-acetylneuraminic acid hydroxylase	family	5	586	CONTINUOUS	False				
+CMAH	A0AAA9S174	587	interpro	IPR036866	Ribonuclease Z/Hydroxyacylglutathione hydrolase-like	homologous_superfamily	127	360	CONTINUOUS	False				
+CMAH	A0AAA9S174	587	interpro	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	homologous_superfamily	17	122	CONTINUOUS	False				
+CMAH	A0AAA9S174	587	interpro	IPR037339	Cytidine monophosphate-N-acetylneuraminic acid hydroxylase, Rieske domain	domain	6	104	CONTINUOUS	False				
+CMAH	A0AAA9S174	587	pfam	PF00355	Rieske [2Fe-2S] domain	domain	18	88	CONTINUOUS	False	PF00355	0.036		
+CMAH	A0AAA9S174	587	pfam	PF13483	Beta-lactamase superfamily domain	domain	138	265	CONTINUOUS	False	PF13483	4.2e-05		
+CMAH	A0AAA9S174	587	profile	PS51296	Rieske [2Fe-2S] iron-sulfur domain profile	domain	14	112	CONTINUOUS	False	PS51296	0		
+CMAH	A0AAA9S174	587	panther	PTHR46522	CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE	family	5	586	CONTINUOUS	True	PTHR46522:SF1	0	PTHR46522:SF1	INACTIVE CYTIDINE MONOPHOSPHATE-N-ACETYLNEURAMINIC ACID HYDROXYLASE
+CMAH	A0AAA9S174	587	ssf	SSF50022	ISP domain	homologous_superfamily	19	122	CONTINUOUS	True	0044891	4e-12		
+CMAH	A0AAA9S174	587	ssf	SSF56281	Metallo-hydrolase/oxidoreductase	homologous_superfamily	131	307	CONTINUOUS	False	0048716	7.45e-19		
+CMAS	Q3SZM5	434	cdd	cd02513	CMP-NeuAc_Synthase activates N-acetylneuraminic acid by adding CMP moiety	domain	46	259	CONTINUOUS	False	cd02513	1.15277e-92		
+CMAS	Q3SZM5	434	cathgene3d	G3DSA:3.40.50.1000	HAD superfamily/HAD-like	homologous_superfamily	270	434	CONTINUOUS	True	3ewiB00	2.3e-45		
+CMAS	Q3SZM5	434	cathgene3d	G3DSA:3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A	homologous_superfamily	42	269	CONTINUOUS	True	1qwjB00	1.2e-74		
+CMAS	Q3SZM5	434	interpro	IPR003329	Acylneuraminate cytidylyltransferase	family	46	275	CONTINUOUS	False				
+CMAS	Q3SZM5	434	interpro	IPR023214	HAD superfamily	homologous_superfamily	270	434	CONTINUOUS	False				
+CMAS	Q3SZM5	434	interpro	IPR029044	Nucleotide-diphospho-sugar transferases	homologous_superfamily	42	269	CONTINUOUS	False				
+CMAS	Q3SZM5	434	interpro	IPR036412	HAD-like superfamily	homologous_superfamily	271	425	CONTINUOUS	False				
+CMAS	Q3SZM5	434	interpro	IPR050793	CMP-NeuNAc synthase	family	35	427	CONTINUOUS	False				
+CMAS	Q3SZM5	434	pfam	PF02348	Cytidylyltransferase	family	46	275	CONTINUOUS	False	PF02348	8.7e-56		
+CMAS	Q3SZM5	434	panther	PTHR21485	CMP-NeuNAc synthase	family	35	427	CONTINUOUS	True	PTHR21485:SF3	0	PTHR21485:SF3	N-ACYLNEURAMINATE CYTIDYLYLTRANSFERASE
+CMAS	Q3SZM5	434	ssf	SSF53448	Nucleotide-diphospho-sugar transferases	homologous_superfamily	43	266	CONTINUOUS	False	0049057	1.03e-57		
+CMAS	Q3SZM5	434	ssf	SSF56784	HAD-like	homologous_superfamily	271	425	CONTINUOUS	False	0047721	7.12e-22		
+GNE	F1MIL9	722	cdd	cd03786	UDP-N-acetylglucosamine 2-epimerase and similar proteins	domain	11	375	CONTINUOUS	False	cd03786	3.27925e-103		
+GNE	F1MIL9	722	cdd	cd24060	nucleotide-binding domain (NBD) of bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase (GNE) and similar proteins	domain	408	712	CONTINUOUS	False	cd24060	0		
+GNE	F1MIL9	722	cathgene3d	G3DSA:3.30.420.40		homologous_superfamily	411	532	CONTINUOUS	False	2yhwA01	1.3e-99		
+GNE	F1MIL9	722	cathgene3d	G3DSA:3.30.420.40		homologous_superfamily	533	687	CONTINUOUS	False	2yhwA02	1.3e-99		
+GNE	F1MIL9	722	cathgene3d	G3DSA:3.40.50.2000	Glycogen Phosphorylase B;	homologous_superfamily	11	198	C_TERMINAL_DISC	False	4fkzA01	7.1e-63		
+GNE	F1MIL9	722	cathgene3d	G3DSA:3.40.50.2000	Glycogen Phosphorylase B;	homologous_superfamily	362	371	N_TERMINAL_DISC	False	4fkzA01	7.1e-63		
+GNE	F1MIL9	722	cathgene3d	G3DSA:3.40.50.2000	Glycogen Phosphorylase B;	homologous_superfamily	199	361	CONTINUOUS	False	4fkzA02	7.1e-63		
+GNE	F1MIL9	722	interpro	IPR000600	ROK family	family	56	722	CONTINUOUS	False				
+GNE	F1MIL9	722	interpro	IPR003331	UDP-N-acetylglucosamine 2-epimerase domain	domain	38	375	CONTINUOUS	False				
+GNE	F1MIL9	722	interpro	IPR020004	Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase	family	11	374	CONTINUOUS	False				
+GNE	F1MIL9	722	interpro	IPR043129	ATPase, nucleotide binding domain	homologous_superfamily	409	717	CONTINUOUS	False				
+GNE	F1MIL9	722	pfam	PF00480	ROK family	family	410	714	CONTINUOUS	True	PF00480	5.3e-51		
+GNE	F1MIL9	722	pfam	PF02350	UDP-N-acetylglucosamine 2-epimerase	family	38	375	CONTINUOUS	False	PF02350	4.1e-60		
+GNE	F1MIL9	722	prints	PR00475	HEXOKINASE	family	410	426	CONTINUOUS	False	PR00475	1.08e-09		
+GNE	F1MIL9	722	prints	PR00475	HEXOKINASE	family	538	552	CONTINUOUS	False	PR00475	0.00731		
+GNE	F1MIL9	722	panther	PTHR18964	ROK (REPRESSOR, ORF, KINASE) FAMILY	family	56	722	CONTINUOUS	False	PTHR18964:SF149	0	PTHR18964:SF149	BIFUNCTIONAL UDP-N-ACETYLGLUCOSAMINE 2-EPIMERASE_N-ACETYLMANNOSAMINE KINASE
+GNE	F1MIL9	722	ssf	SSF53067	Actin-like ATPase domain	homologous_superfamily	409	717	CONTINUOUS	True	0049498	9.82e-57		
+GNE	F1MIL9	722	ssf	SSF53756	UDP-Glycosyltransferase/glycogen phosphorylase	homologous_superfamily	9	387	CONTINUOUS	True	0048500	1.41e-78		
+GNE	F1MIL9	722	ncbifam	TIGR03568	UDP-N-acetylglucosamine 2-epimerase (hydrolyzing)	family	11	374	CONTINUOUS	True	TIGR03568	1.2e-104		
+NANP	A7YWM8	248	cdd	cd04305	human N-acetylneuraminate-9-phosphate phosphatase, Escherichia coli house-cleaning phosphatase YjjG, and related phosphatases	domain	109	210	CONTINUOUS	False	cd04305	4.24951e-47		
+NANP	A7YWM8	248	cathgene3d	G3DSA:1.20.120.710	Haloacid dehalogenase hydrolase-like domain	homologous_superfamily	19	104	CONTINUOUS	False	2gfhA02	9.8e-47		
+NANP	A7YWM8	248	cathgene3d	G3DSA:3.40.50.1000	HAD superfamily/HAD-like	homologous_superfamily	105	246	CONTINUOUS	False	4knvA01	6.1e-41		
+NANP	A7YWM8	248	interpro	IPR006439	HAD hydrolase, subfamily IA	family	6	17	CONTINUOUS	False				
+NANP	A7YWM8	248	interpro	IPR006439	HAD hydrolase, subfamily IA	family	120	202	CONTINUOUS	False				
+NANP	A7YWM8	248	interpro	IPR011950	HAD-superfamily hydrolase, subfamily IA, CTE7	family	6	233	CONTINUOUS	False				
+NANP	A7YWM8	248	interpro	IPR023214	HAD superfamily	homologous_superfamily	105	246	CONTINUOUS	False				
+NANP	A7YWM8	248	interpro	IPR036412	HAD-like superfamily	homologous_superfamily	1	240	CONTINUOUS	False				
+NANP	A7YWM8	248	interpro	IPR051400	HAD-like hydrolase superfamily enzymes	family	1	242	CONTINUOUS	False				
+NANP	A7YWM8	248	pfam	PF00702	haloacid dehalogenase-like hydrolase	domain	6	202	CONTINUOUS	False	PF00702	6.7e-20		
+NANP	A7YWM8	248	prints	PR00413	HADHALOGNASE	family	6	17	CONTINUOUS	False	PR00413	3.18e-05		
+NANP	A7YWM8	248	prints	PR00413	HADHALOGNASE	family	120	133	CONTINUOUS	False	PR00413	0.0541		
+NANP	A7YWM8	248	prints	PR00413	HADHALOGNASE	family	151	167	CONTINUOUS	False	PR00413	0.00187		
+NANP	A7YWM8	248	prints	PR00413	HADHALOGNASE	family	169	189	CONTINUOUS	False	PR00413	0.000513		
+NANP	A7YWM8	248	panther	PTHR46470	HAD-like hydrolase superfamily enzymes	family	1	242	CONTINUOUS	True	PTHR46470:SF3	3.9e-112	PTHR46470:SF3	N-ACYLNEURAMINATE-9-PHOSPHATASE
+NANP	A7YWM8	248	sfld	SFLDG01129	C1.5: HAD, Beta-PGM, Phosphatase Like	family	5	240	CONTINUOUS	False	SFLDG01129	0		
+NANP	A7YWM8	248	sfld	SFLDG01135	C1.5.6: HAD, Beta-PGM, Phosphatase Like	family	5	240	CONTINUOUS	False	SFLDG01135	0		
+NANP	A7YWM8	248	sfld	SFLDS00003	Haloacid Dehalogenase	family	5	240	CONTINUOUS	False	SFLDS00003	0		
+NANP	A7YWM8	248	ssf	SSF56784	HAD-like	homologous_superfamily	1	240	CONTINUOUS	True	0052884	6.3e-43		
+NANP	A7YWM8	248	ncbifam	TIGR01549	HAD-IA family hydrolase	family	122	202	CONTINUOUS	False	TIGR01549	2.2e-07		
+NANP	A7YWM8	248	ncbifam	TIGR02253	TIGR02253 family HAD-type hydrolase	family	6	233	CONTINUOUS	False	TIGR02253	4.9e-58		
+NANS	F6RGT7	359	cdd	cd11615	C-terminal SAF domain of sialic acid synthetase	domain	292	350	CONTINUOUS	False	cd11615	2.1234e-12		
+NANS	F6RGT7	359	cathgene3d	G3DSA:3.20.20.70	Aldolase class I	homologous_superfamily	9	276	CONTINUOUS	False	4ipiA01	1e-99		
+NANS	F6RGT7	359	cathgene3d	G3DSA:3.90.1210.10	Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain	homologous_superfamily	291	356	CONTINUOUS	False	5xqvA00	9.5e-31		
+NANS	F6RGT7	359	interpro	IPR006013	Antifreeze, type III	family	295	311	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR006013	Antifreeze, type III	family	312	328	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR006013	Antifreeze, type III	family	329	353	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR006190	Antifreeze-like/N-acetylneuraminic acid synthase, SAF domain	domain	294	353	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR013132	PseI/NeuA/B-like	domain	39	277	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR013785	Aldolase-type TIM barrel	homologous_superfamily	9	276	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR013974	SAF domain	domain	292	351	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR036732	Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily	homologous_superfamily	291	358	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR051690	PseI/Nans/NeuA/B acid synthases	family	1	352	CONTINUOUS	False				
+NANS	F6RGT7	359	interpro	IPR057736	PseI/NeuA/NeuB, SAF domain	domain	292	350	CONTINUOUS	False				
+NANS	F6RGT7	359	pfam	PF03102	NeuB family	domain	39	277	CONTINUOUS	False	PF03102	2.5e-77		
+NANS	F6RGT7	359	pfam	PF08666	SAF domain	domain	293	350	CONTINUOUS	False	PF08666	5.2e-06		
+NANS	F6RGT7	359	prints	PR00357	ANTIFREEZIII	family	295	311	CONTINUOUS	False	PR00357	0.000366		
+NANS	F6RGT7	359	prints	PR00357	ANTIFREEZIII	family	312	328	CONTINUOUS	False	PR00357	0.00176		
+NANS	F6RGT7	359	prints	PR00357	ANTIFREEZIII	family	329	344	CONTINUOUS	False	PR00357	0.002		
+NANS	F6RGT7	359	prints	PR00357	ANTIFREEZIII	family	344	353	CONTINUOUS	False	PR00357	0.0119		
+NANS	F6RGT7	359	profile	PS50844	Antifreeze protein-like domain profile	domain	294	353	CONTINUOUS	False	PS50844	0		
+NANS	F6RGT7	359	panther	PTHR42966	Nonulosonic Acid Synthase	family	1	352	CONTINUOUS	True	PTHR42966:SF1	0	PTHR42966:SF1	SIALIC ACID SYNTHASE
+NANS	F6RGT7	359	smart	SM00858	SAF	domain	292	351	CONTINUOUS	False	SM00858	0.00023		
+NANS	F6RGT7	359	ssf	SSF51269	AFP III-like domain	homologous_superfamily	291	358	CONTINUOUS	True	0053323	3.92e-25		
+NANS	F6RGT7	359	ssf	SSF51569	Aldolase	homologous_superfamily	9	301	CONTINUOUS	True	0050239	8.79e-86		
+NEU1	A6BMK7	415	cdd	cd15482	Non-viral sialidases	domain	62	410	CONTINUOUS	False	cd15482	1.56244e-78		
+NEU1	A6BMK7	415	cathgene3d	G3DSA:2.120.10.10		homologous_superfamily	56	411	CONTINUOUS	True	4j9tA00	7.4e-82		
+NEU1	A6BMK7	415	interpro	IPR011040	Sialidase	domain	88	377	CONTINUOUS	False				
+NEU1	A6BMK7	415	interpro	IPR026856	Sialidase family	family	55	414	CONTINUOUS	False				
+NEU1	A6BMK7	415	interpro	IPR036278	Sialidase superfamily	homologous_superfamily	62	410	CONTINUOUS	False				
+NEU1	A6BMK7	415	pfam	PF13088	BNR repeat-like domain	repeat	88	377	CONTINUOUS	False	PF13088	1.4e-42		
+NEU1	A6BMK7	415	panther	PTHR10628	SIALIDASE	family	55	414	CONTINUOUS	True	PTHR10628:SF25	2.4e-118	PTHR10628:SF25	SIALIDASE-1
+NEU1	A6BMK7	415	ssf	SSF50939	Sialidases	homologous_superfamily	62	410	CONTINUOUS	False	0049431	5.33e-84		
+NEU3	F1MRJ3	438	cdd	cd15482	Non-viral sialidases	domain	21	414	CONTINUOUS	True	cd15482	2.47826e-70		
+NEU3	F1MRJ3	438	cathgene3d	G3DSA:2.120.10.10		homologous_superfamily	16	298	C_TERMINAL_DISC	False	1so7A00	2.5e-117		
+NEU3	F1MRJ3	438	cathgene3d	G3DSA:2.120.10.10		homologous_superfamily	330	423	N_TERMINAL_DISC	False	1so7A00	2.5e-117		
+NEU3	F1MRJ3	438	interpro	IPR011040	Sialidase	domain	48	389	CONTINUOUS	False				
+NEU3	F1MRJ3	438	interpro	IPR026856	Sialidase family	family	20	422	CONTINUOUS	False				
+NEU3	F1MRJ3	438	interpro	IPR036278	Sialidase superfamily	homologous_superfamily	23	418	CONTINUOUS	False				
+NEU3	F1MRJ3	438	pfam	PF13088	BNR repeat-like domain	repeat	48	389	CONTINUOUS	False	PF13088	9.5e-26		
+NEU3	F1MRJ3	438	panther	PTHR10628	SIALIDASE	family	20	422	CONTINUOUS	True	PTHR10628:SF23	3.6e-123	PTHR10628:SF23	SIALIDASE-3
+NEU3	F1MRJ3	438	ssf	SSF50939	Sialidases	homologous_superfamily	23	299	C_TERMINAL_DISC	False	0049431	3.36e-99		
+NEU3	F1MRJ3	438	ssf	SSF50939	Sialidases	homologous_superfamily	330	418	N_TERMINAL_DISC	False	0049431	3.36e-99		
+SLC35A1	F6R148	337	interpro	IPR007271	Nucleotide-sugar transporter	family	5	331	CONTINUOUS	False				
+SLC35A1	F6R148	337	interpro	IPR037185	Multidrug transporter EmrE superfamily	homologous_superfamily	93	162	CONTINUOUS	False				
+SLC35A1	F6R148	337	pfam	PF04142	Nucleotide-sugar transporter	family	11	314	CONTINUOUS	False	PF04142	1.5e-123		
+SLC35A1	F6R148	337	pirsf	PIRSF005799	Nucleotide-sugar transporter	family	5	331	CONTINUOUS	True	PIRSF005799	1.2e-115		
+SLC35A1	F6R148	337	panther	PTHR10231	NUCLEOTIDE-SUGAR TRANSMEMBRANE TRANSPORTER	family	12	322	CONTINUOUS	False	PTHR10231	1.6e-97		
+SLC35A1	F6R148	337	ssf	SSF103481	Multidrug resistance efflux transporter EmrE	homologous_superfamily	93	162	CONTINUOUS	True	0043518	1.44e-08		
+SLC35A1	F6R148	337	ncbifam	TIGR00803	solute carrier family 35 transporter	family	90	313	CONTINUOUS	False	TIGR00803	1.4e-78		
+ST3GAL1	A0AAF6DLT4	342	cdd	cd23980	beta-galactoside alpha-2,3-sialyltransferase 1	domain	61	340	CONTINUOUS	False	cd23980	0		
+ST3GAL1	A0AAF6DLT4	342	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	45	342	CONTINUOUS	True	2wnfA00	4.2e-113		
+ST3GAL1	A0AAF6DLT4	342	interpro	IPR001675	Glycosyl transferase family 29	family	88	332	CONTINUOUS	False				
+ST3GAL1	A0AAF6DLT4	342	interpro	IPR012163	Sialyltransferase	family	4	341	CONTINUOUS	False				
+ST3GAL1	A0AAF6DLT4	342	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	45	342	CONTINUOUS	False				
+ST3GAL1	A0AAF6DLT4	342	interpro	IPR051757	Beta-galactoside alpha2-3 sialyltransferases	family	4	341	CONTINUOUS	False				
+ST3GAL1	A0AAF6DLT4	342	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	88	332	CONTINUOUS	False	PF00777	2e-80		
+ST3GAL1	A0AAF6DLT4	342	pirsf	PIRSF005557	Sialyltransferase	family	4	341	CONTINUOUS	False	PIRSF005557	1.8e-98		
+ST3GAL1	A0AAF6DLT4	342	panther	PTHR46032	Beta-galactoside alpha2-3 sialyltransferases	family	4	341	CONTINUOUS	True	PTHR46032:SF6	0	PTHR46032:SF6	CMP-N-ACETYLNEURAMINATE-BETA-GALACTOSAMIDE-ALPHA-2,3-SIALYLTRANSFERASE 1
+ST6GAL1	F1MHF1	405	cdd	cd23985	beta-galactoside alpha-2,6-sialyltransferase 1	domain	134	398	CONTINUOUS	False	cd23985	0		
+ST6GAL1	F1MHF1	405	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	87	403	CONTINUOUS	True	4js1A00	7.1e-113		
+ST6GAL1	F1MHF1	405	interpro	IPR001675	Glycosyl transferase family 29	family	172	379	CONTINUOUS	False				
+ST6GAL1	F1MHF1	405	interpro	IPR012163	Sialyltransferase	family	7	389	CONTINUOUS	False				
+ST6GAL1	F1MHF1	405	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	87	403	CONTINUOUS	False				
+ST6GAL1	F1MHF1	405	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	172	379	CONTINUOUS	False	PF00777	3.7e-28		
+ST6GAL1	F1MHF1	405	pirsf	PIRSF005557	Sialyltransferase	family	7	389	CONTINUOUS	False	PIRSF005557	8.2e-96		
+ST6GAL1	F1MHF1	405	panther	PTHR46059	BETA-GALACTOSIDE ALPHA-2,6-SIALYLTRANSFERASE	family	1	403	CONTINUOUS	True	PTHR46059:SF2	0	PTHR46059:SF2	BETA-GALACTOSIDE ALPHA-2,6-SIALYLTRANSFERASE 1
+ST8SIA2	A0A3Q1LM08	354	cdd	cd23987	alpha-N-acetylneuraminide alpha-2,8-sialyltransferase 2	domain	70	347	CONTINUOUS	False	cd23987	0		
+ST8SIA2	A0A3Q1LM08	354	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	63	351	CONTINUOUS	True	5bo7B00	1.3e-82		
+ST8SIA2	A0A3Q1LM08	354	interpro	IPR001675	Glycosyl transferase family 29	family	110	341	CONTINUOUS	False				
+ST8SIA2	A0A3Q1LM08	354	interpro	IPR012163	Sialyltransferase	family	4	350	CONTINUOUS	False				
+ST8SIA2	A0A3Q1LM08	354	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	63	351	CONTINUOUS	False				
+ST8SIA2	A0A3Q1LM08	354	interpro	IPR050943	Glycosyltransferase 29 (Sialyltransferase)	family	53	351	CONTINUOUS	False				
+ST8SIA2	A0A3Q1LM08	354	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	110	341	CONTINUOUS	False	PF00777	1.1e-63		
+ST8SIA2	A0A3Q1LM08	354	pirsf	PIRSF005557	Sialyltransferase	family	4	350	CONTINUOUS	True	PIRSF005557	4.1e-114		
+ST8SIA2	A0A3Q1LM08	354	panther	PTHR11987	Glycosyltransferase 29 (Sialyltransferase)	family	53	351	CONTINUOUS	False	PTHR11987:SF30	1.3e-105	PTHR11987:SF30	ALPHA-2,8-SIALYLTRANSFERASE 8B
+ST8SIA4	F1MVI9	327	cdd	cd23988	alpha-N-acetylneuraminide alpha-2,8-sialyltransferase 4	domain	44	321	CONTINUOUS	False	cd23988	0		
+ST8SIA4	F1MVI9	327	cathgene3d	G3DSA:3.90.1480.20	Glycosyl transferase family 29	homologous_superfamily	37	325	CONTINUOUS	True	5bo7B00	4.6e-85		
+ST8SIA4	F1MVI9	327	interpro	IPR001675	Glycosyl transferase family 29	family	68	315	CONTINUOUS	False				
+ST8SIA4	F1MVI9	327	interpro	IPR012163	Sialyltransferase	family	33	324	CONTINUOUS	False				
+ST8SIA4	F1MVI9	327	interpro	IPR038578	GT29-like superfamiliy	homologous_superfamily	37	325	CONTINUOUS	False				
+ST8SIA4	F1MVI9	327	interpro	IPR050943	Glycosyltransferase 29 (Sialyltransferase)	family	30	324	CONTINUOUS	False				
+ST8SIA4	F1MVI9	327	pfam	PF00777	Glycosyltransferase family 29 (sialyltransferase)	family	68	315	CONTINUOUS	False	PF00777	7.1e-66		
+ST8SIA4	F1MVI9	327	pirsf	PIRSF005557	Sialyltransferase	family	33	324	CONTINUOUS	False	PIRSF005557	3.9e-108		
+ST8SIA4	F1MVI9	327	panther	PTHR11987	Glycosyltransferase 29 (Sialyltransferase)	family	30	324	CONTINUOUS	True	PTHR11987:SF48	2.2e-109	PTHR11987:SF48	CMP-N-ACETYLNEURAMINATE-POLY-ALPHA-2,8-SIALYLTRANSFERASE

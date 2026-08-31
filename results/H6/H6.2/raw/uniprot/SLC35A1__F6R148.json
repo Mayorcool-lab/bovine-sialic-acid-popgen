@@ -1,0 +1,508 @@
+{
+  "entryType": "UniProtKB unreviewed (TrEMBL)",
+  "primaryAccession": "F6R148",
+  "uniProtkbId": "F6R148_BOVIN",
+  "entryAudit": {
+    "firstPublicDate": "2026-06-10",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2026-06-10",
+    "entryVersion": 1,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 1.0,
+  "organism": {
+    "scientificName": "Bos taurus",
+    "commonName": "Bovine",
+    "taxonId": 9913,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Ensembl",
+        "id": "ENSBTAP00000018680.4"
+      },
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Proteomes",
+        "id": "UP000009136"
+      }
+    ],
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Ruminantia",
+      "Pecora",
+      "Bovidae",
+      "Bovinae",
+      "Bos"
+    ]
+  },
+  "proteinExistence": "4: Predicted",
+  "proteinDescription": {
+    "submissionNames": [
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000018680.4"
+            }
+          ],
+          "value": "Solute carrier family 35 member A1"
+        }
+      }
+    ]
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "Ensembl",
+            "id": "ENSBTAP00000018680.4"
+          }
+        ],
+        "value": "SLC35A1"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Proteomes",
+          "id": "UP000009136"
+        }
+      ],
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-DV49K6FT0EEMD",
+        "citationType": "submission",
+        "authors": [
+          "Rosen B.D.",
+          "Bickhart D.M.",
+          "Koren S.",
+          "Schnabel R.D.",
+          "Hall R.",
+          "Zimin A.",
+          "Dreischer C.",
+          "Schultheiss S.",
+          "Schroeder S.G.",
+          "Elsik C.G.",
+          "Couldrey C.",
+          "Liu G.E.",
+          "Van Tassell C.P.",
+          "Phillippy A.M.",
+          "Smith T.P.L.",
+          "Medrano J.F."
+        ],
+        "title": "ARS-UCD1.2.",
+        "publicationDate": "MAR-2018",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000018680.4"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000018680.4"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "CI-20IM145UGQVF7",
+        "citationType": "submission",
+        "authoringGroup": [
+          "Ensembl"
+        ],
+        "publicationDate": "JAN-2026",
+        "submissionDatabase": "UniProtKB"
+      },
+      "referencePositions": [
+        "IDENTIFICATION"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000018680.4"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000018680.4"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "RefSeq",
+      "id": "NP_001029809.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001034637.2"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "9913.ENSBTAP00000018680",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "9913-ENSBTAP00000018680",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00000018680.5",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00000018680.4"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00000014057.6"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "536838",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "bta:536838",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CTD",
+      "id": "10559",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSBTAG00000014057",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "KOG2234",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT00950000182827",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_024645_1_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "KCYVIAS",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "408493at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-4085001",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Sialic acid metabolism"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-727802",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Transport of nucleotide sugars"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-9939291",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Matriglycan biosynthesis on DAG1"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000009136",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 9"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSBTAG00000014057",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in saliva-secreting gland and 106 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0000139",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:Golgi membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005456",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:CMP-N-acetylneuraminate transmembrane transporter activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0015782",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:CMP-N-acetylneuraminate transmembrane transport"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR037185",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EmrE-like"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR007271",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Nuc_sug_transpt"
+        }
+      ]
+    },
+    {
+      "database": "NCBIfam",
+      "id": "TIGR00803",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "nst"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10231",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "NUCLEOTIDE-SUGAR TRANSMEMBRANE TRANSPORTER"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF04142",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Nuc_sug_transp"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PIRSF",
+      "id": "PIRSF005799",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "UDP-gal_transpt"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF103481",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Multidrug resistance efflux transporter EmrE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MAAPRENVNLLFKLYCLAVMTLVAAAYTVALRYTRTSDKELYFSTTAVCITEVIKLLLSVGILAKETGNLGRFKASLRENVLGSPKELMKLSVPSLVYAVQNNMAFLALSNLDAAVYQVTYQLKIPCTALCTVLMLNRTLSKLQWISVFMLCGGVILVQWKPAQATKVVVEQNPLLGFGAIAVAVLCSGFAGVYFEKVLKSSDTSLWVRNIQMYLSGIVVTLVGVYLSDGAEIKEKGFFFGYTYYVWFVIFLASVGGLYTSVVVKYTDNIMKGFSAAAAIVLSTIASVMLFGLQITLTFALGTLLVCVSIYLYGLPRQDTTSIQQGETDSKQRVIGV",
+    "length": 337,
+    "molWeight": 36816,
+    "crc64": "6BC0E3A63A5156FE",
+    "md5": "C40E2F97EF644526E9ABF8084B5E7DF1"
+  },
+  "extraAttributes": {
+    "uniParcId": "UPI00005B2A35"
+  }
+}

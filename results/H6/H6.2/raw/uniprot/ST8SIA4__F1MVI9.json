@@ -1,0 +1,872 @@
+{
+  "entryType": "UniProtKB unreviewed (TrEMBL)",
+  "primaryAccession": "F1MVI9",
+  "uniProtkbId": "F1MVI9_BOVIN",
+  "entryAudit": {
+    "firstPublicDate": "2011-05-03",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2024-05-29",
+    "entryVersion": 80,
+    "sequenceVersion": 2
+  },
+  "annotationScore": 3.0,
+  "organism": {
+    "scientificName": "Bos taurus",
+    "commonName": "Bovine",
+    "taxonId": 9913,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Ensembl",
+        "id": "ENSBTAP00000028590.3"
+      },
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Proteomes",
+        "id": "UP000009136"
+      }
+    ],
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Chordata",
+      "Craniata",
+      "Vertebrata",
+      "Euteleostomi",
+      "Mammalia",
+      "Eutheria",
+      "Laurasiatheria",
+      "Artiodactyla",
+      "Ruminantia",
+      "Pecora",
+      "Bovidae",
+      "Bovinae",
+      "Bos"
+    ]
+  },
+  "proteinExistence": "3: Inferred from homology",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "ARBA",
+            "id": "ARBA00040169"
+          }
+        ],
+        "value": "CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase"
+      }
+    },
+    "alternativeNames": [
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00041985"
+            }
+          ],
+          "value": "Alpha-2,8-sialyltransferase 8D"
+        }
+      },
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00043087"
+            }
+          ],
+          "value": "Polysialyltransferase-1"
+        }
+      },
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00042695"
+            }
+          ],
+          "value": "Sialyltransferase 8D"
+        }
+      },
+      {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00042536"
+            }
+          ],
+          "value": "Sialyltransferase St8Sia IV"
+        }
+      }
+    ]
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "Ensembl",
+            "id": "ENSBTAP00000028590.3"
+          },
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "VGNC",
+            "id": "VGNC:35346"
+          }
+        ],
+        "value": "ST8SIA4"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00046001"
+            }
+          ],
+          "value": "Catalyzes the transfer of a sialic acid from a CMP-linked sialic acid donor onto a terminal alpha-2,3-, alpha-2,6-, or alpha-2,8-linked sialic acid of an N-linked glycan protein acceptor through alpha-2,8-linkages. Therefore, participates in polysialic acid synthesis on various sialylated N-acetyllactosaminyl oligosaccharides, including NCAM1 N-glycans, FETUB N-glycans and AHSG. It is noteworthy that alpha-2,3-linked sialic acid is apparently a better acceptor than alpha-2,6-linked sialic acid"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "commentType": "CATALYTIC ACTIVITY",
+      "reaction": {
+        "name": "[N-acetyl-alpha-D-neuraminosyl-(2->8)](n) + CMP-N-acetyl-beta-neuraminate = [N-acetyl-alpha-D-neuraminosyl-(2->8)](n+1) + CMP + H(+)",
+        "reactionCrossReferences": [
+          {
+            "database": "Rhea",
+            "id": "RHEA:77367"
+          },
+          {
+            "database": "Rhea",
+            "id": "RHEA-COMP:14315"
+          },
+          {
+            "database": "Rhea",
+            "id": "RHEA-COMP:18878"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:15378"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:57812"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:60377"
+          },
+          {
+            "database": "ChEBI",
+            "id": "CHEBI:139252"
+          }
+        ],
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "ARBA",
+            "id": "ARBA00044463"
+          }
+        ]
+      },
+      "physiologicalReactions": [
+        {
+          "directionType": "left-to-right",
+          "reactionCrossReference": {
+            "database": "Rhea",
+            "id": "RHEA:77368"
+          },
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00044463"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00004323"
+              }
+            ],
+            "value": "Golgi apparatus membrane",
+            "id": "SL-0134"
+          },
+          "topology": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00004323"
+              }
+            ],
+            "value": "Single-pass type II membrane protein",
+            "id": "SL-9906"
+          }
+        },
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "ARBA",
+                "id": "ARBA00004613"
+              }
+            ],
+            "value": "Secreted",
+            "id": "SL-0243"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00006003"
+            }
+          ],
+          "value": "Belongs to the glycosyltransferase 29 family"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    }
+  ],
+  "features": [
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 110,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 260,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PIRSR",
+          "id": "PIRSR005557-2"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023157"
+        }
+      ],
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023180"
+        }
+      ],
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022676"
+        }
+      ],
+      "id": "KW-0328",
+      "category": "Molecular function",
+      "name": "Glycosyltransferase"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023034"
+        }
+      ],
+      "id": "KW-0333",
+      "category": "Cellular component",
+      "name": "Golgi apparatus"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023136"
+        }
+      ],
+      "id": "KW-0472",
+      "category": "Cellular component",
+      "name": "Membrane"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Proteomes",
+          "id": "UP000009136"
+        }
+      ],
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022525"
+        }
+      ],
+      "id": "KW-0964",
+      "category": "Cellular component",
+      "name": "Secreted"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022968"
+        }
+      ],
+      "id": "KW-0735",
+      "category": "Domain",
+      "name": "Signal-anchor"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022679"
+        }
+      ],
+      "id": "KW-0808",
+      "category": "Molecular function",
+      "name": "Transferase"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022692"
+        }
+      ],
+      "id": "KW-0812",
+      "category": "Domain",
+      "name": "Transmembrane"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022989"
+        }
+      ],
+      "id": "KW-1133",
+      "category": "Domain",
+      "name": "Transmembrane helix"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-DV49K6FT0EEMD",
+        "citationType": "submission",
+        "authors": [
+          "Rosen B.D.",
+          "Bickhart D.M.",
+          "Koren S.",
+          "Schnabel R.D.",
+          "Hall R.",
+          "Zimin A.",
+          "Dreischer C.",
+          "Schultheiss S.",
+          "Schroeder S.G.",
+          "Elsik C.G.",
+          "Couldrey C.",
+          "Liu G.E.",
+          "Van Tassell C.P.",
+          "Phillippy A.M.",
+          "Smith T.P.L.",
+          "Medrano J.F."
+        ],
+        "title": "ARS-UCD1.2.",
+        "publicationDate": "MAR-2018",
+        "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000028590.3"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000028590.3"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "CI-20IM145UGQVF7",
+        "citationType": "submission",
+        "authoringGroup": [
+          "Ensembl"
+        ],
+        "publicationDate": "JAN-2026",
+        "submissionDatabase": "UniProtKB"
+      },
+      "referencePositions": [
+        "IDENTIFICATION"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSBTAP00000028590.3"
+            }
+          ],
+          "value": "Hereford",
+          "type": "STRAIN"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Ensembl",
+          "id": "ENSBTAP00000028590.3"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "AlphaFoldDB",
+      "id": "F1MVI9",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "F1MVI9",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "381"
+        }
+      ]
+    },
+    {
+      "database": "Ensembl",
+      "id": "ENSBTAT00000028590.4",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ENSBTAP00000028590.3"
+        },
+        {
+          "key": "GeneId",
+          "value": "ENSBTAG00000021445.4"
+        }
+      ]
+    },
+    {
+      "database": "VEuPathDB",
+      "id": "HostDB:ENSBTAG00000021445",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "VGNC",
+      "id": "VGNC:35346",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "ST8SIA4"
+        }
+      ]
+    },
+    {
+      "database": "GeneTree",
+      "id": "ENSGT01030000234535",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_048583_3_0_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "F1MVI9",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "10264956at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Reactome",
+      "id": "R-BTA-4085001",
+      "properties": [
+        {
+          "key": "PathwayName",
+          "value": "Sialic acid metabolism"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000009136",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 7"
+        }
+      ]
+    },
+    {
+      "database": "Bgee",
+      "id": "ENSBTAG00000021445",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "Expressed in neutrophil and 106 other cell types or tissues"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "F1MVI9",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:extracellular region"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0000139",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:Golgi membrane"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0003828",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006491",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:N-glycan processing"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009311",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:oligosaccharide metabolic process"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd23988",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "GT29_ST8SIA4"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.90.1480.20:FF:000001",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.90.1480.20",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Glycosyl transferase family 29"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR001675",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Glyco_trans_29"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR050943",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Glycosyltr_29_Sialyltrsf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR038578",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "GT29-like_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR012163",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialyl_trans"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11987",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "ALPHA-2,8-SIALYLTRANSFERASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR11987:SF48",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CMP-N-ACETYLNEURAMINATE-POLY-ALPHA-2,8-SIALYLTRANSFERASE"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00777",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Glyco_transf_29"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PIRSF",
+      "id": "PIRSF005557",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Sialyl_trans"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MKKPKRDGELCLSRSLVNSSDKIIRKAGSSIFQHSVEGWKINSSLVLEIRKNILRFLDAERDVSVVKSSFKPGDVIHYVLDRRRTLNISQDLHSLLPEVSPMKNRRFKTCAVVGNSGILLDSECGKEIDSHNFVIRCNLAPVVEFAADVGTKSDFITMNPSVVQRAFGGFRNESDREKFVHRLSMLNDSVLWIPAFMVKGGEKHVEWVNALILKNKLKVRTAYPSLRLIHAVRGYWLTNKVPIKRPSTGLLMYTLATRFCDEIHLYGFWPFPKDLNGKAVKYHYYDDLKYRYFSNASPHRMPLEFKTLNVLHNRGALKLTTGKCIKQ",
+    "length": 327,
+    "molWeight": 37469,
+    "crc64": "3C58464227AC25D3",
+    "md5": "6229B481F82EA324FF46BBA4B26580ED"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "CATALYTIC ACTIVITY": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "SIMILARITY": 1
+    },
+    "countByFeatureType": {
+      "Disulfide bond": 1
+    },
+    "uniParcId": "UPI002B4FF462"
+  }
+}
