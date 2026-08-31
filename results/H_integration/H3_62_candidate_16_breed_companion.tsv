@@ -1,0 +1,993 @@
+candidate_id	SYMBOL	CHROM	POS	REF	ALT	Consequence	HGVSp	COHORT	BREED	STATUS	N_CALLABLE	REF_COUNT	ALT_COUNT	AF	N_FLAG
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		South_Africa	Afrikaner	PRESENT	39	75	3	0.038462	OK
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	36	4	0.100000	OK
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		South_Africa	Nguni	PRESENT	39	70	8	0.102564	OK
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		South_Africa	Tuli	PRESENT	20	36	4	0.100000	OK
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+1:80233404:T>A	ST6GAL1	1	80233404	T	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		South_Africa	Afrikaner	PRESENT	38	74	2	0.026316	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		South_Africa	Nguni	PRESENT	39	75	3	0.038462	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Mirandesa	PRESENT	3	6	0	0.000000	VERY_SMALL_N
+1:80233427:T>A	ST6GAL1	1	80233427	T	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	39	1	0.025000	OK
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		South_Africa	Nguni	PRESENT	39	78	0	0.000000	OK
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		South_Africa	Tuli	PRESENT	20	38	2	0.050000	OK
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+1:80233464:T>A	ST6GAL1	1	80233464	T	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		South_Africa	Afrikaner	PRESENT	33	65	1	0.015152	OK
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		South_Africa	Nguni	PRESENT	37	74	0	0.000000	OK
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+1:80233838:T>C	ST6GAL1	1	80233838	T	C	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	37	66	8	0.108108	OK
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	19	32	6	0.157895	OK
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		South_Africa	Nguni	PRESENT	38	71	5	0.065789	OK
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		South_Africa	Tuli	PRESENT	20	37	3	0.075000	OK
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+13:10704259:A>G	NANP	13	10704259	A	G	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		South_Africa	Nguni	PRESENT	36	71	1	0.013889	OK
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+13:10704799:G>C	NANP	13	10704799	G	C	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		South_Africa	Afrikaner	PRESENT	36	72	0	0.000000	OK
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		South_Africa	Nguni	PRESENT	39	76	2	0.025641	OK
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+14:7943747:G>A	ST3GAL1	14	7943747	G	A	missense_variant&splice_region_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		South_Africa	Nguni	PRESENT	39	78	0	0.000000	OK
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+14:7943756:G>A	ST3GAL1	14	7943756	G	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	38	76	0	0.000000	OK
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+15:54265508:G>A	NEU3	15	54265508	G	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		South_Africa	Afrikaner	PRESENT	37	5	69	0.932432	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	6	34	0.850000	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		South_Africa	Nguni	PRESENT	40	22	58	0.725000	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		South_Africa	Tuli	PRESENT	19	7	31	0.815789	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Western_Finncattle	PRESENT	23	23	23	0.500000	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Northern_Finncattle	PRESENT	25	31	19	0.380000	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	29	19	0.395833	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Holstein_Friesian	PRESENT	14	17	11	0.392857	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Deep_Red	PRESENT	23	35	11	0.239130	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Dutch_Belted	PRESENT	23	30	16	0.347826	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Dutch_Friesian	PRESENT	23	35	11	0.239130	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	32	14	0.304348	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	29	13	0.309524	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Barrosa	PRESENT	14	19	9	0.321429	OK
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Mirandesa	PRESENT	4	5	3	0.375000	VERY_SMALL_N
+15:54265634:T>C	NEU3	15	54265634	T	C	missense_variant		Europe	Mertolenga	PRESENT	2	2	2	0.500000	VERY_SMALL_N
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		South_Africa	Afrikaner	PRESENT	40	80	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		South_Africa	Nguni	PRESENT	40	78	2	0.025000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Northern_Finncattle	PRESENT	25	50	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	27	1	0.035714	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Deep_Red	PRESENT	24	47	1	0.020833	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	44	2	0.043478	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+15:54265704:T>G	NEU3	15	54265704	T	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	38	73	3	0.039474	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		South_Africa	Nguni	PRESENT	39	77	1	0.012821	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		South_Africa	Tuli	PRESENT	20	39	1	0.025000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Barrosa	PRESENT	15	29	1	0.033333	OK
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Mirandesa	PRESENT	3	6	0	0.000000	VERY_SMALL_N
+15:54266153:A>G	NEU3	15	54266153	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		South_Africa	Nguni	PRESENT	39	78	0	0.000000	OK
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+15:54266294:G>T	NEU3	15	54266294	G	T	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+15:54266475:G>A	NEU3	15	54266475	G	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		South_Africa	Tuli	PRESENT	20	39	1	0.025000	OK
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+21:14547653:C>T	ST8SIA2	21	14547653	C	T	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	44	4	0.083333	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+21:14553398:G>A	ST8SIA2	21	14553398	G	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+23:27494657:A>G	NEU1	23	27494657	A	G	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		South_Africa	Afrikaner	PRESENT	38	76	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Northern_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27494671:A>C	NEU1	23	27494671	A	C	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	76	2	0.025641	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		South_Africa	Tuli	PRESENT	19	35	3	0.078947	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	45	5	0.100000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	22	42	2	0.045455	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497208:C>T	NEU1	23	27497208	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		South_Africa	Afrikaner	PRESENT	40	80	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		South_Africa	Tuli	PRESENT	20	39	1	0.025000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Northern_Finncattle	PRESENT	25	43	7	0.140000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Eastern_Finncattle	PRESENT	24	47	1	0.020833	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Deep_Red	PRESENT	24	47	1	0.020833	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	40	4	0.090909	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497374:T>C	NEU1	23	27497374	T	C	missense_variant&splice_region_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		South_Africa	Afrikaner	PRESENT	40	75	5	0.062500	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		South_Africa	Bonsmara	PRESENT	19	35	3	0.078947	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		South_Africa	Nguni	PRESENT	38	66	10	0.131579	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		South_Africa	Tuli	PRESENT	19	34	4	0.105263	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	45	3	0.062500	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	47	3	0.060000	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Holstein_Friesian	PRESENT	13	25	1	0.038462	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Deep_Red	PRESENT	21	34	8	0.190476	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Dutch_Belted	PRESENT	21	41	1	0.023810	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Dutch_Friesian	PRESENT	23	44	2	0.043478	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	42	4	0.086957	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	39	3	0.071429	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497502:C>A	NEU1	23	27497502	C	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	36	72	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	17	34	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		South_Africa	Nguni	PRESENT	38	76	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	45	1	0.021739	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497874:A>G	NEU1	23	27497874	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	35	70	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	18	36	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		South_Africa	Nguni	PRESENT	38	76	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	45	1	0.021739	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	19	38	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497876:G>A	NEU1	23	27497876	G	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	34	27	41	0.602941	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	18	18	18	0.500000	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		South_Africa	Nguni	PRESENT	39	39	39	0.500000	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		South_Africa	Tuli	PRESENT	18	15	21	0.583333	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	23	22	24	0.521739	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	30	18	0.375000	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	21	27	0.562500	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	15	22	8	0.266667	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Deep_Red	PRESENT	24	27	21	0.437500	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	23	13	33	0.717391	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	23	25	21	0.456522	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	31	15	0.326087	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	14	26	0.650000	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Barrosa	PRESENT	15	18	12	0.400000	OK
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Mirandesa	PRESENT	3	3	3	0.500000	VERY_SMALL_N
+23:27497880:A>G	NEU1	23	27497880	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	3	1	0.250000	VERY_SMALL_N
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		South_Africa	Afrikaner	PRESENT	40	80	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		South_Africa	Nguni	PRESENT	37	74	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Northern_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	45	1	0.021739	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	19	38	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:27497935:G>C	NEU1	23	27497935	G	C	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	37	61	13	0.175676	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	18	30	6	0.166667	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		South_Africa	Nguni	PRESENT	37	56	18	0.243243	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		South_Africa	Tuli	PRESENT	18	30	6	0.166667	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	23	27	19	0.413043	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	44	4	0.083333	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	20	34	6	0.150000	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	15	16	14	0.466667	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Deep_Red	PRESENT	22	35	9	0.204545	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	22	40	4	0.090909	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	24	46	2	0.041667	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	39	7	0.152174	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	19	26	12	0.315789	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Barrosa	PRESENT	13	6	20	0.769231	OK
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Mirandesa	PRESENT	4	4	4	0.500000	VERY_SMALL_N
+23:32721570:A>G	CMAH	23	32721570	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	2	2	0.500000	VERY_SMALL_N
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Dutch_Belted	PRESENT	21	42	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32727639:G>T	CMAH	23	32727639	G	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Western_Finncattle	PRESENT	23	40	6	0.130435	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Northern_Finncattle	PRESENT	25	49	1	0.020000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Dutch_Belted	PRESENT	20	40	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Dutch_Friesian	PRESENT	21	42	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32727707:T>A	CMAH	23	32727707	T	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	40	80	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		South_Africa	Tuli	PRESENT	19	37	1	0.026316	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	15	29	1	0.033333	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	20	40	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	22	41	3	0.068182	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	44	2	0.043478	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32727736:A>G	CMAH	23	32727736	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	21	42	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	12	24	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Deep_Red	PRESENT	24	46	2	0.041667	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	21	40	2	0.047619	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	39	5	0.113636	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32731961:C>T	CMAH	23	32731961	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	38	75	1	0.013158	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	18	35	1	0.027778	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		South_Africa	Nguni	PRESENT	39	78	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	22	43	1	0.022727	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	12	24	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32731965:C>T	CMAH	23	32731965	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		South_Africa	Afrikaner	ABSENT_AFTER_QC	35	39	31	0.442857	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		South_Africa	Bonsmara	ABSENT_AFTER_QC	18	21	15	0.416667	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		South_Africa	Nguni	ABSENT_AFTER_QC	38	47	29	0.381579	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		South_Africa	Tuli	ABSENT_AFTER_QC	16	21	11	0.343750	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	7	43	0.860000	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	25	9	41	0.820000	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	19	31	0.620000	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	14	12	16	0.571429	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Deep_Red	PRESENT	24	20	28	0.583333	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	23	32	14	0.304348	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	24	14	34	0.708333	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	9	35	0.795455	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	26	14	0.350000	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Barrosa	PRESENT	15	19	11	0.366667	OK
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Mirandesa	PRESENT	3	3	3	0.500000	VERY_SMALL_N
+29:29729953:C>T	ST3GAL4	29	29729953	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	32	51	13	0.203125	OK
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	35	5	0.125000	OK
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		South_Africa	Nguni	PRESENT	39	67	11	0.141026	OK
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		South_Africa	Tuli	PRESENT	19	29	9	0.236842	OK
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+29:29729989:G>A	ST3GAL4	29	29729989	G	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		South_Africa	Afrikaner	PRESENT	38	72	4	0.052632	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		South_Africa	Bonsmara	PRESENT	20	38	2	0.050000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		South_Africa	Nguni	PRESENT	40	74	6	0.075000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		South_Africa	Tuli	PRESENT	19	37	1	0.026316	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Western_Finncattle	PRESENT	25	44	6	0.120000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Northern_Finncattle	PRESENT	24	46	2	0.041667	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	47	3	0.060000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Holstein_Friesian	PRESENT	15	26	4	0.133333	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Deep_Red	PRESENT	22	44	0	0.000000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	29	11	0.275000	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Barrosa	PRESENT	13	20	6	0.230769	OK
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29730054:T>C	ST3GAL4	29	29730054	T	C	missense_variant		Europe	Mertolenga	PRESENT	2	3	1	0.250000	VERY_SMALL_N
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	67	11	0.141026	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	28	12	0.300000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		South_Africa	Nguni	PRESENT	38	66	10	0.131579	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		South_Africa	Tuli	PRESENT	18	32	4	0.111111	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	24	45	3	0.062500	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	48	2	0.040000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	15	28	2	0.066667	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Deep_Red	PRESENT	23	38	8	0.173913	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	23	45	1	0.021739	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Barrosa	PRESENT	14	22	6	0.214286	OK
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29730070:C>T	ST3GAL4	29	29730070	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	3	1	0.250000	VERY_SMALL_N
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		South_Africa	Afrikaner	PRESENT	40	68	12	0.150000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	28	12	0.300000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		South_Africa	Nguni	PRESENT	38	65	11	0.144737	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		South_Africa	Tuli	PRESENT	19	33	5	0.131579	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Northern_Finncattle	PRESENT	22	41	3	0.068182	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	46	2	0.041667	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Holstein_Friesian	PRESENT	15	28	2	0.066667	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Deep_Red	PRESENT	23	39	7	0.152174	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Dutch_Belted	PRESENT	23	45	1	0.021739	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Barrosa	PRESENT	14	23	5	0.178571	OK
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29730119:G>T	ST3GAL4	29	29730119	G	T	missense_variant		Europe	Mertolenga	PRESENT	2	3	1	0.250000	VERY_SMALL_N
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	67	11	0.141026	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	19	27	11	0.289474	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		South_Africa	Nguni	PRESENT	40	69	11	0.137500	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		South_Africa	Tuli	PRESENT	18	32	4	0.111111	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	25	47	3	0.060000	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	46	2	0.041667	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	15	28	2	0.066667	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Deep_Red	PRESENT	24	40	8	0.166667	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	23	45	1	0.021739	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Barrosa	PRESENT	14	23	5	0.178571	OK
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29730201:C>T	ST3GAL4	29	29730201	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	3	1	0.250000	VERY_SMALL_N
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		South_Africa	Afrikaner	PRESENT	36	72	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29731343:A>C	ST3GAL4	29	29731343	A	C	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		South_Africa	Afrikaner	PRESENT	36	72	0	0.000000	OK
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+29:29732068:C>A	ST3GAL4	29	29732068	C	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		South_Africa	Afrikaner	PRESENT	40	80	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Holstein_Friesian	PRESENT	13	26	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29733130:A>T	ST3GAL4	29	29733130	A	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	21	42	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29733170:A>G	ST3GAL4	29	29733170	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Dutch_Belted	PRESENT	21	42	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+29:29733173:C>A	ST3GAL4	29	29733173	C	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+29:29738209:G>T	ST3GAL4	29	29738209	G	T	stop_lost		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	37	73	1	0.013514	OK
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	18	35	1	0.027778	OK
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		South_Africa	Nguni	PRESENT	38	76	0	0.000000	OK
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+5:88154574:C>T	CMAS	5	88154574	C	T	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		South_Africa	Afrikaner	PRESENT	38	76	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		South_Africa	Nguni	PRESENT	39	77	1	0.012821	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Holstein_Friesian	PRESENT	13	26	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Dutch_Belted	PRESENT	21	42	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+5:88154673:C>A	CMAS	5	88154673	C	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		South_Africa	Nguni	PRESENT	38	76	0	0.000000	OK
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+5:88157138:C>T	CMAS	5	88157138	C	T	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		South_Africa	Afrikaner	ABSENT_AFTER_QC	38	76	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		South_Africa	Bonsmara	ABSENT_AFTER_QC	17	34	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		South_Africa	Nguni	ABSENT_AFTER_QC	34	66	2	0.029412	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		South_Africa	Tuli	ABSENT_AFTER_QC	18	36	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Northern_Finncattle	PRESENT	22	44	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Eastern_Finncattle	PRESENT	19	38	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Dutch_Friesian	PRESENT	21	42	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Barrosa	PRESENT	14	28	0	0.000000	OK
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+5:88162466:C>A	CMAS	5	88162466	C	A	stop_gained		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Northern_Finncattle	PRESENT	21	42	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+7:100037757:T>C	ST8SIA4	7	100037757	T	C	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	22	44	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	23	46	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	21	42	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	18	36	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+7:100094969:C>T	ST8SIA4	7	100094969	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		South_Africa	Afrikaner	PRESENT	39	78	0	0.000000	OK
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		South_Africa	Nguni	PRESENT	39	78	0	0.000000	OK
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+7:100094984:G>A	ST8SIA4	7	100094984	G	A	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		South_Africa	Afrikaner	PRESENT	38	75	1	0.013158	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		South_Africa	Bonsmara	PRESENT	19	37	1	0.026316	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		South_Africa	Nguni	PRESENT	38	76	0	0.000000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		South_Africa	Tuli	PRESENT	20	40	0	0.000000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Northern_Finncattle	PRESENT	25	50	0	0.000000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	23	5	0.178571	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Deep_Red	PRESENT	24	41	7	0.145833	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Dutch_Belted	PRESENT	22	41	3	0.068182	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Dutch_Friesian	PRESENT	18	31	5	0.138889	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	40	4	0.090909	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	16	23	9	0.281250	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Barrosa	PRESENT	14	21	7	0.250000	OK
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+7:100129363:T>G	ST8SIA4	7	100129363	T	G	missense_variant		Europe	Mertolenga	PRESENT	1	2	0	0.000000	VERY_SMALL_N
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		South_Africa	Afrikaner	NOT_DETECTED_IN_SOURCE					NA
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		South_Africa	Bonsmara	NOT_DETECTED_IN_SOURCE					NA
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		South_Africa	Nguni	NOT_DETECTED_IN_SOURCE					NA
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		South_Africa	Tuli	NOT_DETECTED_IN_SOURCE					NA
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Deep_Red	PRESENT	23	46	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	41	1	0.023810	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Mirandesa	PRESENT	3	6	0	0.000000	VERY_SMALL_N
+8:60497894:G>A	GNE	8	60497894	G	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		South_Africa	Afrikaner	PRESENT	39	75	3	0.038462	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		South_Africa	Bonsmara	PRESENT	19	35	3	0.078947	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		South_Africa	Nguni	PRESENT	39	68	10	0.128205	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		South_Africa	Tuli	PRESENT	20	32	8	0.200000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Deep_Red	PRESENT	21	42	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Dutch_Friesian	PRESENT	23	45	1	0.021739	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+8:63193083:C>G	NANS	8	63193083	C	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		South_Africa	Afrikaner	PRESENT	33	66	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Northern_Finncattle	PRESENT	25	50	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Dutch_Friesian	PRESENT	22	44	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	19	37	1	0.026316	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+8:63196654:C>A	NANS	8	63196654	C	A	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		South_Africa	Afrikaner	PRESENT	33	66	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		South_Africa	Bonsmara	PRESENT	19	38	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		South_Africa	Nguni	PRESENT	40	79	1	0.012500	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Western_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Dutch_Belted	PRESENT	23	46	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Dutch_Friesian	PRESENT	22	44	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	20	39	1	0.025000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+8:63196663:A>G	NANS	8	63196663	A	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		South_Africa	Afrikaner	ABSENT_AFTER_QC	32	60	4	0.062500	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		South_Africa	Bonsmara	ABSENT_AFTER_QC	18	34	2	0.055556	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		South_Africa	Nguni	ABSENT_AFTER_QC	36	69	3	0.041667	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		South_Africa	Tuli	ABSENT_AFTER_QC	19	38	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Western_Finncattle	PRESENT	25	50	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Eastern_Finncattle	PRESENT	24	48	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Dutch_Friesian	PRESENT	23	46	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	22	44	0	0.000000	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Groningen_White_Headed	PRESENT	21	39	3	0.071429	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Barrosa	PRESENT	15	29	1	0.033333	OK
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+8:63212470:C>G	NANS	8	63212470	C	G	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	35	45	25	0.357143	OK
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	17	27	7	0.205882	OK
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		South_Africa	Nguni	PRESENT	38	57	19	0.250000	OK
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		South_Africa	Tuli	PRESENT	19	27	11	0.289474	OK
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+9:62416954:C>T	SLC35A1	9	62416954	C	T	missense_variant		Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		South_Africa	Afrikaner	PRESENT	38	30	46	0.605263	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		South_Africa	Bonsmara	PRESENT	19	18	20	0.526316	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		South_Africa	Nguni	PRESENT	37	27	47	0.635135	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		South_Africa	Tuli	PRESENT	18	15	21	0.583333	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Western_Finncattle	PRESENT	24	24	24	0.500000	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Northern_Finncattle	PRESENT	23	14	32	0.695652	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Eastern_Finncattle	PRESENT	25	36	14	0.280000	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Holstein_Friesian	PRESENT	14	14	14	0.500000	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Deep_Red	PRESENT	22	24	20	0.454545	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Dutch_Belted	PRESENT	21	3	39	0.928571	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Dutch_Friesian	PRESENT	22	14	30	0.681818	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Meuse_Rhine_Yssel	PRESENT	23	22	24	0.521739	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Groningen_White_Headed	PRESENT	19	24	14	0.368421	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Barrosa	PRESENT	14	21	7	0.250000	OK
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Mirandesa	PRESENT	4	7	1	0.125000	VERY_SMALL_N
+9:62441325:C>T	SLC35A1	9	62441325	C	T	missense_variant		Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	South_Africa	Afrikaner	PRESENT	35	70	0	0.000000	OK
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	South_Africa	Bonsmara	PRESENT	20	40	0	0.000000	OK
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	South_Africa	Nguni	PRESENT	39	77	1	0.012821	OK
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	South_Africa	Tuli	PRESENT	17	34	0	0.000000	OK
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+23:32739285:A>G	CMAH	23	32739285	A	G	missense_variant	N386S	Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	South_Africa	Afrikaner	PRESENT	37	74	0	0.000000	OK
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	South_Africa	Bonsmara	PRESENT	20	39	1	0.025000	OK
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	South_Africa	Nguni	PRESENT	40	80	0	0.000000	OK
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	South_Africa	Tuli	PRESENT	18	36	0	0.000000	OK
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Western_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Northern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Eastern_Finncattle	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Holstein_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Deep_Red	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Dutch_Belted	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Dutch_Friesian	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Meuse_Rhine_Yssel	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Groningen_White_Headed	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Barrosa	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Mirandesa	NOT_DETECTED_IN_SOURCE					NA
+23:32739292:C>G	CMAH	23	32739292	C	G	missense_variant	I388M	Europe	Mertolenga	NOT_DETECTED_IN_SOURCE					NA
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	South_Africa	Afrikaner	PRESENT	32	64	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	South_Africa	Bonsmara	PRESENT	20	39	1	0.025000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	South_Africa	Nguni	PRESENT	37	74	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	South_Africa	Tuli	PRESENT	19	38	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Western_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Northern_Finncattle	PRESENT	24	48	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Eastern_Finncattle	PRESENT	25	50	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Holstein_Friesian	PRESENT	15	30	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Deep_Red	PRESENT	24	48	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Dutch_Belted	PRESENT	22	44	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Dutch_Friesian	PRESENT	22	44	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Meuse_Rhine_Yssel	PRESENT	23	46	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Groningen_White_Headed	PRESENT	20	40	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Barrosa	PRESENT	15	30	0	0.000000	OK
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32743918:C>T	CMAH	23	32743918	C	T	missense_variant	P424L	Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	South_Africa	Afrikaner	ABSENT_AFTER_QC	29	56	2	0.034483	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	South_Africa	Bonsmara	ABSENT_AFTER_QC	19	38	0	0.000000	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	South_Africa	Nguni	ABSENT_AFTER_QC	33	61	5	0.075758	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	South_Africa	Tuli	ABSENT_AFTER_QC	17	31	3	0.088235	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Western_Finncattle	PRESENT	21	35	7	0.166667	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Northern_Finncattle	PRESENT	23	45	1	0.021739	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Eastern_Finncattle	PRESENT	23	46	0	0.000000	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Holstein_Friesian	PRESENT	14	28	0	0.000000	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Deep_Red	PRESENT	23	45	1	0.021739	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Dutch_Belted	PRESENT	21	40	2	0.047619	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Dutch_Friesian	PRESENT	24	48	0	0.000000	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Meuse_Rhine_Yssel	PRESENT	23	40	6	0.130435	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Groningen_White_Headed	PRESENT	21	42	0	0.000000	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Barrosa	PRESENT	12	20	4	0.166667	OK
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Mirandesa	PRESENT	4	8	0	0.000000	VERY_SMALL_N
+23:32745866:T>A	CMAH	23	32745866	T	A	missense_variant	F512Y	Europe	Mertolenga	PRESENT	2	4	0	0.000000	VERY_SMALL_N
