@@ -614,3 +614,197 @@ protein.
 No evolutionary conservation score has yet been assigned. H5E establishes only
 whether sufficient homologous residue coverage exists for subsequent
 phylogeny-aware conservation estimation.
+
+## H5F — Phylogeny-aware evolutionary conservation scoring
+
+### H5F.1 — Rate4Site implementation and inference settings
+
+Residue-level evolutionary rates were estimated using Rate4Site version 3.0.0
+(Ubuntu package 3.0.0-8).
+
+Rate4Site was applied to the validated MAFFT multiple-sequence alignments
+generated in H5D. The analysis did not perform a new homologue search or replace
+the frozen comparative sequence set.
+
+The production analysis used:
+
+- JTT amino-acid substitution model
+- empirical Bayesian site-rate inference
+- Gamma prior distribution with 16 discrete categories
+- maximum-likelihood branch-length optimization using a Gamma model
+- a phylogenetic tree inferred by Rate4Site from each validated alignment
+
+For Rate4Site output, lower relative evolutionary-rate scores indicate slower
+evolution and therefore stronger evolutionary conservation. Higher scores
+indicate faster evolution and weaker evolutionary conservation.
+
+The permanent production runner is:
+
+`scripts/H5_run_rate4site.py`
+
+Rate4Site was run independently for 14 validated alignment tracks:
+
+- 13 Ensembl release-110 bovine-reference gene alignments
+- 1 separate CMAH RefSeq XP_024839792.1 alignment
+
+For each track, the workflow retained:
+
+- residue-level Rate4Site output
+- the inferred phylogenetic tree
+- the Rate4Site execution log
+
+These files are stored under:
+
+`results/H5/rate4site/`
+
+All 14 production runs completed successfully.
+
+The execution logs independently confirmed for every run:
+
+- empirical Bayesian rate inference
+- JTT probabilistic model
+- ML branch-length optimization using a Gamma model
+
+### H5F.2 — Production coordinate validation
+
+Rate4Site output positions were validated against the exact bovine reference
+protein used to construct each alignment.
+
+Expected and observed residue counts were identical for all 14 tracks:
+
+- CMAH Ensembl110: 383
+- CMAS: 434
+- GNE: 722
+- NANP: 248
+- NANS: 359
+- NEU1: 416
+- NEU3: 428
+- SLC35A1: 337
+- ST3GAL1: 339
+- ST3GAL4: 395
+- ST6GAL1: 405
+- ST8SIA2: 375
+- ST8SIA4: 359
+- CMAH RefSeq XP_024839792.1: 577
+
+For every track, Rate4Site positions formed a complete consecutive coordinate
+series from residue 1 through the expected terminal bovine residue.
+
+Production coordinate validation:
+
+- alignment tracks checked: 14
+- errors: 0
+- status: PASS
+
+This validation confirms that Rate4Site residue positions can be mapped directly
+to the validated bovine protein coordinates used in the candidate evidence
+tables.
+
+### H5F.3 — Mapping conservation evidence to the 62 candidates
+
+The permanent candidate-level mapper is:
+
+`scripts/H5_map_rate4site_scores.py`
+
+The mapper combines:
+
+`results/H5/H5_candidate_site_coverage.tsv`
+
+with the corresponding production Rate4Site outputs.
+
+For every ASSESSABLE candidate, the mapper independently validates:
+
+1. the correct protein-coordinate system;
+2. the correct Rate4Site alignment track;
+3. the candidate protein position;
+4. agreement between the Phase G/H5 reference amino acid and the Rate4Site
+   reference amino acid;
+5. agreement between the independently calculated H5 comparative non-gap
+   coverage and Rate4Site MSA DATA.
+
+The four manually rescued CMAH candidates at positions 386, 388, 424 and 512
+are mapped exclusively to the separate RefSeq XP_024839792.1 Rate4Site track.
+They are not mapped to the 383-aa Ensembl CMAH protein.
+
+The authoritative candidate-level conservation evidence table is:
+
+`results/H5/H5_62_variant_conservation_evidence.tsv`
+
+Final candidate classification:
+
+- 57 ASSESSABLE candidates with retained Rate4Site scores
+- 4 NOT_ASSESSABLE candidates with no interpreted conservation score
+- 1 STOP_LOST_SPECIAL_CASE with no ordinary residue conservation score
+- 62 total candidates
+- validation errors: 0
+
+The four NOT_ASSESSABLE sites are:
+
+- NEU1 L275: 0/16 comparative orthologues with a non-gap residue
+- ST3GAL4 P4: 4/18
+- ST3GAL4 R16: 2/18
+- ST3GAL4 C38: 5/18
+
+These sites remain below the predefined minimum of six non-gap comparative
+orthologues and therefore do not receive interpretable residue-level
+conservation evidence even if Rate4Site itself emits a numerical value.
+
+The ST3GAL4 stop-lost candidate at reference stop position 396 is retained as
+STOP_LOST_SPECIAL_CASE. Because the affected reference state is the terminal
+stop rather than an amino-acid residue, ordinary residue-level Rate4Site
+conservation is not assigned.
+
+### H5F.4 — Conservation-score interpretation safeguard
+
+Rate4Site scores are retained as continuous relative evolutionary-rate
+estimates.
+
+No arbitrary high/moderate/low conservation categories are assigned at this
+stage. Lower scores are interpreted as stronger relative evolutionary
+constraint and higher scores as faster relative evolution, but conservation
+evidence alone is not treated as proof of functional impact, pathogenicity,
+positive selection, or causal phenotypic effect.
+
+Across the 57 assessable candidate sites, observed Rate4Site scores ranged from
+-0.9582 to 3.4373.
+
+The ten slowest-evolving candidate sites included:
+
+- ST8SIA4 I73: -0.9582
+- ST8SIA2 R129: -0.9269
+- ST8SIA4 R203: -0.8719
+- CMAS E128: -0.8396
+- NEU3 E94: -0.6812
+- CMAH I388: -0.6392
+- CMAH P424: -0.5806
+- NANS P302: -0.5498
+- ST8SIA2 S63: -0.5438
+- NEU3 F159: -0.5026
+
+These rankings describe relative evolutionary constraint among the assessable
+candidate sites and are not, by themselves, functional classifications.
+
+Exploratory comparison with the independent H4 SIFT evidence showed that eight
+conservation-assessable variants had deleterious-direction SIFT predictions.
+Notable concordant examples included ST8SIA2 R129, NEU3 E94, NEU3 F159 and
+ST3GAL4 R203. This comparison is exploratory and is not used as an arithmetic
+composite score.
+
+H5 conservation evidence will subsequently be integrated with functional
+prediction, known protein/domain context, population and breed allele
+frequencies, and genome-wide population-genetic evidence during candidate
+prioritisation.
+
+### H5F.5 — Implementation note
+
+During development of the candidate-level Rate4Site parser, the first mapping
+attempt stopped before output generation because the parser incorrectly
+required at least seven whitespace-delimited fields per Rate4Site residue row.
+Rate4Site 3.0.0 produces six fields:
+
+POS, SEQ, SCORE, QQ-INTERVAL, STD and MSA DATA.
+
+The parser requirement was corrected from seven to six fields. The corrected
+script passed syntax validation and subsequently mapped all 62 candidates with
+zero validation errors. This parser issue did not alter the underlying
+Rate4Site calculations or any biological result.
