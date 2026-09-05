@@ -1,0 +1,63 @@
+Gene	Protein_change	Chromosome	Position	REF	ALT	Consequence	Conservation_status	Rate4Site_score	Comparative_non_gap	Comparative_total	SIFT_category
+ST6GAL1	T173S	1	80233404	T	A	missense_variant	ASSESSABLE	0.7355	17	18	tolerated
+ST6GAL1	Y165F	1	80233427	T	A	missense_variant	ASSESSABLE	0.3908	17	18	tolerated
+ST6GAL1	T153S	1	80233464	T	A	missense_variant	ASSESSABLE	-0.2625	17	18	tolerated
+ST6GAL1	K28R	1	80233838	T	C	missense_variant	ASSESSABLE	-0.0869	16	18	tolerated_low_confidence
+NANP	I47V	13	10704259	A	G	missense_variant	ASSESSABLE	2.1483	17	17	tolerated
+NANP	V227L	13	10704799	G	C	missense_variant	ASSESSABLE	0.7110	17	17	tolerated
+ST3GAL1	R102K	14	7943747	G	A	missense_variant&splice_region_variant	ASSESSABLE	0.6491	17	17	tolerated
+ST3GAL1	R105Q	14	7943756	G	A	missense_variant	ASSESSABLE	-0.3419	17	17	tolerated
+NEU3	E94K	15	54265508	G	A	missense_variant	ASSESSABLE	-0.6812	16	16	deleterious
+NEU3	Y136H	15	54265634	T	C	missense_variant	ASSESSABLE	1.9826	16	16	tolerated
+NEU3	F159C	15	54265704	T	G	missense_variant	ASSESSABLE	-0.5026	16	16	deleterious
+NEU3	S309G	15	54266153	A	G	missense_variant	ASSESSABLE	0.8994	15	16	tolerated
+NEU3	A356S	15	54266294	G	T	missense_variant	ASSESSABLE	0.5734	16	16	tolerated
+NEU3	C416Y	15	54266475	G	A	missense_variant	ASSESSABLE	1.4693	15	16	tolerated
+ST8SIA2	R129Q	21	14547653	C	T	missense_variant	ASSESSABLE	-0.9269	18	18	deleterious
+ST8SIA2	S63L	21	14553398	G	A	missense_variant	ASSESSABLE	-0.5438	18	18	tolerated
+NEU1	I8M	23	27494657	A	G	missense_variant	ASSESSABLE	2.6550	10	16	deleterious_low_confidence
+NEU1	K13T	23	27494671	A	C	missense_variant	ASSESSABLE	-0.0635	14	16	tolerated_low_confidence
+NEU1	P254S	23	27497208	C	T	missense_variant	ASSESSABLE	0.4956	16	16	tolerated
+NEU1	L275P	23	27497374	T	C	missense_variant&splice_region_variant	NOT_ASSESSABLE		0	16	deleterious
+NEU1	L294I	23	27497502	C	A	missense_variant	ASSESSABLE	0.2745	15	16	tolerated
+NEU1	N380S	23	27497874	A	G	missense_variant	ASSESSABLE	0.2300	15	16	tolerated
+NEU1	V381M	23	27497876	G	A	missense_variant	ASSESSABLE	1.6342	15	16	tolerated
+NEU1	D382G	23	27497880	A	G	missense_variant	ASSESSABLE	2.2536	12	16	tolerated
+NEU1	Q400H	23	27497935	G	C	missense_variant	ASSESSABLE	1.0716	15	16	tolerated
+CMAH	K107E	23	32721570	A	G	missense_variant	ASSESSABLE	0.4976	14	15	tolerated
+CMAH	A210S	23	32727639	G	T	missense_variant	ASSESSABLE	0.2964	15	15	tolerated
+CMAH	N232K	23	32727707	T	A	missense_variant	ASSESSABLE	1.1839	15	15	tolerated
+CMAH	N242S	23	32727736	A	G	missense_variant	ASSESSABLE	0.3811	15	15	deleterious
+CMAH	H381Y	23	32731961	C	T	missense_variant	ASSESSABLE	-0.2198	15	15	tolerated_low_confidence
+CMAH	T382M	23	32731965	C	T	missense_variant	ASSESSABLE	0.0272	15	15	tolerated_low_confidence
+ST3GAL4	P4L	29	29729953	C	T	missense_variant	NOT_ASSESSABLE		4	18	deleterious_low_confidence
+ST3GAL4	R16Q	29	29729989	G	A	missense_variant	NOT_ASSESSABLE		2	18	deleterious_low_confidence
+ST3GAL4	C38R	29	29730054	T	C	missense_variant	NOT_ASSESSABLE		5	18	deleterious_low_confidence
+ST3GAL4	P43L	29	29730070	C	T	missense_variant	ASSESSABLE	0.0405	7	18	deleterious_low_confidence
+ST3GAL4	L59F	29	29730119	G	T	missense_variant	ASSESSABLE	3.0177	8	18	tolerated_low_confidence
+ST3GAL4	R87C	29	29730201	C	T	missense_variant	ASSESSABLE	0.4572	18	18	tolerated_low_confidence
+ST3GAL4	Y190S	29	29731343	A	C	missense_variant	ASSESSABLE	-0.1249	18	18	tolerated
+ST3GAL4	R203S	29	29732068	C	A	missense_variant	ASSESSABLE	-0.2956	18	18	deleterious
+ST3GAL4	Y320F	29	29733130	A	T	missense_variant	ASSESSABLE	0.3094	18	18	tolerated
+ST3GAL4	I333M	29	29733170	A	G	missense_variant	ASSESSABLE	0.3594	17	18	tolerated
+ST3GAL4	H334Q	29	29733173	C	A	missense_variant	ASSESSABLE	2.1621	16	18	tolerated
+ST3GAL4	*396L	29	29738209	G	T	stop_lost	STOP_LOST_SPECIAL_CASE			18	Not applicable
+CMAS	V428I	5	88154574	C	T	missense_variant	ASSESSABLE	0.8131	16	16	tolerated
+CMAS	A395S	5	88154673	C	A	missense_variant	ASSESSABLE	2.4150	16	16	tolerated
+CMAS	V305I	5	88157138	C	T	missense_variant	ASSESSABLE	1.0905	16	16	tolerated
+CMAS	E128*	5	88162466	C	A	stop_gained	ASSESSABLE	-0.8396	16	16	Not applicable
+ST8SIA4	K305E	7	100037757	T	C	missense_variant	ASSESSABLE	0.4005	17	18	tolerated
+ST8SIA4	R203Q	7	100094969	C	T	missense_variant	ASSESSABLE	-0.8719	18	18	tolerated
+ST8SIA4	A198V	7	100094984	G	A	missense_variant	ASSESSABLE	-0.2217	18	18	tolerated
+ST8SIA4	I73L	7	100129363	T	G	missense_variant	ASSESSABLE	-0.9582	18	18	tolerated
+GNE	R684C	8	60497894	G	A	missense_variant	ASSESSABLE	2.7969	18	18	deleterious_low_confidence
+NANS	H16Q	8	63193083	C	G	missense_variant	ASSESSABLE	3.4373	16	17	tolerated
+NANS	A93D	8	63196654	C	A	missense_variant	ASSESSABLE	2.4029	17	17	tolerated
+NANS	K96R	8	63196663	A	G	missense_variant	ASSESSABLE	1.6498	17	17	tolerated
+NANS	P302A	8	63212470	C	G	missense_variant	ASSESSABLE	-0.5498	17	17	tolerated
+SLC35A1	V262I	9	62416954	C	T	missense_variant	ASSESSABLE	0.6479	18	18	tolerated
+SLC35A1	V29I	9	62441325	C	T	missense_variant	ASSESSABLE	1.5336	18	18	tolerated
+CMAH	N386S	23	32739285	A	G	missense_variant	ASSESSABLE	1.1338	15	15	SIFT unavailable
+CMAH	I388M	23	32739292	C	G	missense_variant	ASSESSABLE	-0.6392	15	15	SIFT unavailable
+CMAH	P424L	23	32743918	C	T	missense_variant	ASSESSABLE	-0.5806	15	15	SIFT unavailable
+CMAH	F512Y	23	32745866	T	A	missense_variant	ASSESSABLE	-0.0075	15	15	SIFT unavailable
