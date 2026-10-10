@@ -1,0 +1,3 @@
+level	input_positions	finite_positions	nonfinite_positions	negative_estimates	empirical_q999	empirical_outlier_positions	pathway_gene_positions	pathway_gene_outliers	genes_with_positions
+country	950219	949880	339	86001	0.4750185020000027	950	213	0	12
+region	950219	949880	339	182777	0.5797520820000018	950	213	0	12
