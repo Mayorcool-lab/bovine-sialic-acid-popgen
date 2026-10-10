@@ -1,0 +1,14 @@
+H7: Candidate regional Weir-Cockerham FST
+Total candidates: 62
+VCFtools eligible: 31
+NEU3 validated FST: 0.369494
+
+Status counts:
+estimated: 30
+absent_europe_record: 21
+absent_south_africa_record: 10
+not_estimable_vcftools: 1
+
+Absent variant-only VCF records were not imputed as reference.
+FST values are raw, including negative estimates.
+Every finite FST estimate was checked independently.
