@@ -1,0 +1,24 @@
+H8: Candidate-level country pairwise FST
+Samples: Finland=80, Netherlands=120, Portugal=26, South Africa=120
+Candidates: 62
+Country pairs: 6
+Candidate-pair records: 372
+
+Status counts:
+estimated: 159
+absent_country_a_cohort_vcf: 126
+not_estimable_vcftools: 57
+absent_country_b_cohort_vcf: 30
+
+Estimated counts by comparison:
+Finland__Netherlands: 28
+Finland__Portugal: 21
+Finland__South_Africa: 27
+Netherlands__Portugal: 26
+Netherlands__South_Africa: 30
+Portugal__South_Africa: 27
+
+Finite estimates independently checked within 1e-5.
+Absent cohort variant records never imputed as reference.
+Raw negative FST estimates retained.
+Country groups may be confounded by breed composition.

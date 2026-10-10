@@ -1,0 +1,347 @@
+vcf_id	ena_sample_accession	breed	country	cohort
+a1FIN1	ERS25067511	Western_Finncattle	Finland	europe
+a1FIN10	ERS25067520	Western_Finncattle	Finland	europe
+a1FIN11	ERS25067521	Western_Finncattle	Finland	europe
+a1FIN12	ERS25067522	Western_Finncattle	Finland	europe
+a1FIN13	ERS25067523	Western_Finncattle	Finland	europe
+a1FIN14	ERS25067524	Western_Finncattle	Finland	europe
+a1FIN15	ERS25067525	Western_Finncattle	Finland	europe
+a1FIN16	ERS25067526	Western_Finncattle	Finland	europe
+a1FIN17	ERS25067527	Western_Finncattle	Finland	europe
+a1FIN18	ERS25067528	Western_Finncattle	Finland	europe
+a1FIN19	ERS25067529	Western_Finncattle	Finland	europe
+a1FIN2	ERS25067512	Western_Finncattle	Finland	europe
+a1FIN20	ERS25067530	Western_Finncattle	Finland	europe
+a1FIN21	ERS25067531	Western_Finncattle	Finland	europe
+a1FIN22	ERS25067532	Western_Finncattle	Finland	europe
+a1FIN23	ERS25067533	Western_Finncattle	Finland	europe
+a1FIN24	ERS25067534	Western_Finncattle	Finland	europe
+a1FIN25	ERS25067535	Western_Finncattle	Finland	europe
+a1FIN3	ERS25067513	Western_Finncattle	Finland	europe
+a1FIN4	ERS25067514	Western_Finncattle	Finland	europe
+a1FIN5	ERS25067515	Western_Finncattle	Finland	europe
+a1FIN6	ERS25067516	Western_Finncattle	Finland	europe
+a1FIN7	ERS25067517	Western_Finncattle	Finland	europe
+a1FIN8	ERS25067518	Western_Finncattle	Finland	europe
+a1FIN9	ERS25067519	Western_Finncattle	Finland	europe
+a2FIN1	ERS25067536	Northern_Finncattle	Finland	europe
+a2FIN10	ERS25067545	Northern_Finncattle	Finland	europe
+a2FIN11	ERS25067546	Northern_Finncattle	Finland	europe
+a2FIN12	ERS25067547	Northern_Finncattle	Finland	europe
+a2FIN13	ERS25067548	Northern_Finncattle	Finland	europe
+a2FIN14	ERS25067549	Northern_Finncattle	Finland	europe
+a2FIN15	ERS25067550	Northern_Finncattle	Finland	europe
+a2FIN16	ERS25067551	Northern_Finncattle	Finland	europe
+a2FIN17	ERS25067552	Northern_Finncattle	Finland	europe
+a2FIN18	ERS25067553	Northern_Finncattle	Finland	europe
+a2FIN19	ERS25067554	Northern_Finncattle	Finland	europe
+a2FIN2	ERS25067537	Northern_Finncattle	Finland	europe
+a2FIN20	ERS25067555	Northern_Finncattle	Finland	europe
+a2FIN21	ERS25067556	Northern_Finncattle	Finland	europe
+a2FIN22	ERS25067557	Northern_Finncattle	Finland	europe
+a2FIN23	ERS25067558	Northern_Finncattle	Finland	europe
+a2FIN24	ERS25067559	Northern_Finncattle	Finland	europe
+a2FIN25	ERS25067560	Northern_Finncattle	Finland	europe
+a2FIN3	ERS25067538	Northern_Finncattle	Finland	europe
+a2FIN4	ERS25067539	Northern_Finncattle	Finland	europe
+a2FIN5	ERS25067540	Northern_Finncattle	Finland	europe
+a2FIN6	ERS25067541	Northern_Finncattle	Finland	europe
+a2FIN7	ERS25067542	Northern_Finncattle	Finland	europe
+a2FIN8	ERS25067543	Northern_Finncattle	Finland	europe
+a2FIN9	ERS25067544	Northern_Finncattle	Finland	europe
+a3FIN1	ERS25067486	Eastern_Finncattle	Finland	europe
+a3FIN10	ERS25067495	Eastern_Finncattle	Finland	europe
+a3FIN11	ERS25067496	Eastern_Finncattle	Finland	europe
+a3FIN12	ERS25067497	Eastern_Finncattle	Finland	europe
+a3FIN13	ERS25067498	Eastern_Finncattle	Finland	europe
+a3FIN14	ERS25067499	Eastern_Finncattle	Finland	europe
+a3FIN15	ERS25067500	Eastern_Finncattle	Finland	europe
+a3FIN16	ERS25067501	Eastern_Finncattle	Finland	europe
+a3FIN17	ERS25067502	Eastern_Finncattle	Finland	europe
+a3FIN18	ERS25067503	Eastern_Finncattle	Finland	europe
+a3FIN19	ERS25067504	Eastern_Finncattle	Finland	europe
+a3FIN2	ERS25067487	Eastern_Finncattle	Finland	europe
+a3FIN20	ERS25067505	Eastern_Finncattle	Finland	europe
+a3FIN21	ERS25067506	Eastern_Finncattle	Finland	europe
+a3FIN22	ERS25067507	Eastern_Finncattle	Finland	europe
+a3FIN23	ERS25067508	Eastern_Finncattle	Finland	europe
+a3FIN24	ERS25067509	Eastern_Finncattle	Finland	europe
+a3FIN25	ERS25067510	Eastern_Finncattle	Finland	europe
+a3FIN3	ERS25067488	Eastern_Finncattle	Finland	europe
+a3FIN4	ERS25067489	Eastern_Finncattle	Finland	europe
+a3FIN5	ERS25067490	Eastern_Finncattle	Finland	europe
+a3FIN6	ERS25067491	Eastern_Finncattle	Finland	europe
+a3FIN7	ERS25067492	Eastern_Finncattle	Finland	europe
+a3FIN8	ERS25067493	Eastern_Finncattle	Finland	europe
+a3FIN9	ERS25067494	Eastern_Finncattle	Finland	europe
+a4FIN1	ERS20228609	Holstein_Friesian	Finland	europe
+a4FIN2	ERS20228608	Holstein_Friesian	Finland	europe
+a4FIN3	ERS20228607	Holstein_Friesian	Finland	europe
+a4FIN4	ERS20228606	Holstein_Friesian	Finland	europe
+a4FIN5	ERS20228605	Holstein_Friesian	Finland	europe
+NL388131727	ERS25067585	Dutch_Belted	Netherlands	europe
+NL465750762	ERS25067594	Dutch_Belted	Netherlands	europe
+NL493742564	ERS25067561	Deep_Red	Netherlands	europe
+NL495713016	ERS25067608	Dutch_Friesian	Netherlands	europe
+NL520681255	ERS25067595	Dutch_Belted	Netherlands	europe
+NL521694432	ERS25067596	Dutch_Belted	Netherlands	europe
+NL524809666	ERS25067602	Dutch_Belted	Netherlands	europe
+NL529501589	ERS25067632	Groningen_White_Headed	Netherlands	europe
+NL531504040	ERS25067658	Meuse_Rhine_Yssel	Netherlands	europe
+NL536475981	ERS25067641	Groningen_White_Headed	Netherlands	europe
+NL537418901	ERS25067617	Dutch_Friesian	Netherlands	europe
+NL539757750	ERS25067562	Deep_Red	Netherlands	europe
+NL543120656	ERS25067563	Deep_Red	Netherlands	europe
+NL544367634	ERS25067667	Meuse_Rhine_Yssel	Netherlands	europe
+NL546141535	ERS25067642	Groningen_White_Headed	Netherlands	europe
+NL546273890	ERS25067618	Dutch_Friesian	Netherlands	europe
+NL547313027	ERS25067673	Meuse_Rhine_Yssel	Netherlands	europe
+NL569757634	ERS25067564	Deep_Red	Netherlands	europe
+NL569757704	ERS25067565	Deep_Red	Netherlands	europe
+NL587374761	ERS25067668	Meuse_Rhine_Yssel	Netherlands	europe
+NL592477208	ERS25067619	Dutch_Friesian	Netherlands	europe
+NL618500295	ERS25067643	Groningen_White_Headed	Netherlands	europe
+NL620113670	ERS25067675	Meuse_Rhine_Yssel	Netherlands	europe
+NL620113733	ERS25067676	Meuse_Rhine_Yssel	Netherlands	europe
+NL626712226	ERS25067678	Meuse_Rhine_Yssel	Netherlands	europe
+NL627583445	ERS25067620	Dutch_Friesian	Netherlands	europe
+NL632621572	ERS25067621	Dutch_Friesian	Netherlands	europe
+NL632621604	ERS25067622	Dutch_Friesian	Netherlands	europe
+NL632621611	ERS25067623	Dutch_Friesian	Netherlands	europe
+NL637403672	ERS25067624	Dutch_Friesian	Netherlands	europe
+NL638976726	ERS25067679	Meuse_Rhine_Yssel	Netherlands	europe
+NL638976788	ERS25067660	Meuse_Rhine_Yssel	Netherlands	europe
+NL640009267	ERS25067625	Dutch_Friesian	Netherlands	europe
+NL643409484	ERS25067626	Dutch_Friesian	Netherlands	europe
+NL645147346	ERS25067648	Groningen_White_Headed	Netherlands	europe
+NL647677528	ERS25067604	Dutch_Belted	Netherlands	europe
+NL655124830	ERS25067644	Groningen_White_Headed	Netherlands	europe
+NL656914092	ERS25067645	Groningen_White_Headed	Netherlands	europe
+NL656914186	ERS25067646	Groningen_White_Headed	Netherlands	europe
+NL660713148	ERS25067647	Groningen_White_Headed	Netherlands	europe
+NL660943163	ERS25067605	Dutch_Belted	Netherlands	europe
+NL662200387	ERS25067606	Dutch_Belted	Netherlands	europe
+NL662445197	ERS25067633	Groningen_White_Headed	Netherlands	europe
+NL662600138	ERS25067566	Deep_Red	Netherlands	europe
+NL662820015	ERS25067634	Groningen_White_Headed	Netherlands	europe
+NL662821722	ERS25067567	Deep_Red	Netherlands	europe
+NL663629398	ERS25067568	Deep_Red	Netherlands	europe
+NL669713907	ERS25067653	Holstein_Friesian	Netherlands	europe
+NL678921780	ERS25067635	Groningen_White_Headed	Netherlands	europe
+NL685200519	ERS25067607	Dutch_Belted	Netherlands	europe
+NL687130395	ERS25067569	Deep_Red	Netherlands	europe
+NL687794759	ERS25067661	Meuse_Rhine_Yssel	Netherlands	europe
+NL698682737	ERS25067609	Dutch_Friesian	Netherlands	europe
+NL699843001	ERS25067570	Deep_Red	Netherlands	europe
+NL709301671	ERS25067597	Dutch_Belted	Netherlands	europe
+NL710451608	ERS25067598	Dutch_Belted	Netherlands	europe
+NL711827088	ERS25067571	Deep_Red	Netherlands	europe
+NL715173257	ERS25067669	Meuse_Rhine_Yssel	Netherlands	europe
+NL717744163	ERS25067636	Groningen_White_Headed	Netherlands	europe
+NL722692860	ERS25067670	Meuse_Rhine_Yssel	Netherlands	europe
+NL722692910	ERS25067671	Meuse_Rhine_Yssel	Netherlands	europe
+NL724484461	ERS25067649	Groningen_White_Headed	Netherlands	europe
+NL7246754382	ERS25067627	Dutch_Friesian	Netherlands	europe
+NL730721298	ERS25067637	Groningen_White_Headed	Netherlands	europe
+NL731327870	ERS25067572	Deep_Red	Netherlands	europe
+NL731328169	ERS25067573	Deep_Red	Netherlands	europe
+NL732049627	ERS25067599	Dutch_Belted	Netherlands	europe
+NL738408033	ERS25067672	Meuse_Rhine_Yssel	Netherlands	europe
+NL741810272	ERS25067654	Holstein_Friesian	Netherlands	europe
+NL741878302	ERS25067603	Dutch_Belted	Netherlands	europe
+NL742577688	ERS25067587	Dutch_Belted	Netherlands	europe
+NL742688579	ERS25067588	Dutch_Belted	Netherlands	europe
+NL752801782	ERS25067589	Dutch_Belted	Netherlands	europe
+NL753143539	ERS25067574	Deep_Red	Netherlands	europe
+NL754452070	ERS25067590	Dutch_Belted	Netherlands	europe
+NL757715736	ERS25067628	Dutch_Friesian	Netherlands	europe
+NL757715806	ERS25067629	Dutch_Friesian	Netherlands	europe
+NL759301993	ERS25067630	Dutch_Friesian	Netherlands	europe
+NL760721032	ERS25067575	Deep_Red	Netherlands	europe
+NL761301811	ERS25067591	Dutch_Belted	Netherlands	europe
+NL761972352	ERS25067674	Meuse_Rhine_Yssel	Netherlands	europe
+NL764043264	ERS25067576	Deep_Red	Netherlands	europe
+NL764518166	ERS25067592	Dutch_Belted	Netherlands	europe
+NL765377001	ERS25067631	Dutch_Friesian	Netherlands	europe
+NL765716040	ERS25067610	Dutch_Friesian	Netherlands	europe
+NL767088857	ERS25067593	Dutch_Belted	Netherlands	europe
+NL767809304	ERS25067659	Meuse_Rhine_Yssel	Netherlands	europe
+NL8444589305	ERS25067677	Meuse_Rhine_Yssel	Netherlands	europe
+NL844578961	ERS25067611	Dutch_Friesian	Netherlands	europe
+NL844657587	ERS25067577	Deep_Red	Netherlands	europe
+NL865602832	ERS25067612	Dutch_Friesian	Netherlands	europe
+NL867612275	ERS25067650	Groningen_White_Headed	Netherlands	europe
+NL868648341	ERS25067578	Deep_Red	Netherlands	europe
+NL870906112	ERS25067680	Meuse_Rhine_Yssel	Netherlands	europe
+NL871311968	ERS25067655	Holstein_Friesian	Netherlands	europe
+NL871312240	ERS25067656	Holstein_Friesian	Netherlands	europe
+NL872720088	ERS25067613	Dutch_Friesian	Netherlands	europe
+NL877200080	ERS25067638	Groningen_White_Headed	Netherlands	europe
+NL877322308	ERS25067651	Groningen_White_Headed	Netherlands	europe
+NL885314870	ERS25067614	Dutch_Friesian	Netherlands	europe
+NL890977619	ERS25067615	Dutch_Friesian	Netherlands	europe
+NL893565936	ERS25067652	Groningen_White_Headed	Netherlands	europe
+NL894104329	ERS25067662	Meuse_Rhine_Yssel	Netherlands	europe
+NL895577368	ERS25067600	Dutch_Belted	Netherlands	europe
+NL895949442	ERS25067579	Deep_Red	Netherlands	europe
+NL897743947	ERS25067580	Deep_Red	Netherlands	europe
+NL916427526	ERS25067601	Dutch_Belted	Netherlands	europe
+NL923771012	ERS25067663	Meuse_Rhine_Yssel	Netherlands	europe
+NL924693623	ERS25067664	Meuse_Rhine_Yssel	Netherlands	europe
+NL924693692	ERS25067665	Meuse_Rhine_Yssel	Netherlands	europe
+NL925357148	ERS25067581	Deep_Red	Netherlands	europe
+NL929557317	ERS25067582	Deep_Red	Netherlands	europe
+NL929557526	ERS25067583	Deep_Red	Netherlands	europe
+NL933242535	ERS25067639	Groningen_White_Headed	Netherlands	europe
+NL938278148	ERS25067586	Dutch_Belted	Netherlands	europe
+NL938886763	ERS25067657	Holstein_Friesian	Netherlands	europe
+NL939112171	ERS25067666	Meuse_Rhine_Yssel	Netherlands	europe
+NL946905230	ERS25067616	Dutch_Friesian	Netherlands	europe
+NL946922866	ERS25067584	Deep_Red	Netherlands	europe
+NL947529769	ERS25067640	Groningen_White_Headed	Netherlands	europe
+PT113778691	ERS25067690	Barrosa	Portugal	europe
+PT116842186	ERS20228812	Holstein_Friesian	Portugal	europe
+PT117509982	ERS25067691	Barrosa	Portugal	europe
+PT117564474	ERS25067692	Barrosa	Portugal	europe
+PT119439232	ERS25067750	Mirandesa	Portugal	europe
+PT165837495	ERS20228811	Holstein_Friesian	Portugal	europe
+PT313778812	ERS25067697	Barrosa	Portugal	europe
+PT318119245	ERS25067682	Barrosa	Portugal	europe
+PT319282684	ERS25067720	Mertolenga	Portugal	europe
+PT414074199	ERS25067700	Barrosa	Portugal	europe
+PT417428272	ERS25067756	Mirandesa	Portugal	europe
+PT514615112	ERS20228810	Holstein_Friesian	Portugal	europe
+PT517641612	ERS20228809	Holstein_Friesian	Portugal	europe
+PT518220889	ERS20228808	Holstein_Friesian	Portugal	europe
+PT615522544	ERS25067704	Barrosa	Portugal	europe
+PT616323039	ERS25067705	Barrosa	Portugal	europe
+PT617428851	ERS25067706	Barrosa	Portugal	europe
+PT617508980	ERS25067707	Barrosa	Portugal	europe
+PT714041451	ERS25067708	Barrosa	Portugal	europe
+PT718161407	ERS25067685	Barrosa	Portugal	europe
+PT81549344	ERS25067731	Mertolenga	Portugal	europe
+PT817416012	ERS25067740	Mirandesa	Portugal	europe
+PT819588441	ERS25067743	Mirandesa	Portugal	europe
+PT822533407	ERS25067687	Barrosa	Portugal	europe
+PT918119501	ERS25067688	Barrosa	Portugal	europe
+PT922126620	ERS25067689	Barrosa	Portugal	europe
+AFR17	ERS25076658	Afrikaner	South Africa	south_africa
+AFR26	ERS25076667	Afrikaner	South Africa	south_africa
+AFR27	ERS25076668	Afrikaner	South Africa	south_africa
+AFR28	ERS25076669	Afrikaner	South Africa	south_africa
+AFR29	ERS25076670	Afrikaner	South Africa	south_africa
+AFR30	ERS25076671	Afrikaner	South Africa	south_africa
+AFR31	ERS25076672	Afrikaner	South Africa	south_africa
+AFR32	ERS25076673	Afrikaner	South Africa	south_africa
+AFR33	ERS25076674	Afrikaner	South Africa	south_africa
+AFR34	ERS25076675	Afrikaner	South Africa	south_africa
+AFR35	ERS25076676	Afrikaner	South Africa	south_africa
+AFR18	ERS25076659	Afrikaner	South Africa	south_africa
+AFR36	ERS25076677	Afrikaner	South Africa	south_africa
+AFR37	ERS25076678	Afrikaner	South Africa	south_africa
+AFR38	ERS25076679	Afrikaner	South Africa	south_africa
+AFR39	ERS25076680	Afrikaner	South Africa	south_africa
+AFR40	ERS25076681	Afrikaner	South Africa	south_africa
+Afrikaner1	ERS25076682	Afrikaner	South Africa	south_africa
+Afrikaner10	ERS25076683	Afrikaner	South Africa	south_africa
+Afrikaner11	ERS25076684	Afrikaner	South Africa	south_africa
+Afrikaner12	ERS25076685	Afrikaner	South Africa	south_africa
+Afrikaner13	ERS25076686	Afrikaner	South Africa	south_africa
+AFR19	ERS25076660	Afrikaner	South Africa	south_africa
+Afrikaner14	ERS25076687	Afrikaner	South Africa	south_africa
+Afrikaner15	ERS25076688	Afrikaner	South Africa	south_africa
+Afrikaner16	ERS25076689	Afrikaner	South Africa	south_africa
+Afrikaner2	ERS25076690	Afrikaner	South Africa	south_africa
+Afrikaner3	ERS25076691	Afrikaner	South Africa	south_africa
+Afrikaner4	ERS25076692	Afrikaner	South Africa	south_africa
+Afrikaner5	ERS25076693	Afrikaner	South Africa	south_africa
+Afrikaner6	ERS25076694	Afrikaner	South Africa	south_africa
+Afrikaner7	ERS25076695	Afrikaner	South Africa	south_africa
+Afrikaner8	ERS25076696	Afrikaner	South Africa	south_africa
+AFR20	ERS25076661	Afrikaner	South Africa	south_africa
+Afrikaner9	ERS25076697	Afrikaner	South Africa	south_africa
+AFR21	ERS25076662	Afrikaner	South Africa	south_africa
+AFR22	ERS25076663	Afrikaner	South Africa	south_africa
+AFR23	ERS25076664	Afrikaner	South Africa	south_africa
+AFR24	ERS25076665	Afrikaner	South Africa	south_africa
+AFR25	ERS25076666	Afrikaner	South Africa	south_africa
+BON11	ERS25076698	Bonsmara	South Africa	south_africa
+BON20	ERS25076707	Bonsmara	South Africa	south_africa
+Bonsmara1	ERS25076708	Bonsmara	South Africa	south_africa
+Bonsmara10	ERS25076709	Bonsmara	South Africa	south_africa
+Bonsmara2	ERS25076710	Bonsmara	South Africa	south_africa
+Bonsmara3	ERS25076711	Bonsmara	South Africa	south_africa
+Bonsmara4	ERS25076712	Bonsmara	South Africa	south_africa
+Bonsmara5	ERS25076713	Bonsmara	South Africa	south_africa
+Bonsmara6	ERS25076714	Bonsmara	South Africa	south_africa
+Bonsmara7	ERS25076715	Bonsmara	South Africa	south_africa
+Bonsmara8	ERS25076716	Bonsmara	South Africa	south_africa
+BON12	ERS25076699	Bonsmara	South Africa	south_africa
+Bonsmara9	ERS25076717	Bonsmara	South Africa	south_africa
+BON13	ERS25076700	Bonsmara	South Africa	south_africa
+BON14	ERS25076701	Bonsmara	South Africa	south_africa
+BON15	ERS25076702	Bonsmara	South Africa	south_africa
+BON16	ERS25076703	Bonsmara	South Africa	south_africa
+BON17	ERS25076704	Bonsmara	South Africa	south_africa
+BON18	ERS25076705	Bonsmara	South Africa	south_africa
+BON19	ERS25076706	Bonsmara	South Africa	south_africa
+NGI25	ERS25076718	Nguni	South Africa	south_africa
+NGI34	ERS25076727	Nguni	South Africa	south_africa
+NGI35	ERS25076728	Nguni	South Africa	south_africa
+NGI36	ERS25076729	Nguni	South Africa	south_africa
+NGI37	ERS25076730	Nguni	South Africa	south_africa
+NGI38	ERS25076731	Nguni	South Africa	south_africa
+NGI39	ERS25076732	Nguni	South Africa	south_africa
+NGI40	ERS25076733	Nguni	South Africa	south_africa
+Nguni1	ERS25076734	Nguni	South Africa	south_africa
+Nguni10	ERS25076735	Nguni	South Africa	south_africa
+Nguni11	ERS25076736	Nguni	South Africa	south_africa
+NGI26	ERS25076719	Nguni	South Africa	south_africa
+Nguni12	ERS25076737	Nguni	South Africa	south_africa
+Nguni13	ERS25076738	Nguni	South Africa	south_africa
+Nguni14	ERS25076739	Nguni	South Africa	south_africa
+Nguni15	ERS25076740	Nguni	South Africa	south_africa
+Nguni16	ERS25076741	Nguni	South Africa	south_africa
+Nguni17	ERS25076742	Nguni	South Africa	south_africa
+Nguni18	ERS25076743	Nguni	South Africa	south_africa
+Nguni19	ERS25076744	Nguni	South Africa	south_africa
+Nguni2	ERS25076745	Nguni	South Africa	south_africa
+Nguni20	ERS25076746	Nguni	South Africa	south_africa
+NGI27	ERS25076720	Nguni	South Africa	south_africa
+Nguni21	ERS25076747	Nguni	South Africa	south_africa
+Nguni22	ERS25076748	Nguni	South Africa	south_africa
+Nguni23	ERS25076749	Nguni	South Africa	south_africa
+Nguni24	ERS25076750	Nguni	South Africa	south_africa
+Nguni3	ERS25076751	Nguni	South Africa	south_africa
+Nguni4	ERS25076752	Nguni	South Africa	south_africa
+Nguni5	ERS25076753	Nguni	South Africa	south_africa
+Nguni6	ERS25076754	Nguni	South Africa	south_africa
+Nguni7	ERS25076755	Nguni	South Africa	south_africa
+Nguni8	ERS25076756	Nguni	South Africa	south_africa
+NGI28	ERS25076721	Nguni	South Africa	south_africa
+Nguni9	ERS25076757	Nguni	South Africa	south_africa
+NGI29	ERS25076722	Nguni	South Africa	south_africa
+NGI30	ERS25076723	Nguni	South Africa	south_africa
+NGI31	ERS25076724	Nguni	South Africa	south_africa
+NGI32	ERS25076725	Nguni	South Africa	south_africa
+NGI33	ERS25076726	Nguni	South Africa	south_africa
+TUL11	ERS25076758	Tuli	South Africa	south_africa
+TUL20	ERS25076767	Tuli	South Africa	south_africa
+Tuli1	ERS25076768	Tuli	South Africa	south_africa
+Tuli10	ERS25076769	Tuli	South Africa	south_africa
+Tuli2	ERS25076770	Tuli	South Africa	south_africa
+Tuli3	ERS25076771	Tuli	South Africa	south_africa
+Tuli4	ERS25076772	Tuli	South Africa	south_africa
+Tuli5	ERS25076773	Tuli	South Africa	south_africa
+Tuli6	ERS25076774	Tuli	South Africa	south_africa
+Tuli7	ERS25076775	Tuli	South Africa	south_africa
+Tuli8	ERS25076776	Tuli	South Africa	south_africa
+TUL12	ERS25076759	Tuli	South Africa	south_africa
+Tuli9	ERS25076777	Tuli	South Africa	south_africa
+TUL13	ERS25076760	Tuli	South Africa	south_africa
+TUL14	ERS25076761	Tuli	South Africa	south_africa
+TUL15	ERS25076762	Tuli	South Africa	south_africa
+TUL16	ERS25076763	Tuli	South Africa	south_africa
+TUL17	ERS25076764	Tuli	South Africa	south_africa
+TUL18	ERS25076765	Tuli	South Africa	south_africa
+TUL19	ERS25076766	Tuli	South Africa	south_africa

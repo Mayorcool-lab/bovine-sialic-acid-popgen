@@ -1,0 +1,19 @@
+H9: Candidate-level pairwise breed Weir-Cockerham FST
+Samples: 346
+Breeds: 16
+Candidate variants: 62
+Breed pairs: 120
+Candidate-pair records: 7440
+
+Status counts:
+not_estimable_vcftools: 2463
+absent_breed_a_cohort_vcf: 2168
+estimated: 2028
+absent_breed_b_cohort_vcf: 766
+insufficient_called_genotypes: 15
+
+Small-breed pair records (min breed n < 5): 1798
+Every finite FST checked independently within 1e-5.
+Absent variant-only cohort VCF records were not imputed as reference.
+Negative estimates retained. Small-breed estimates require caution.
+Holstein-Friesian pooled as one breed across its three countries.
