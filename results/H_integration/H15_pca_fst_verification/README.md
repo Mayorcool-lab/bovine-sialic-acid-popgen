@@ -128,11 +128,65 @@ The curated H12/H13 figures use the appropriately named FST files.
 
 ## Manuscript decision
 
-Use 213 pathway positions, explicitly defined by the documented
-13 gene intervals. Retain the independently verified FST
-thresholds and pathway maxima.
+Use 220 pathway-associated positions, defined by the documented
+13 gene bodies plus strand-aware 2-kb upstream extensions.
+The 213-position count applies to gene bodies alone.
+Retain the independently verified FST thresholds and pathway maxima.
 
 Treat PCA variance percentages and pairwise FST estimates as
 collaborator-reported pending supporting outputs.
 
 Do not interpret high FST values alone as evidence of selection.
+
+## Addendum: reconciliation of 213 versus 220 pathway SNP positions
+
+A subsequent independent audit resolved the difference between the
+213 gene-body SNP positions originally documented above and the
+220 pathway-associated positions reported in the manuscript.
+
+Using the 13 gene coordinates and strand annotations in
+data/reference/candidate_gene_coordinates_provisional.tsv,
+the following overlap counts were independently reproduced
+against the 950,219 genome-wide FST positions:
+
+- Gene bodies only: 213 positions.
+- Gene bodies plus 2 kb upstream, strand-aware: 220 positions.
+- Gene bodies plus 2 kb on both sides: 230 positions.
+
+The seven additional upstream positions are:
+
+| Gene | Chromosome | Position | Breed FST |
+| --- | ---: | ---: | ---: |
+| CMAS | 5 | 88170608 | 0.135474 |
+| NEU1 | 23 | 27492663 | 0.0418101 |
+| NEU1 | 23 | 27493079 | 0.0617763 |
+| NEU1 | 23 | 27494455 | 0.101666 |
+| NEU3 | 15 | 54251750 | 0.112011 |
+| ST8SIA2 | 21 | 14597504 | 0.0284394 |
+| ST8SIA4 | 7 | 100139496 | 0.114097 |
+
+For positive-strand genes, the upstream interval extends
+2,000 bp before the annotated gene start. For negative-strand
+genes, it extends 2,000 bp beyond the annotated gene end.
+
+Using the 220-position definition, all three FST scans retain
+their previously verified pathway maxima:
+
+- Breed: 0.389977.
+- Country: 0.423442.
+- Region: 0.537383.
+
+All three maxima occur at ST3GAL1, chr14:7932660.
+
+No pathway position meets the corresponding genome-wide
+empirical 99.9th-percentile threshold in any scan.
+
+Manuscript decision: retain 220 pathway-associated positions
+because the manuscript defines the pathway intervals as
+gene bodies plus 2 kb upstream.
+
+The earlier 213-position result remains correct specifically
+for gene bodies without the upstream extension.
+
+This reconciliation does not resolve the separately documented
+uncertainty concerning the original FST reference assembly.
