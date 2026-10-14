@@ -71,7 +71,10 @@ Functional prioritization does not establish experimental effects.
 
 Oluwamayowa J. Ogun developed the pathway analyses, integrated evidence,
 validated and revised analyses, and prepared manuscript outputs.
-Leke V. Aiyesa supplied the initial population-genomic analyses and inputs.
+Leke V. Aiyesa performed the initial genome-wide population-genomic analyses,
+including PCA, differentiation, diversity and Tajima's D, and supplied the
+associated scripts and outputs. Oluwamayowa J. Ogun integrated the retained
+population-genomic results with the pathway-level findings.
 Full author contributions are described in the manuscript.
 
 Citation metadata and a Zenodo DOI will accompany the archived release.
