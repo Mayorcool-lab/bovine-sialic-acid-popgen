@@ -2,7 +2,7 @@ breed	n_samples	aiyesa_n_samples	valid_sites	polymorphic_sites	aiyesa_n_sites	me
 Northern_Finncattle	25	25	4505	2572	4445	0.15340636	0.15315	0.00025636	13492	Northern_Finncattle	Finland
 Eastern_Finncattle	25	25	4505	2523	4448	0.16379841	0.16437	-0.00057159	11449	Eastern_Finncattle	Finland
 Western_Finncattle	25	25	4505	2646	4469	0.17618455	0.17646	-0.00027545	13700	Western_Finncattle	Finland
-Holstein_Friesian	15	15	4505	2185	4480	0.15153273	0.15144	9.273e-05	5481	Holstein_Friesian	Netherlands
+Holstein_Friesian	15	15	4505	2185	4480	0.15153273	0.15144	9.273e-05	5481	Holstein_Friesian	Multi-country
 Meuse_Rhine_Yssel	23	23	4505	2342	4494	0.15714462	0.15703	0.00011462	4099	Meuse_Rhine_Yssel	Netherlands
 Deep_Red	24	24	4505	2617	4485	0.15804234	0.15798	6.234e-05	7004	Deep_Red	Netherlands
 Groningen_White_Headed	21	21	4505	2242	4470	0.15848366	0.15868	-0.00019634	8137	Groningen_White_Headed	Netherlands

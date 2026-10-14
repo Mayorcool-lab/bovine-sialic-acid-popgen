@@ -14,8 +14,8 @@ ORIGINAL = ROOT / "data/external/aiyesa_popgen/pi_res_breed.txt"
 OUT = ROOT / "results/H_integration/H11_figure8"
 OUT.mkdir(parents=True, exist_ok=True)
 
-# H10 provides validated numerical estimates.
-# Aiyesa's original file provides country assignments only.
+# H10 supplies validated diversity estimates.
+# The original file supplies breed-to-country labels only.
 pi = pd.read_csv(H10, sep="\t")
 original = pd.read_csv(ORIGINAL, sep="\t")
 
@@ -40,39 +40,75 @@ assert df["Country"].notna().all()
 assert df["n_samples"].sum() == 346
 assert df["mean_pi_recomputed"].notna().all()
 
+# Holstein-Friesian includes animals sampled in three countries.
+# Change its plotting group only; do not modify its H10 estimate.
+hf_mask = (
+    df["breed"]
+    .astype(str)
+    .str.replace(r"[\s_-]+", "", regex=True)
+    .str.casefold()
+    .eq("holsteinfriesian")
+)
+
+assert hf_mask.sum() == 1, (
+    "Expected exactly one Holstein-Friesian breed row."
+)
+assert int(df.loc[hf_mask, "n_samples"].iloc[0]) == 15
+
+original_pi = df["mean_pi_recomputed"].copy()
+original_n = df["n_samples"].copy()
+
+df.loc[hf_mask, "Country"] = "Multi-country"
+
+assert df["mean_pi_recomputed"].equals(original_pi)
+assert df["n_samples"].equals(original_n)
+assert len(df) == 16
+
+country_order = [
+    "Finland",
+    "Netherlands",
+    "Portugal",
+    "Multi-country",
+    "South Africa",
+]
+
+assert set(df["Country"]) == set(country_order), (
+    f"Unexpected country categories: {sorted(df['Country'].unique())}"
+)
+
 df = df.sort_values(["Country", "mean_pi_recomputed", "breed"])
 df.to_csv(OUT / "figure8_plot_data.tsv", sep="\t", index=False)
 
-country_order = sorted(df["Country"].unique())
 positions = {country: i for i, country in enumerate(country_order)}
-
 palette = plt.get_cmap("Set2")
 colors = {
     country: palette(i)
     for i, country in enumerate(country_order)
 }
 
-fig, ax = plt.subplots(figsize=(9.5, 6.0))
+fig, ax = plt.subplots(figsize=(10.5, 6.0))
 
 for country in country_order:
     group = df.loc[df["Country"] == country]
     x = positions[country]
 
-    ax.boxplot(
-        group["mean_pi_recomputed"],
-        positions=[x],
-        widths=0.42,
-        patch_artist=True,
-        showfliers=False,
-        boxprops={
-            "facecolor": colors[country],
-            "alpha": 0.35,
-            "edgecolor": "#666666",
-        },
-        medianprops={"color": "#222222", "linewidth": 1.5},
-        whiskerprops={"color": "#666666"},
-        capprops={"color": "#666666"},
-    )
+    # A one-breed category is shown as a point, not a boxplot.
+    if len(group) > 1:
+        ax.boxplot(
+            group["mean_pi_recomputed"],
+            positions=[x],
+            widths=0.42,
+            patch_artist=True,
+            showfliers=False,
+            boxprops={
+                "facecolor": colors[country],
+                "alpha": 0.35,
+                "edgecolor": "#666666",
+            },
+            medianprops={"color": "#222222", "linewidth": 1.5},
+            whiskerprops={"color": "#666666"},
+            capprops={"color": "#666666"},
+        )
 
     group = group.reset_index(drop=True)
     count = len(group)
@@ -107,13 +143,13 @@ for country in country_order:
             )
 
 ax.set_xticks(range(len(country_order)))
-ax.set_xticklabels(country_order, fontsize=11)
+ax.set_xticklabels(country_order, fontsize=10)
 
 ax.set_ylabel(
     "Mean nucleotide diversity per ascertained SNP (π)",
     fontsize=11,
 )
-ax.set_xlabel("Country", fontsize=11)
+ax.set_xlabel("Country / sampling group", fontsize=11)
 
 ax.set_ylim(0.145, 0.205)
 ax.set_xlim(-0.55, len(country_order) - 0.35)
@@ -164,5 +200,6 @@ plt.close(fig)
 print("Figure 8 regenerated successfully")
 print(f"Breeds: {len(df)}")
 print(f"Animals: {df['n_samples'].sum()}")
-print(f"Countries: {', '.join(country_order)}")
+print(f"Sampling groups: {', '.join(country_order)}")
+print(f"Holstein-Friesian reassigned: {int(hf_mask.sum())} breed")
 print(f"Output directory: {OUT}")

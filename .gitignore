@@ -7,3 +7,6 @@ data/reference/vep_cache/
 data/reference/GCF_002263795.1_ARS-UCD1.2_genomic.gff.gz
 Aiyesa_handoff_2026/
 Aiyesa_handoff_2026.zip
+__pycache__/
+*.pyc
+*.bak
