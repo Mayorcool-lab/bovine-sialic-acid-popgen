@@ -77,4 +77,12 @@ associated scripts and outputs. Oluwamayowa J. Ogun integrated the retained
 population-genomic results with the pathway-level findings.
 Full author contributions are described in the manuscript.
 
-Citation metadata and a Zenodo DOI will accompany the archived release.
+The v1.0.0 release is archived on Zenodo:
+https://doi.org/10.5281/zenodo.23364347
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23364347.svg)](https://doi.org/10.5281/zenodo.23364347)
+
+Software citation:
+Ogun, O. J., and Aiyesa, L. V. (2026).
+Bovine Sialic Acid Population Genomics Analysis (v1.0.0).
+Zenodo. https://doi.org/10.5281/zenodo.23364347
